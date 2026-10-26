@@ -422,7 +422,7 @@
   "live": {
    "score": "0-1",
    "now": "won",
-   "ts": "2026-10-26T18:59:25Z"
+   "ts": "2026-10-26T19:09:43Z"
   }
  },
  {
@@ -581,15 +581,15 @@
   "clv": 0.0406,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "1-0",
   "close_odds": 2.057,
   "primary": true,
   "close_final": true,
   "close_lead_min": 18.1,
   "live": {
-   "score": "0-0",
-   "now": "lost",
-   "ts": "2026-10-26T18:59:25Z"
+   "score": "1-0",
+   "now": "won",
+   "ts": "2026-10-26T19:09:43Z"
   }
  },
  {
@@ -779,12 +779,12 @@
   "stake_kelly": 4.31,
   "tier": 2,
   "confirmed": true,
-  "close_p": 0.4215,
-  "clv": 0.02425,
+  "close_p": 0.42382,
+  "clv": 0.02988,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 2.372,
+  "close_odds": 2.36,
   "primary": true
  },
  {
@@ -1035,12 +1035,12 @@
   "stake_kelly": 5.86,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.42532,
-  "clv": -0.09831,
+  "close_p": 0.4124,
+  "clv": -0.12572,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 2.351,
+  "close_odds": 2.425,
   "primary": true
  },
  {

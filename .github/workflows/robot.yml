@@ -8,7 +8,7 @@ name: BetQC robot
 
 on:
   schedule:
-    - cron: "7,37 * * * *"
+    - cron: "2,17,32,47 * * * *"
   workflow_dispatch:
 
 permissions:

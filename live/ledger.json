@@ -284,11 +284,18 @@
   "clv": -0.17261,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "close_odds": 9.669,
   "tier": 1,
   "confirmed": false,
-  "primary": true
+  "primary": true,
+  "close_final": true,
+  "close_lead_min": 30.6,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-10-26T19:30:23Z"
+  }
  },
  {
   "key": "3c9d9d114c15a70a6ee35a10ea10c849|1X2|D|",
@@ -380,11 +387,18 @@
   "clv": 0.04433,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "close_odds": 1.36,
   "tier": 1,
   "confirmed": true,
-  "primary": false
+  "primary": false,
+  "close_final": true,
+  "close_lead_min": 30.6,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-10-26T19:30:23Z"
+  }
  },
  {
   "key": "3f5faa947bf77ec3cb0c5555a0e0ced4|1X2|A|",
@@ -422,7 +436,7 @@
   "live": {
    "score": "0-1",
    "now": "won",
-   "ts": "2026-10-26T19:20:04Z"
+   "ts": "2026-10-26T19:30:23Z"
   }
  },
  {
@@ -549,9 +563,16 @@
   "clv": 0.04362,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "close_odds": 1.974,
-  "primary": true
+  "primary": true,
+  "close_final": true,
+  "close_lead_min": 30.6,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-10-26T19:30:23Z"
+  }
  },
  {
   "key": "a05d15a5f230d25da72b18dc92084f8f|1X2|H|",
@@ -589,7 +610,7 @@
   "live": {
    "score": "2-0",
    "now": "won",
-   "ts": "2026-10-26T19:20:04Z"
+   "ts": "2026-10-26T19:30:23Z"
   }
  },
  {
@@ -684,9 +705,16 @@
   "clv": 0.02042,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "close_odds": 3.43,
-  "primary": true
+  "primary": true,
+  "close_final": true,
+  "close_lead_min": 30.6,
+  "live": {
+   "score": "0-0",
+   "now": "won",
+   "ts": "2026-10-26T19:30:23Z"
+  }
  },
  {
   "key": "e1c9aa56abe5e911eb57403d78376270|1X2|A|",
@@ -815,9 +843,16 @@
   "clv": -0.01709,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "close_odds": 6.206,
-  "primary": false
+  "primary": false,
+  "close_final": true,
+  "close_lead_min": 30.6,
+  "live": {
+   "score": "0-0",
+   "now": "won",
+   "ts": "2026-10-26T19:30:23Z"
+  }
  },
  {
   "key": "d639f79210d0b4b17c8f293c53c8c5aa|1X2|A|",

@@ -395,12 +395,12 @@
   "stake_kelly": 3.09,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.13831,
-  "clv": -0.03186,
+  "close_p": 0.14081,
+  "clv": -0.01436,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 7.23
+  "close_odds": 7.102
  },
  {
   "key": "9d5238c50f04d24ae92e556a438e188e|1X2|H|",
@@ -426,12 +426,12 @@
   "stake_kelly": 15.45,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.77598,
-  "clv": 0.04757,
+  "close_p": 0.77183,
+  "clv": 0.04197,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.289
+  "close_odds": 1.296
  },
  {
   "key": "32ac8b94cc41f272efa96f0cf993e07a|1X2|H|",
@@ -457,12 +457,12 @@
   "stake_kelly": 27.49,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.86496,
-  "clv": 0.00335,
+  "close_p": 0.86044,
+  "clv": -0.00189,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.156
+  "close_odds": 1.162
  },
  {
   "key": "85e464708d03287f24590e1478aeca31|1X2|H|",
@@ -581,12 +581,12 @@
   "stake_kelly": 6.82,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.42886,
-  "clv": 0.02925,
+  "close_p": 0.42056,
+  "clv": 0.00934,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 2.332
+  "close_odds": 2.378
  },
  {
   "key": "b57695c11301fc8264db6b94a5ea2485|1X2|H|",
@@ -612,12 +612,12 @@
   "stake_kelly": 9.51,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.6618,
-  "clv": 0.01255,
+  "close_p": 0.65115,
+  "clv": -0.00374,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.511
+  "close_odds": 1.536
  },
  {
   "key": "c11380ae8c4a17f15b0b2946719b79e0|1X2|D|",
@@ -705,12 +705,12 @@
   "stake_kelly": 13.7,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.78752,
-  "clv": 0.0159,
+  "close_p": 0.78829,
+  "clv": 0.01689,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.27
+  "close_odds": 1.269
  },
  {
   "key": "60623206ddc61d2881beb6e38169fcac|1X2|H|",
@@ -773,5 +773,36 @@
   "pnl": null,
   "score": null,
   "close_odds": 5.986
+ },
+ {
+  "key": "d639f79210d0b4b17c8f293c53c8c5aa|1X2|A|",
+  "placed_ts": "2026-10-26T12:47:43Z",
+  "status": "open",
+  "event_id": "d639f79210d0b4b17c8f293c53c8c5aa",
+  "league": "NBA",
+  "commence": "2026-10-26T23:10:00Z",
+  "home": "Cleveland Cavaliers",
+  "away": "Minnesota Timberwolves",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Minnesota Timberwolves",
+  "book": "betanysports",
+  "book_name": "Betanysports",
+  "odds": 2.55,
+  "fair_odds": 2.454,
+  "p": 0.4075,
+  "edge": 0.0392,
+  "edge_bfx": -0.0043,
+  "kelly": 0.00633,
+  "stake_kelly": 6.33,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.40755,
+  "clv": 0.03924,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "close_odds": 2.454
  }
 ]

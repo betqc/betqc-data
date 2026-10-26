@@ -238,12 +238,12 @@
   "edge_bfx": -0.0323,
   "kelly": 0.00166,
   "stake_kelly": 1.66,
-  "close_p": 0.2399,
-  "clv": -0.08837,
+  "close_p": 0.23539,
+  "clv": -0.10553,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 4.168,
+  "close_odds": 4.248,
   "tier": 1,
   "confirmed": false
  },
@@ -674,12 +674,12 @@
   "stake_kelly": 7.35,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.53489,
-  "clv": 0.05909,
+  "close_p": 0.54022,
+  "clv": 0.06963,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.87
+  "close_odds": 1.851
  },
  {
   "key": "90620ab57facf54f629af8beec468e54|1X2|H|",

@@ -1,11 +1,14 @@
 # Robot BetQC : balayage des cotes aux 10 minutes, registre de paris fictifs, données publiées ici.
 # Le moteur vit dans le dépôt privé betqc/betqc (lu avec le secret CODE_TOKEN, en lecture seule).
 # Le site betqc.netlify.app lit public/*.json directement : aucun redéploiement Netlify.
+# GitHub retarde souvent les déclencheurs planifiés (40 à 60 minutes entre deux passages observés).
+# Chaque exécution boucle donc elle-même aux 10 minutes pendant environ 50 minutes, et les
+# déclencheurs suivants attendent leur tour : la couverture reste continue malgré les retards.
 name: BetQC robot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +21,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 9
+    timeout-minutes: 58
     steps:
       - name: Données
         uses: actions/checkout@v4
@@ -36,24 +39,25 @@ jobs:
           cache: pip
           cache-dependency-path: code/requirements.txt
       - run: pip install -r code/requirements.txt
-      - name: Passage du planificateur
+      - name: Boucle de balayages (environ 50 minutes)
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BETQC_LIVE_DIR: ${{ github.workspace }}/data/live
           BETQC_PUBLIC_DIR: ${{ github.workspace }}/data/public
-        run: python code/pipeline/scheduler.py --once
-      - name: Publier si les données ont changé
-        working-directory: data
         run: |
+          cd data
           git config user.name "betqc-robot"
           git config user.email "betqc-robot@users.noreply.github.com"
-          git add -A live public
-          if git diff --cached --quiet; then
-            echo "Aucun changement"
-          else
-            git commit -q -m "Cotes $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull -q --rebase
-            git push -q
-          fi
+          end=$(( $(date +%s) + 50*60 ))
+          while :; do
+            python ../code/pipeline/scheduler.py --once || true
+            git add -A live public
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Cotes $(date -u +%Y-%m-%dT%H:%MZ)"
+              for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+            fi
+            [ $(( $(date +%s) + 600 )) -lt $end ] || break
+            sleep 600
+          done

@@ -226,7 +226,7 @@
  {
   "key": "e1c9aa56abe5e911eb57403d78376270|1X2|H|",
   "placed_ts": "2026-10-26T02:53:57Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "e1c9aa56abe5e911eb57403d78376270",
   "league": "T1",
   "commence": "2026-10-26T16:00:00Z",
@@ -247,20 +247,16 @@
   "stake_kelly": 1.66,
   "close_p": 0.23539,
   "clv": -0.10553,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "3-4",
   "close_odds": 4.248,
   "tier": 1,
   "confirmed": false,
   "close_final": true,
   "close_lead_min": 25.6,
-  "live": {
-   "score": "3-4",
-   "now": "lost",
-   "ts": "2026-10-26T17:51:14Z"
-  },
-  "primary": true
+  "primary": true,
+  "settled_ts": "2026-10-26T18:01:36Z"
  },
  {
   "key": "8664b2167f22c59026d86615421463b1|1X2|A|",
@@ -418,9 +414,16 @@
   "clv": -0.10876,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "close_odds": 7.854,
-  "primary": true
+  "primary": true,
+  "close_final": true,
+  "close_lead_min": 19.1,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-10-26T18:01:36Z"
+  }
  },
  {
   "key": "9d5238c50f04d24ae92e556a438e188e|1X2|H|",
@@ -681,7 +684,7 @@
  {
   "key": "e1c9aa56abe5e911eb57403d78376270|1X2|A|",
   "placed_ts": "2026-10-26T10:02:01Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "e1c9aa56abe5e911eb57403d78376270",
   "league": "T1",
   "commence": "2026-10-26T16:00:00Z",
@@ -704,18 +707,14 @@
   "confirmed": null,
   "close_p": 0.54022,
   "clv": 0.06963,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.98,
   "score": "3-4",
   "close_odds": 1.851,
   "close_final": true,
   "close_lead_min": 25.6,
-  "live": {
-   "score": "3-4",
-   "now": "won",
-   "ts": "2026-10-26T17:51:14Z"
-  },
-  "primary": false
+  "primary": false,
+  "settled_ts": "2026-10-26T18:01:36Z"
  },
  {
   "key": "90620ab57facf54f629af8beec468e54|1X2|H|",
@@ -1228,5 +1227,37 @@
   "score": null,
   "close_odds": 3.428,
   "primary": true
+ },
+ {
+  "key": "aa7230d2c93aead2f09fdf86b293d86a|1X2|H|",
+  "placed_ts": "2026-10-26T18:01:33Z",
+  "status": "open",
+  "event_id": "aa7230d2c93aead2f09fdf86b293d86a",
+  "league": "SWE",
+  "commence": "2026-10-27T18:00:00Z",
+  "home": "AIK",
+  "away": "IF Elfsborg",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "AIK",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 3.35,
+  "fair_odds": 3.225,
+  "p": 0.3101,
+  "edge": 0.0388,
+  "edge_bfx": 0.031,
+  "kelly": 0.00412,
+  "stake_kelly": 4.12,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.31008,
+  "clv": 0.03877,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.225
  }
 ]

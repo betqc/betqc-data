@@ -242,16 +242,16 @@
   "clv": -0.10553,
   "result": null,
   "pnl": null,
-  "score": "2-3",
+  "score": "3-3",
   "close_odds": 4.248,
   "tier": 1,
   "confirmed": false,
   "close_final": true,
   "close_lead_min": 25.6,
   "live": {
-   "score": "2-3",
+   "score": "3-3",
    "now": "lost",
-   "ts": "2026-10-26T17:20:52Z"
+   "ts": "2026-10-26T17:31:05Z"
   }
  },
  {
@@ -685,14 +685,14 @@
   "clv": 0.06963,
   "result": null,
   "pnl": null,
-  "score": "2-3",
+  "score": "3-3",
   "close_odds": 1.851,
   "close_final": true,
   "close_lead_min": 25.6,
   "live": {
-   "score": "2-3",
-   "now": "won",
-   "ts": "2026-10-26T17:20:52Z"
+   "score": "3-3",
+   "now": "lost",
+   "ts": "2026-10-26T17:31:05Z"
   }
  },
  {
@@ -1159,5 +1159,36 @@
   "pnl": null,
   "score": null,
   "close_odds": 3.423
+ },
+ {
+  "key": "c7445242bf16a8f37afef7863af45a78|1X2|H|",
+  "placed_ts": "2026-10-26T17:31:04Z",
+  "status": "open",
+  "event_id": "c7445242bf16a8f37afef7863af45a78",
+  "league": "I1",
+  "commence": "2026-10-27T17:30:00Z",
+  "home": "Sassuolo",
+  "away": "Lazio",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Sassuolo",
+  "book": "betsson",
+  "book_name": "Betsson",
+  "odds": 3.5,
+  "fair_odds": 3.428,
+  "p": 0.2917,
+  "edge": 0.0209,
+  "edge_bfx": 0.0105,
+  "kelly": 0.00209,
+  "stake_kelly": 2.09,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.29167,
+  "clv": 0.02086,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "close_odds": 3.428
  }
 ]

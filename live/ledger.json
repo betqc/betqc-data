@@ -463,7 +463,7 @@
   "live": {
    "score": "2-1",
    "now": "won",
-   "ts": "2026-10-26T23:43:28Z"
+   "ts": "2026-10-26T23:53:38Z"
   }
  },
  {
@@ -494,15 +494,15 @@
   "clv": 0.00051,
   "result": null,
   "pnl": null,
-  "score": "3-2",
+  "score": "15-10",
   "close_odds": 1.159,
   "primary": true,
   "close_final": true,
   "close_lead_min": 6.9,
   "live": {
-   "score": "3-2",
+   "score": "15-10",
    "now": "won",
-   "ts": "2026-10-26T23:43:28Z"
+   "ts": "2026-10-26T23:53:38Z"
   }
  },
  {
@@ -666,12 +666,12 @@
   "stake_kelly": 9.51,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.63772,
-  "clv": -0.02428,
+  "close_p": 0.6463,
+  "clv": -0.01117,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.568,
+  "close_odds": 1.547,
   "primary": true
  },
  {
@@ -768,12 +768,12 @@
   "stake_kelly": 13.7,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.75339,
-  "clv": -0.02812,
+  "close_p": 0.74865,
+  "clv": -0.03424,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.327,
+  "close_odds": 1.336,
   "primary": true
  },
  {
@@ -874,15 +874,15 @@
   "clv": 0.05654,
   "result": null,
   "pnl": null,
-  "score": "26-35",
+  "score": "37-50",
   "close_odds": 2.414,
   "primary": true,
   "close_final": true,
   "close_lead_min": 38.8,
   "live": {
-   "score": "26-35",
+   "score": "37-50",
    "now": "won",
-   "ts": "2026-10-26T23:43:28Z"
+   "ts": "2026-10-26T23:53:38Z"
   }
  },
  {
@@ -1367,15 +1367,15 @@
   "clv": 0.02639,
   "result": null,
   "pnl": null,
-  "score": "21-21",
+  "score": "32-26",
   "primary": true,
   "close_odds": 1.705,
   "close_final": true,
   "close_lead_min": 38.8,
   "live": {
-   "score": "21-21",
-   "now": "lost",
-   "ts": "2026-10-26T23:43:28Z"
+   "score": "32-26",
+   "now": "won",
+   "ts": "2026-10-26T23:53:38Z"
   }
  },
  {
@@ -1473,15 +1473,47 @@
   "clv": 0.03119,
   "result": null,
   "pnl": null,
-  "score": "3-2",
+  "score": "15-10",
   "primary": false,
   "close_odds": 7.273,
   "close_final": true,
   "close_lead_min": 16.9,
   "live": {
-   "score": "3-2",
+   "score": "15-10",
    "now": "lost",
-   "ts": "2026-10-26T23:43:28Z"
+   "ts": "2026-10-26T23:53:38Z"
   }
+ },
+ {
+  "key": "a423c3941aa43179ca93caf6b689a0ce|1X2|A|",
+  "placed_ts": "2026-10-26T23:53:37Z",
+  "status": "open",
+  "event_id": "a423c3941aa43179ca93caf6b689a0ce",
+  "league": "NBA",
+  "commence": "2026-10-27T00:10:00Z",
+  "home": "Milwaukee Bucks",
+  "away": "Indiana Pacers",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Indiana Pacers",
+  "book": "betano_uk",
+  "book_name": "Betano",
+  "odds": 1.7,
+  "fair_odds": 1.674,
+  "p": 0.5973,
+  "edge": 0.0154,
+  "edge_bfx": -0.0056,
+  "kelly": 0.00549,
+  "stake_kelly": 5.49,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.59728,
+  "clv": 0.01538,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.674
  }
 ]

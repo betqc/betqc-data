@@ -422,7 +422,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-26T18:01:36Z"
+   "ts": "2026-10-26T18:11:57Z"
   }
  },
  {
@@ -577,12 +577,12 @@
   "stake_kelly": 3.29,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.48629,
-  "clv": 0.04066,
+  "close_p": 0.48626,
+  "clv": 0.0406,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 2.056,
+  "close_odds": 2.057,
   "primary": true
  },
  {

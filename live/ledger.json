@@ -261,7 +261,7 @@
  {
   "key": "8664b2167f22c59026d86615421463b1|1X2|A|",
   "placed_ts": "2026-10-26T02:53:57Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "8664b2167f22c59026d86615421463b1",
   "league": "F1",
   "commence": "2026-10-26T19:30:00Z",
@@ -282,8 +282,8 @@
   "stake_kelly": 0.63,
   "close_p": 0.10342,
   "clv": -0.17261,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-0",
   "close_odds": 9.669,
   "tier": 1,
@@ -291,11 +291,7 @@
   "primary": true,
   "close_final": true,
   "close_lead_min": 30.6,
-  "live": {
-   "score": "2-0",
-   "now": "lost",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "3c9d9d114c15a70a6ee35a10ea10c849|1X2|D|",
@@ -364,7 +360,7 @@
  {
   "key": "8664b2167f22c59026d86615421463b1|1X2|H|",
   "placed_ts": "2026-10-26T03:25:23Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "8664b2167f22c59026d86615421463b1",
   "league": "F1",
   "commence": "2026-10-26T19:30:00Z",
@@ -385,8 +381,8 @@
   "stake_kelly": 11.94,
   "close_p": 0.73544,
   "clv": 0.04433,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.42,
   "score": "2-0",
   "close_odds": 1.36,
   "tier": 1,
@@ -394,11 +390,7 @@
   "primary": false,
   "close_final": true,
   "close_lead_min": 30.6,
-  "live": {
-   "score": "2-0",
-   "now": "won",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "3f5faa947bf77ec3cb0c5555a0e0ced4|1X2|A|",
@@ -459,12 +451,12 @@
   "stake_kelly": 15.45,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.78966,
-  "clv": 0.06605,
+  "close_p": 0.77807,
+  "clv": 0.05039,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.266,
+  "close_odds": 1.285,
   "primary": true
  },
  {
@@ -502,7 +494,7 @@
  {
   "key": "85e464708d03287f24590e1478aeca31|1X2|H|",
   "placed_ts": "2026-10-26T05:01:48Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "85e464708d03287f24590e1478aeca31",
   "league": "SP1",
   "commence": "2026-10-26T20:00:00Z",
@@ -525,23 +517,19 @@
   "confirmed": true,
   "close_p": 0.50265,
   "clv": 0.01536,
-  "result": null,
-  "pnl": null,
-  "score": "1-0",
+  "result": "won",
+  "pnl": 1.02,
+  "score": "2-0",
   "close_odds": 1.989,
   "primary": true,
   "close_final": true,
   "close_lead_min": 5.6,
-  "live": {
-   "score": "1-0",
-   "now": "won",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "8664b2167f22c59026d86615421463b1|TOT|O|3.5",
   "placed_ts": "2026-10-26T05:01:48Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "8664b2167f22c59026d86615421463b1",
   "league": "F1",
   "commence": "2026-10-26T19:30:00Z",
@@ -564,18 +552,14 @@
   "confirmed": null,
   "close_p": 0.50661,
   "clv": 0.04362,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-0",
   "close_odds": 1.974,
   "primary": true,
   "close_final": true,
   "close_lead_min": 30.6,
-  "live": {
-   "score": "2-0",
-   "now": "lost",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "a05d15a5f230d25da72b18dc92084f8f|1X2|H|",
@@ -679,7 +663,7 @@
  {
   "key": "c11380ae8c4a17f15b0b2946719b79e0|1X2|D|",
   "placed_ts": "2026-10-26T07:31:41Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "c11380ae8c4a17f15b0b2946719b79e0",
   "league": "SP2",
   "commence": "2026-10-26T19:30:00Z",
@@ -702,18 +686,14 @@
   "confirmed": true,
   "close_p": 0.29155,
   "clv": 0.02042,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-3",
   "close_odds": 3.43,
   "primary": true,
   "close_final": true,
   "close_lead_min": 30.6,
-  "live": {
-   "score": "2-3",
-   "now": "lost",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "e1c9aa56abe5e911eb57403d78376270|1X2|A|",
@@ -785,7 +765,7 @@
  {
   "key": "60623206ddc61d2881beb6e38169fcac|1X2|H|",
   "placed_ts": "2026-10-26T12:27:10Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "60623206ddc61d2881beb6e38169fcac",
   "league": "F2",
   "commence": "2026-10-26T19:45:00Z",
@@ -808,23 +788,19 @@
   "confirmed": true,
   "close_p": 0.42382,
   "clv": 0.02988,
-  "result": null,
-  "pnl": null,
-  "score": "1-1",
+  "result": "won",
+  "pnl": 1.43,
+  "score": "2-1",
   "close_odds": 2.36,
   "primary": true,
   "close_final": true,
   "close_lead_min": 35.3,
-  "live": {
-   "score": "1-1",
-   "now": "lost",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "8664b2167f22c59026d86615421463b1|1X2|D|",
   "placed_ts": "2026-10-26T12:27:10Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "8664b2167f22c59026d86615421463b1",
   "league": "F1",
   "commence": "2026-10-26T19:30:00Z",
@@ -847,18 +823,14 @@
   "confirmed": true,
   "close_p": 0.16113,
   "clv": -0.01709,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-0",
   "close_odds": 6.206,
   "primary": false,
   "close_final": true,
   "close_lead_min": 30.6,
-  "live": {
-   "score": "2-0",
-   "now": "lost",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "d639f79210d0b4b17c8f293c53c8c5aa|1X2|A|",
@@ -1055,7 +1027,7 @@
  {
   "key": "0c3b63e47c44d0a7e5573743413fc2d9|1X2|A|",
   "placed_ts": "2026-10-26T15:03:44Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "0c3b63e47c44d0a7e5573743413fc2d9",
   "league": "F2",
   "commence": "2026-10-26T19:45:00Z",
@@ -1078,18 +1050,14 @@
   "confirmed": null,
   "close_p": 0.4124,
   "clv": -0.12572,
-  "result": null,
-  "pnl": null,
-  "score": "1-0",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "1-1",
   "close_odds": 2.425,
   "primary": true,
   "close_final": true,
   "close_lead_min": 35.3,
-  "live": {
-   "score": "1-0",
-   "now": "lost",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "3d0b0fbec194258530882514714c74be|1X2|H|",
@@ -1318,7 +1286,7 @@
  {
   "key": "85e464708d03287f24590e1478aeca31|1X2|A|",
   "placed_ts": "2026-10-26T19:20:02Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "85e464708d03287f24590e1478aeca31",
   "league": "SP1",
   "commence": "2026-10-26T20:00:00Z",
@@ -1341,18 +1309,14 @@
   "confirmed": true,
   "close_p": 0.21638,
   "clv": 0.03431,
-  "result": null,
-  "pnl": null,
-  "score": "1-0",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "2-0",
   "primary": false,
   "close_odds": 4.621,
   "close_final": true,
   "close_lead_min": 5.6,
-  "live": {
-   "score": "1-0",
-   "now": "lost",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "3354649681943139cafc0049d42d9c8c|1X2|H|",
@@ -1389,7 +1353,7 @@
  {
   "key": "e4e4d2fae5b64bc4640c03ed5b4041a1|1X2|A|",
   "placed_ts": "2026-10-26T19:54:27Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "e4e4d2fae5b64bc4640c03ed5b4041a1",
   "league": "E3",
   "commence": "2026-10-26T20:00:00Z",
@@ -1412,18 +1376,14 @@
   "confirmed": true,
   "close_p": 0.48088,
   "clv": 0.03389,
-  "result": null,
-  "pnl": null,
-  "score": "1-2",
+  "result": "won",
+  "pnl": 1.15,
+  "score": "2-4",
   "primary": true,
   "close_odds": 2.08,
   "close_final": true,
   "close_lead_min": 5.6,
-  "live": {
-   "score": "1-2",
-   "now": "won",
-   "ts": "2026-10-26T21:17:58Z"
-  }
+  "settled_ts": "2026-10-26T22:00:30Z"
  },
  {
   "key": "30d8903f431818cfb50bdfc28abc54eb|1X2|H|",

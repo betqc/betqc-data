@@ -38,6 +38,7 @@ jobs:
       - name: Reconstruction
         env:
           BETQC_SITE_DATA: ${{ github.workspace }}/data/public/hist
+          BETQC_US_CACHE: ${{ github.workspace }}/data/cache/understat
         run: |
           python code/pipeline/build.py
           python code/pipeline/understat.py
@@ -47,7 +48,7 @@ jobs:
         run: |
           git config user.name "betqc-robot"
           git config user.email "betqc-robot@users.noreply.github.com"
-          git add public/hist
+          git add public/hist cache
           if ! git diff --cached --quiet; then
             git commit -q -m "Historique $(date -u +%F)"
             for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done

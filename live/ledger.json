@@ -213,12 +213,12 @@
   "edge_bfx": null,
   "kelly": 0.00126,
   "stake_kelly": 1.26,
-  "close_p": 0.1682,
-  "clv": 0.0092,
+  "close_p": 0.1701,
+  "clv": 0.02063,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 5.945,
+  "close_odds": 5.879,
   "tier": 3,
   "confirmed": null,
   "primary": true
@@ -294,7 +294,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-26T19:44:12Z"
+   "ts": "2026-10-26T19:54:28Z"
   }
  },
  {
@@ -397,7 +397,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-26T19:44:12Z"
+   "ts": "2026-10-26T19:54:28Z"
   }
  },
  {
@@ -436,7 +436,7 @@
   "live": {
    "score": "1-1",
    "now": "lost",
-   "ts": "2026-10-26T19:44:12Z"
+   "ts": "2026-10-26T19:54:28Z"
   }
  },
  {
@@ -527,12 +527,12 @@
   "stake_kelly": 8.58,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.50812,
-  "clv": 0.02639,
+  "close_p": 0.50265,
+  "clv": 0.01536,
   "result": null,
   "pnl": null,
   "score": null,
-  "close_odds": 1.968,
+  "close_odds": 1.989,
   "primary": true
  },
  {
@@ -571,7 +571,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-26T19:44:12Z"
+   "ts": "2026-10-26T19:54:28Z"
   }
  },
  {
@@ -602,15 +602,15 @@
   "clv": 0.0406,
   "result": null,
   "pnl": null,
-  "score": "2-0",
+  "score": "2-1",
   "close_odds": 2.057,
   "primary": true,
   "close_final": true,
   "close_lead_min": 18.1,
   "live": {
-   "score": "2-0",
+   "score": "2-1",
    "now": "won",
-   "ts": "2026-10-26T19:44:12Z"
+   "ts": "2026-10-26T19:54:28Z"
   }
  },
  {
@@ -705,15 +705,15 @@
   "clv": 0.02042,
   "result": null,
   "pnl": null,
-  "score": "0-1",
+  "score": "1-2",
   "close_odds": 3.43,
   "primary": true,
   "close_final": true,
   "close_lead_min": 30.6,
   "live": {
-   "score": "0-1",
+   "score": "1-2",
    "now": "lost",
-   "ts": "2026-10-26T19:44:12Z"
+   "ts": "2026-10-26T19:54:28Z"
   }
  },
  {
@@ -811,9 +811,16 @@
   "clv": 0.02988,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "close_odds": 2.36,
-  "primary": true
+  "primary": true,
+  "close_final": true,
+  "close_lead_min": 35.3,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-10-26T19:54:28Z"
+  }
  },
  {
   "key": "8664b2167f22c59026d86615421463b1|1X2|D|",
@@ -851,7 +858,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-10-26T19:44:12Z"
+   "ts": "2026-10-26T19:54:28Z"
   }
  },
  {
@@ -1074,9 +1081,16 @@
   "clv": -0.12572,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "close_odds": 2.425,
-  "primary": true
+  "primary": true,
+  "close_final": true,
+  "close_lead_min": 35.3,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-10-26T19:54:28Z"
+  }
  },
  {
   "key": "3d0b0fbec194258530882514714c74be|1X2|H|",
@@ -1326,13 +1340,13 @@
   "stake_kelly": 1.82,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.21497,
-  "clv": 0.02758,
+  "close_p": 0.21638,
+  "clv": 0.03431,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 4.652
+  "close_odds": 4.621
  },
  {
   "key": "3354649681943139cafc0049d42d9c8c|1X2|H|",
@@ -1365,5 +1379,69 @@
   "score": null,
   "primary": true,
   "close_odds": 1.712
+ },
+ {
+  "key": "e4e4d2fae5b64bc4640c03ed5b4041a1|1X2|A|",
+  "placed_ts": "2026-10-26T19:54:27Z",
+  "status": "open",
+  "event_id": "e4e4d2fae5b64bc4640c03ed5b4041a1",
+  "league": "E3",
+  "commence": "2026-10-26T20:00:00Z",
+  "home": "Walsall",
+  "away": "Salford City",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Salford City",
+  "book": "coral",
+  "book_name": "Coral",
+  "odds": 2.15,
+  "fair_odds": 2.08,
+  "p": 0.4809,
+  "edge": 0.0339,
+  "edge_bfx": 0.0214,
+  "kelly": 0.00737,
+  "stake_kelly": 7.37,
+  "tier": 4,
+  "confirmed": true,
+  "close_p": 0.48088,
+  "clv": 0.03389,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 2.08
+ },
+ {
+  "key": "30d8903f431818cfb50bdfc28abc54eb|1X2|H|",
+  "placed_ts": "2026-10-26T19:54:27Z",
+  "status": "open",
+  "event_id": "30d8903f431818cfb50bdfc28abc54eb",
+  "league": "E2",
+  "commence": "2026-10-27T19:45:00Z",
+  "home": "Milton Keynes Dons",
+  "away": "Bromley FC",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Milton Keynes Dons",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 1.7,
+  "fair_odds": 1.661,
+  "p": 0.6019,
+  "edge": 0.0233,
+  "edge_bfx": null,
+  "kelly": 0.00831,
+  "stake_kelly": 8.31,
+  "tier": 3,
+  "confirmed": null,
+  "close_p": 0.60193,
+  "clv": 0.02328,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.661
  }
 ]

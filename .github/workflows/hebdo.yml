@@ -41,7 +41,6 @@ jobs:
           BETQC_US_CACHE: ${{ github.workspace }}/data/cache/understat
         run: |
           python code/pipeline/build.py
-          python code/pipeline/understat.py
           python code/pipeline/model_export.py --refit
       - name: Publier
         working-directory: data

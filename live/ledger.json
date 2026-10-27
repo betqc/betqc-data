@@ -638,7 +638,7 @@
   "live": {
    "score": "3-1",
    "now": "won",
-   "ts": "2026-10-27T02:28:42Z"
+   "ts": "2026-10-27T02:38:53Z"
   }
  },
  {
@@ -669,15 +669,15 @@
   "clv": -0.01117,
   "result": null,
   "pnl": null,
-  "score": "95-86",
+  "score": "106-93",
   "close_odds": 1.547,
   "primary": true,
   "close_final": true,
   "close_lead_min": 36.4,
   "live": {
-   "score": "95-86",
+   "score": "106-93",
    "now": "won",
-   "ts": "2026-10-27T02:28:42Z"
+   "ts": "2026-10-27T02:38:53Z"
   }
  },
  {
@@ -753,7 +753,7 @@
  {
   "key": "90620ab57facf54f629af8beec468e54|1X2|H|",
   "placed_ts": "2026-10-26T10:43:49Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "90620ab57facf54f629af8beec468e54",
   "league": "NBA",
   "commence": "2026-10-27T00:10:00Z",
@@ -776,18 +776,14 @@
   "confirmed": false,
   "close_p": 0.74865,
   "clv": -0.03424,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.29,
   "score": "125-114",
   "close_odds": 1.336,
   "primary": true,
   "close_final": true,
   "close_lead_min": 16.4,
-  "live": {
-   "score": "125-114",
-   "now": "won",
-   "ts": "2026-10-27T02:28:42Z"
-  }
+  "settled_ts": "2026-10-27T02:38:53Z"
  },
  {
   "key": "60623206ddc61d2881beb6e38169fcac|1X2|H|",
@@ -1245,15 +1241,15 @@
   "clv": 0.05185,
   "result": null,
   "pnl": null,
-  "score": "19-16",
+  "score": "32-28",
   "close_odds": 3.423,
   "primary": true,
   "close_final": true,
   "close_lead_min": 410.0,
   "live": {
-   "score": "19-16",
+   "score": "32-28",
    "now": "lost",
-   "ts": "2026-10-27T02:28:42Z"
+   "ts": "2026-10-27T02:38:53Z"
   }
  },
  {
@@ -1495,7 +1491,7 @@
  {
   "key": "a423c3941aa43179ca93caf6b689a0ce|1X2|A|",
   "placed_ts": "2026-10-26T23:53:37Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "a423c3941aa43179ca93caf6b689a0ce",
   "league": "NBA",
   "commence": "2026-10-27T00:10:00Z",
@@ -1518,18 +1514,14 @@
   "confirmed": false,
   "close_p": 0.59728,
   "clv": 0.01538,
-  "result": null,
-  "pnl": null,
-  "score": "108-101",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "110-102",
   "primary": true,
   "close_odds": 1.674,
   "close_final": true,
   "close_lead_min": 16.4,
-  "live": {
-   "score": "108-101",
-   "now": "lost",
-   "ts": "2026-10-27T02:28:42Z"
-  }
+  "settled_ts": "2026-10-27T02:38:53Z"
  },
  {
   "key": "aa7230d2c93aead2f09fdf86b293d86a|1X2|A|",

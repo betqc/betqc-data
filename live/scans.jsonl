@@ -111,3 +111,5 @@
 {"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 18588, "credits_used": 6, "ts": "2026-10-27T18:00:39Z"}
 {"scan_ts": "2026-10-27T18:10:59Z", "horizon_h": 24, "leagues": {"E2": "5 matchs", "E3": "1 matchs", "NHL": "11 matchs, 11 en 3 issues", "NBA": "4 matchs"}, "rows": 2905, "credits_remaining": 18561, "credits_used_scan": 27, "mode": "mid"}
 {"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 18555, "credits_used": 6, "ts": "2026-10-27T18:11:01Z"}
+{"scan_ts": "2026-10-27T18:21:21Z", "horizon_h": 1.1666666666666665, "leagues": {"I2": "6 matchs"}, "rows": 950, "credits_remaining": 18551, "credits_used_scan": 4, "mode": "near"}
+{"mode": "recalc", "new_bets": 1, "settled": 0, "credits_remaining": 18545, "credits_used": 6, "ts": "2026-10-27T18:21:21Z"}

@@ -1897,13 +1897,13 @@
   "stake_kelly": 6.36,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.53057,
-  "clv": -0.08212,
+  "close_p": 0.52521,
+  "clv": -0.09139,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.885
+  "close_odds": 1.904
  },
  {
   "key": "c7445242bf16a8f37afef7863af45a78|1X2|A|",
@@ -2312,15 +2312,15 @@
   "clv": 0.01633,
   "result": null,
   "pnl": null,
-  "score": "95-74",
+  "score": "99-84",
   "primary": true,
   "close_odds": 1.623,
   "close_final": true,
   "close_lead_min": 14.7,
   "live": {
-   "score": "95-74",
+   "score": "99-84",
    "now": "won",
-   "ts": "2026-10-28T02:25:04Z"
+   "ts": "2026-10-28T02:35:22Z"
   }
  },
  {

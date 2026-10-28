@@ -2280,13 +2280,13 @@
   "stake_kelly": 3.01,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.4496,
-  "clv": 0.05655,
+  "close_p": 0.49086,
+  "clv": 0.15352,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.224
+  "close_odds": 2.037
  },
  {
   "key": "e45ebdb0e878a9d573236baf277abca5|1X2|H|",
@@ -2484,13 +2484,13 @@
   "stake_kelly": 5.31,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.5296,
-  "clv": 0.01153,
+  "close_p": 0.53839,
+  "clv": 0.02832,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.888
+  "close_odds": 1.857
  },
  {
   "key": "36d2c0f5228879579bcc9c6d92fa1fe7|1X2|A|",
@@ -2910,15 +2910,15 @@
   "clv": 0.01161,
   "result": null,
   "pnl": null,
-  "score": "2-1",
+  "score": "2-2",
   "primary": true,
   "close_odds": 3.954,
   "close_final": true,
   "close_lead_min": 20.4,
   "live": {
-   "score": "2-1",
-   "now": "lost",
-   "ts": "2026-10-28T21:42:25Z"
+   "score": "2-2",
+   "now": "won",
+   "ts": "2026-10-28T21:52:55Z"
   }
  },
  {
@@ -3261,15 +3261,15 @@
   "clv": -0.013,
   "result": null,
   "pnl": null,
-  "score": "2-1",
+  "score": "2-2",
   "strategy": "v2",
   "close_odds": 2.026,
   "close_final": true,
   "close_lead_min": 20.4,
   "live": {
-   "score": "2-1",
+   "score": "2-2",
    "now": "lost",
-   "ts": "2026-10-28T21:42:25Z"
+   "ts": "2026-10-28T21:52:55Z"
   }
  },
  {
@@ -3370,15 +3370,15 @@
   "clv": -0.013,
   "result": null,
   "pnl": null,
-  "score": "2-1",
+  "score": "2-2",
   "primary": false,
   "close_odds": 2.026,
   "close_final": true,
   "close_lead_min": 20.4,
   "live": {
-   "score": "2-1",
+   "score": "2-2",
    "now": "lost",
-   "ts": "2026-10-28T21:42:25Z"
+   "ts": "2026-10-28T21:52:55Z"
   }
  },
  {
@@ -3536,13 +3536,13 @@
   "stake_kelly": 4.28,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.4496,
-  "clv": 0.02508,
+  "close_p": 0.49086,
+  "clv": 0.11916,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.224
+  "close_odds": 2.037
  },
  {
   "key": "8809310558f539256a470a8020b0e247|1X2|H|",

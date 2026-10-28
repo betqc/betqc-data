@@ -1876,7 +1876,7 @@
  {
   "key": "82afe4e028b0fbbd9f6cf92697bec6fc|1X2|H|",
   "placed_ts": "2026-10-27T03:30:46Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "82afe4e028b0fbbd9f6cf92697bec6fc",
   "league": "NBA",
   "commence": "2026-10-28T03:10:00Z",
@@ -1899,18 +1899,14 @@
   "confirmed": true,
   "close_p": 0.51456,
   "clv": -0.10981,
-  "result": null,
-  "pnl": null,
-  "score": "127-130",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "129-136",
   "primary": true,
   "close_odds": 1.943,
   "close_final": true,
   "close_lead_min": 3.7,
-  "live": {
-   "score": "127-130",
-   "now": "lost",
-   "ts": "2026-10-28T05:51:46Z"
-  }
+  "settled_ts": "2026-10-28T06:02:03Z"
  },
  {
   "key": "c7445242bf16a8f37afef7863af45a78|1X2|A|",
@@ -2869,5 +2865,37 @@
   "score": null,
   "primary": true,
   "close_odds": 3.938
+ },
+ {
+  "key": "62809ce58e1936c7f1e3979e287c8f2c|1X2|A||v2",
+  "placed_ts": "2026-10-28T06:02:01Z",
+  "status": "open",
+  "event_id": "62809ce58e1936c7f1e3979e287c8f2c",
+  "league": "SWE",
+  "commence": "2026-10-28T18:00:00Z",
+  "home": "IFK Goteborg",
+  "away": "Djurgardens IF",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Djurgardens IF",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 2.1,
+  "fair_odds": 2.047,
+  "p": 0.4886,
+  "edge": 0.0261,
+  "edge_bfx": null,
+  "kelly": 0.00594,
+  "stake_kelly": 5.94,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.48863,
+  "clv": 0.02612,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.047
  }
 ]

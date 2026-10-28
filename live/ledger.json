@@ -2312,15 +2312,15 @@
   "clv": 0.01633,
   "result": null,
   "pnl": null,
-  "score": "25-38",
+  "score": "32-42",
   "primary": true,
   "close_odds": 1.623,
   "close_final": true,
   "close_lead_min": 14.7,
   "live": {
-   "score": "25-38",
+   "score": "32-42",
    "now": "lost",
-   "ts": "2026-10-28T00:47:59Z"
+   "ts": "2026-10-28T00:58:16Z"
   }
  },
  {

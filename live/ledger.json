@@ -1781,7 +1781,7 @@
  {
   "key": "a7e7366dd8ba9240b59b1cc238eda9ed|1X2|H|",
   "placed_ts": "2026-10-27T03:30:46Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "a7e7366dd8ba9240b59b1cc238eda9ed",
   "league": "SWE",
   "commence": "2026-10-29T17:30:00Z",
@@ -1804,18 +1804,14 @@
   "confirmed": null,
   "close_p": 0.6807,
   "clv": 0.07551,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.58,
   "score": "2-0",
   "primary": true,
   "close_odds": 1.469,
   "close_final": true,
   "close_lead_min": 35.4,
-  "live": {
-   "score": "2-0",
-   "now": "won",
-   "ts": "2026-10-29T19:33:32Z"
-  }
+  "settled_ts": "2026-10-29T19:44:19Z"
  },
  {
   "key": "da159a6b84dbb548b4d7b94c722caac5|1X2|H|",
@@ -1877,15 +1873,15 @@
   "clv": 0.12762,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "0-1",
   "primary": true,
   "close_odds": 2.394,
   "close_final": true,
   "close_lead_min": 30.2,
   "live": {
-   "score": "0-0",
+   "score": "0-1",
    "now": "lost",
-   "ts": "2026-10-29T19:33:32Z"
+   "ts": "2026-10-29T19:44:19Z"
   }
  },
  {
@@ -6436,7 +6432,7 @@
  {
   "key": "a7e7366dd8ba9240b59b1cc238eda9ed|1X2|H||v2",
   "placed_ts": "2026-10-29T05:40:19Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "a7e7366dd8ba9240b59b1cc238eda9ed",
   "league": "SWE",
   "commence": "2026-10-29T17:30:00Z",
@@ -6459,18 +6455,14 @@
   "confirmed": null,
   "close_p": 0.6807,
   "clv": 0.06871,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.57,
   "score": "2-0",
   "strategy": "v2",
   "close_odds": 1.469,
   "close_final": true,
   "close_lead_min": 35.4,
-  "live": {
-   "score": "2-0",
-   "now": "won",
-   "ts": "2026-10-29T19:33:32Z"
-  }
+  "settled_ts": "2026-10-29T19:44:19Z"
  },
  {
   "key": "f62a37ff2172709ec1598cffd080cc8d|1X2|H||v2",
@@ -6500,15 +6492,15 @@
   "clv": 0.04409,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "0-1",
   "strategy": "v2",
   "close_odds": 2.394,
   "close_final": true,
   "close_lead_min": 30.2,
   "live": {
-   "score": "0-0",
+   "score": "0-1",
    "now": "lost",
-   "ts": "2026-10-29T19:33:32Z"
+   "ts": "2026-10-29T19:44:19Z"
   }
  },
  {
@@ -6748,7 +6740,7 @@
   "live": {
    "score": "1-2",
    "now": "lost",
-   "ts": "2026-10-29T19:33:32Z"
+   "ts": "2026-10-29T19:44:19Z"
   }
  },
  {
@@ -6787,7 +6779,7 @@
   "live": {
    "score": "1-2",
    "now": "lost",
-   "ts": "2026-10-29T19:33:32Z"
+   "ts": "2026-10-29T19:44:19Z"
   }
  },
  {
@@ -6826,7 +6818,7 @@
   "live": {
    "score": "1-2",
    "now": "won",
-   "ts": "2026-10-29T19:33:32Z"
+   "ts": "2026-10-29T19:44:19Z"
   }
  },
  {
@@ -7217,7 +7209,7 @@
   "live": {
    "score": "1-2",
    "now": "won",
-   "ts": "2026-10-29T19:33:32Z"
+   "ts": "2026-10-29T19:44:19Z"
   }
  },
  {

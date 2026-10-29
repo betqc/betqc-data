@@ -2292,7 +2292,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -2495,15 +2495,15 @@
   "clv": 0.02832,
   "result": null,
   "pnl": null,
-  "score": "0-1",
+  "score": "1-1",
   "primary": true,
   "close_odds": 1.857,
   "close_final": true,
   "close_lead_min": 37.1,
   "live": {
-   "score": "0-1",
+   "score": "1-1",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -2662,15 +2662,15 @@
   "clv": 0.15612,
   "result": null,
   "pnl": null,
-  "score": "38-47",
+  "score": "46-59",
   "primary": true,
   "close_odds": 1.401,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "38-47",
+   "score": "46-59",
    "now": "won",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -2907,7 +2907,7 @@
   "live": {
    "score": "59-69",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -3113,9 +3113,16 @@
   "clv": 0.04111,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "14-11",
   "primary": true,
-  "close_odds": 1.393
+  "close_odds": 1.393,
+  "close_final": true,
+  "close_lead_min": 10.7,
+  "live": {
+   "score": "14-11",
+   "now": "lost",
+   "ts": "2026-10-29T00:20:02Z"
+  }
  },
  {
   "key": "33320ad169692216a91dec030e7ef6a6|TOT|U|3.5",
@@ -3492,9 +3499,16 @@
   "clv": 0.00906,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "9-11",
   "primary": true,
-  "close_odds": 1.318
+  "close_odds": 1.318,
+  "close_final": true,
+  "close_lead_min": 10.7,
+  "live": {
+   "score": "9-11",
+   "now": "won",
+   "ts": "2026-10-29T00:20:02Z"
+  }
  },
  {
   "key": "cc7f8bc2a4554b89f2a35abad3a633ef|1X2|H|",
@@ -3524,15 +3538,15 @@
   "clv": -0.02019,
   "result": null,
   "pnl": null,
-  "score": "56-69",
+  "score": "58-69",
   "primary": true,
   "close_odds": 1.745,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "56-69",
+   "score": "58-69",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -3571,7 +3585,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -3765,15 +3779,15 @@
   "clv": 0.01339,
   "result": null,
   "pnl": null,
-  "score": "37-42",
+  "score": "44-51",
   "strategy": "v2",
   "close_odds": 1.391,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "37-42",
+   "score": "44-51",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -3812,7 +3826,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -3878,15 +3892,15 @@
   "clv": 0.01339,
   "result": null,
   "pnl": null,
-  "score": "37-42",
+  "score": "44-51",
   "primary": true,
   "close_odds": 1.391,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "37-42",
+   "score": "44-51",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -3925,7 +3939,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -4023,15 +4037,15 @@
   "clv": -0.00079,
   "result": null,
   "pnl": null,
-  "score": "56-69",
+  "score": "58-69",
   "strategy": "v2",
   "close_odds": 2.342,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "56-69",
+   "score": "58-69",
    "now": "won",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {
@@ -4097,15 +4111,15 @@
   "clv": -0.00079,
   "result": null,
   "pnl": null,
-  "score": "56-69",
+  "score": "58-69",
   "primary": false,
   "close_odds": 2.342,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "56-69",
+   "score": "58-69",
    "now": "won",
-   "ts": "2026-10-29T00:09:44Z"
+   "ts": "2026-10-29T00:20:02Z"
   }
  },
  {

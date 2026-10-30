@@ -1707,15 +1707,15 @@
   "clv": -0.16489,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-0",
   "primary": true,
   "close_odds": 3.353,
   "close_final": true,
   "close_lead_min": 26.2,
   "live": {
-   "score": "1-0",
+   "score": "2-0",
    "now": "lost",
-   "ts": "2026-10-30T01:42:57Z"
+   "ts": "2026-10-30T01:53:44Z"
   }
  },
  {
@@ -5124,15 +5124,15 @@
   "clv": 0.06966,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-0",
   "primary": true,
   "close_odds": 1.907,
   "close_final": true,
   "close_lead_min": 26.2,
   "live": {
-   "score": "1-0",
+   "score": "2-0",
    "now": "lost",
-   "ts": "2026-10-30T01:42:57Z"
+   "ts": "2026-10-30T01:53:44Z"
   }
  },
  {
@@ -5612,15 +5612,15 @@
   "clv": 0.03022,
   "result": null,
   "pnl": null,
-  "score": "88-69",
+  "score": "102-88",
   "primary": true,
   "close_odds": 1.456,
   "close_final": true,
   "close_lead_min": 6.2,
   "live": {
-   "score": "88-69",
+   "score": "102-88",
    "now": "won",
-   "ts": "2026-10-30T01:42:57Z"
+   "ts": "2026-10-30T01:53:44Z"
   }
  },
  {
@@ -6632,15 +6632,15 @@
   "clv": 0.03583,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-0",
   "strategy": "v2",
   "close_odds": 2.346,
   "close_final": true,
   "close_lead_min": 26.2,
   "live": {
-   "score": "1-0",
+   "score": "2-0",
    "now": "won",
-   "ts": "2026-10-30T01:42:57Z"
+   "ts": "2026-10-30T01:53:44Z"
   }
  },
  {
@@ -6671,15 +6671,15 @@
   "clv": 0.05917,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-0",
   "strategy": "v2",
   "close_odds": 1.907,
   "close_final": true,
   "close_lead_min": 26.2,
   "live": {
-   "score": "1-0",
+   "score": "2-0",
    "now": "lost",
-   "ts": "2026-10-30T01:42:57Z"
+   "ts": "2026-10-30T01:53:44Z"
   }
  },
  {
@@ -6745,15 +6745,15 @@
   "clv": 0.03583,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-0",
   "primary": false,
   "close_odds": 2.346,
   "close_final": true,
   "close_lead_min": 26.2,
   "live": {
-   "score": "1-0",
+   "score": "2-0",
    "now": "won",
-   "ts": "2026-10-30T01:42:57Z"
+   "ts": "2026-10-30T01:53:44Z"
   }
  },
  {

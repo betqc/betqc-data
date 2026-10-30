@@ -8032,13 +8032,13 @@
   "stake_kelly": 6.03,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.50914,
-  "clv": 0.05902,
+  "close_p": 0.52107,
+  "clv": 0.08383,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.964
+  "close_odds": 1.919
  },
  {
   "key": "cac1461f5983a88fac612685395aa897|1X2|H|",
@@ -8064,13 +8064,13 @@
   "stake_kelly": 15.37,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.70782,
-  "clv": 0.0051,
+  "close_p": 0.71008,
+  "clv": 0.00832,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.413
+  "close_odds": 1.408
  },
  {
   "key": "036a93ca33d6261c21d4bfa6e0d02568|1X2|H|",
@@ -8096,13 +8096,13 @@
   "stake_kelly": 30.0,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.8707,
-  "clv": -0.01611,
+  "close_p": 0.8695,
+  "clv": -0.01747,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.149
+  "close_odds": 1.15
  },
  {
   "key": "a0f5d89a4fc51e52edd0e70d1e4cbaf2|1X2|H|",
@@ -8160,13 +8160,13 @@
   "stake_kelly": 12.37,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.74084,
-  "clv": 0.01495,
+  "close_p": 0.74562,
+  "clv": 0.0215,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.35
+  "close_odds": 1.341
  },
  {
   "key": "c8cf2ed1973923e6b97dba3de7e202d3|1X2|A|",
@@ -8860,9 +8860,16 @@
   "clv": 0.00748,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "primary": true,
-  "close_odds": 4.715
+  "close_odds": 4.715,
+  "close_final": true,
+  "close_lead_min": 4.7,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-10-30T23:06:19Z"
+  }
  },
  {
   "key": "063e03c7307188a25a524331aa05f98a|1X2|D|",
@@ -9267,13 +9274,13 @@
   "stake_kelly": 10.39,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.70782,
-  "clv": 0.01218,
+  "close_p": 0.71008,
+  "clv": 0.01542,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.413
+  "close_odds": 1.408
  },
  {
   "key": "9a9f6c78276f74f15f42b013b033aa5d|1X2|A||v2",
@@ -9567,13 +9574,13 @@
   "stake_kelly": 3.26,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.25916,
-  "clv": 0.03924,
+  "close_p": 0.25438,
+  "clv": 0.02007,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.859
+  "close_odds": 3.931
  },
  {
   "key": "d8134f341b5464b458a313342d178d43|1X2|A|",
@@ -10587,5 +10594,69 @@
   "close_final": true,
   "close_lead_min": 4.2,
   "settled_ts": "2026-10-30T22:22:49Z"
+ },
+ {
+  "key": "45ebc54751ef3e435192eaeb0470acfb|1X2|H||v2",
+  "placed_ts": "2026-10-30T23:06:11Z",
+  "status": "open",
+  "event_id": "45ebc54751ef3e435192eaeb0470acfb",
+  "league": "NBA",
+  "commence": "2026-10-30T23:10:00Z",
+  "home": "Washington Wizards",
+  "away": "Charlotte Hornets",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Washington Wizards",
+  "book": "unibet_nl",
+  "book_name": "Unibet NL",
+  "odds": 2.14,
+  "fair_odds": 2.088,
+  "p": 0.4789,
+  "edge": 0.0249,
+  "edge_bfx": 0.0233,
+  "kelly": 0.00546,
+  "stake_kelly": 5.46,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.47893,
+  "clv": 0.0249,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.088
+ },
+ {
+  "key": "45ebc54751ef3e435192eaeb0470acfb|1X2|H|",
+  "placed_ts": "2026-10-30T23:06:11Z",
+  "status": "open",
+  "event_id": "45ebc54751ef3e435192eaeb0470acfb",
+  "league": "NBA",
+  "commence": "2026-10-30T23:10:00Z",
+  "home": "Washington Wizards",
+  "away": "Charlotte Hornets",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Washington Wizards",
+  "book": "unibet_nl",
+  "book_name": "Unibet NL",
+  "odds": 2.14,
+  "fair_odds": 2.088,
+  "p": 0.4789,
+  "edge": 0.0249,
+  "edge_bfx": 0.0233,
+  "kelly": 0.00546,
+  "stake_kelly": 5.46,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.47893,
+  "clv": 0.0249,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 2.088
  }
 ]

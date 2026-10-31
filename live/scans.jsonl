@@ -381,3 +381,5 @@
 {"scan_ts": "2026-10-31T03:45:55Z", "horizon_h": 24, "leagues": {"NBA": "6 matchs"}, "rows": 722, "credits_remaining": 15493, "credits_used_scan": 4, "mode": "mid"}
 {"mode": "recalc", "new_bets": 2, "settled": 0, "credits_remaining": null, "credits_used": 0, "ts": "2026-10-31T03:45:55Z"}
 {"scan_ts": "2026-10-31T03:56:49Z", "horizon_h": 24, "leagues": {"NHL": "10 matchs, 10 en 3 issues"}, "rows": 1287, "credits_remaining": 15480, "credits_used_scan": 13, "mode": "mid"}
+{"scan_ts": "2026-10-31T04:39:57Z", "horizon_h": 24, "leagues": {"E0": "8 matchs", "E1": "11 matchs", "E2": "11 matchs", "E3": "11 matchs", "SC0": "2 matchs", "D1": "6 matchs", "D2": "4 matchs", "I1": "3 matchs", "I2": "5 matchs", "SP1": "4 matchs", "SP2": "4 matchs", "F1": "1 matchs", "F2": "2 matchs", "N1": "5 matchs", "B1": "4 matchs", "P1": "2 matchs", "T1": "3 matchs", "G1": "1 matchs", "AUT": "2 matchs", "SUI": "3 matchs", "POL": "4 matchs", "NOR": "2 matchs", "D3": "6 matchs"}, "rows": 16395, "credits_remaining": 15375, "credits_used_scan": 92, "mode": "mid"}
+{"mode": "recalc", "new_bets": 13, "settled": 0, "credits_remaining": null, "credits_used": 0, "ts": "2026-10-31T04:40:04Z"}

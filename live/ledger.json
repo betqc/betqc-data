@@ -10777,15 +10777,15 @@
   "clv": 0.02453,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "0-1",
   "primary": true,
   "close_odds": 3.377,
   "close_final": true,
   "close_lead_min": 31.2,
   "live": {
-   "score": "0-0",
-   "now": "won",
-   "ts": "2026-10-31T10:42:30Z"
+   "score": "0-1",
+   "now": "lost",
+   "ts": "2026-10-31T10:53:32Z"
   }
  },
  {

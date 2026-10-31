@@ -5960,11 +5960,16 @@
   "clv": -0.02685,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "primary": true,
   "close_odds": 3.853,
   "close_final": true,
-  "close_lead_min": 32.7
+  "close_lead_min": 32.7,
+  "live": {
+   "score": "0-0",
+   "now": "won",
+   "ts": "2026-10-31T11:26:36Z"
+  }
  },
  {
   "key": "bad7337b335a16859b1db6b8e6cf6ca5|1X2|D|",
@@ -10787,7 +10792,7 @@
   "live": {
    "score": "0-1",
    "now": "lost",
-   "ts": "2026-10-31T11:15:35Z"
+   "ts": "2026-10-31T11:26:36Z"
   }
  },
  {
@@ -12194,11 +12199,16 @@
   "clv": -0.09344,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "primary": false,
   "close_odds": 3.475,
   "close_final": true,
-  "close_lead_min": 32.7
+  "close_lead_min": 32.7,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-10-31T11:26:36Z"
+  }
  },
  {
   "key": "5118966f484adf525196d196a61bc5d6|1X2|A|",
@@ -12711,5 +12721,37 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 1.593
+ },
+ {
+  "key": "faf65ee187576491d1feab23b17aadff|1X2|A|",
+  "placed_ts": "2026-10-31T11:26:27Z",
+  "status": "open",
+  "event_id": "faf65ee187576491d1feab23b17aadff",
+  "league": "D2",
+  "commence": "2026-10-31T12:00:00Z",
+  "home": "VfL Wolfsburg",
+  "away": "VfL Osnabrück",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "VfL Osnabrück",
+  "book": "unibet_nl",
+  "book_name": "Unibet NL",
+  "odds": 5.4,
+  "fair_odds": 5.273,
+  "p": 0.1897,
+  "edge": 0.0242,
+  "edge_bfx": -0.0267,
+  "kelly": 0.00137,
+  "stake_kelly": 1.37,
+  "tier": 2,
+  "confirmed": false,
+  "close_p": 0.18966,
+  "clv": 0.02417,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 5.273
  }
 ]

@@ -5775,7 +5775,7 @@
   "live": {
    "score": "2-0",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -5814,7 +5814,7 @@
   "live": {
    "score": "2-4",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -6025,7 +6025,7 @@
   "live": {
    "score": "1-0",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -6099,7 +6099,7 @@
   "live": {
    "score": "1-0",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -6173,7 +6173,7 @@
   "live": {
    "score": "2-0",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -6408,15 +6408,15 @@
   "clv": -0.08142,
   "result": null,
   "pnl": null,
-  "score": "1-1",
+  "score": "2-1",
   "primary": true,
   "close_odds": 4.355,
   "close_final": true,
   "close_lead_min": 14.8,
   "live": {
-   "score": "1-1",
-   "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "score": "2-1",
+   "now": "lost",
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -6443,13 +6443,13 @@
   "stake_kelly": 1.4,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.22987,
-  "clv": -0.03456,
+  "close_p": 0.22564,
+  "clv": -0.0523,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 4.35
+  "close_odds": 4.432
  },
  {
   "key": "c27c8af8c7ee29d153de0b9999ea0434|1X2|D|",
@@ -6487,7 +6487,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -7505,7 +7505,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -7908,7 +7908,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -9096,15 +9096,15 @@
   "clv": 0.03256,
   "result": null,
   "pnl": null,
-  "score": "1-2",
+  "score": "2-2",
   "primary": true,
   "close_odds": 4.068,
   "close_final": true,
   "close_lead_min": 38.1,
   "live": {
-   "score": "1-2",
-   "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "score": "2-2",
+   "now": "won",
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -10228,15 +10228,15 @@
   "clv": 0.09177,
   "result": null,
   "pnl": null,
-  "score": "1-1",
+  "score": "2-1",
   "primary": false,
   "close_odds": 1.887,
   "close_final": true,
   "close_lead_min": 14.8,
   "live": {
-   "score": "1-1",
+   "score": "2-1",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -10514,7 +10514,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -10573,13 +10573,13 @@
   "stake_kelly": 3.54,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.47129,
-  "clv": 0.01327,
+  "close_p": 0.48901,
+  "clv": 0.05138,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.122
+  "close_odds": 2.045
  },
  {
   "key": "7ec0555b03e5f46aa4e4c7e315ba6880|TOT|U|2.5",
@@ -12002,7 +12002,7 @@
   "live": {
    "score": "2-0",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -12146,7 +12146,7 @@
   "live": {
    "score": "2-4",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -12212,15 +12212,15 @@
   "clv": 0.00167,
   "result": null,
   "pnl": null,
-  "score": "1-1",
+  "score": "2-1",
   "strategy": "v2",
   "close_odds": 1.887,
   "close_final": true,
   "close_lead_min": 14.8,
   "live": {
-   "score": "1-1",
+   "score": "2-1",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -12294,7 +12294,7 @@
   "live": {
    "score": "2-0",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -12895,7 +12895,7 @@
   "live": {
    "score": "1-0",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -14103,7 +14103,7 @@
   "live": {
    "score": "3-4",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -14134,15 +14134,15 @@
   "clv": 0.01666,
   "result": null,
   "pnl": null,
-  "score": "0-2",
+  "score": "1-2",
   "strategy": "v2",
   "close_odds": 1.426,
   "close_final": true,
   "close_lead_min": 38.1,
   "live": {
-   "score": "0-2",
+   "score": "1-2",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -14181,7 +14181,7 @@
   "live": {
    "score": "3-4",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -14212,15 +14212,15 @@
   "clv": 0.01666,
   "result": null,
   "pnl": null,
-  "score": "0-2",
+  "score": "1-2",
   "primary": true,
   "close_odds": 1.426,
   "close_final": true,
   "close_lead_min": 38.1,
   "live": {
-   "score": "0-2",
+   "score": "1-2",
    "now": "won",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -14259,7 +14259,7 @@
   "live": {
    "score": "2-0",
    "now": "lost",
-   "ts": "2026-10-31T18:39:39Z"
+   "ts": "2026-10-31T18:50:13Z"
   }
  },
  {
@@ -14325,5 +14325,69 @@
   "score": null,
   "primary": true,
   "close_odds": 1.437
+ },
+ {
+  "key": "a497e21a8680cd1dbe55bd0907f7d696|1X2|A||v2",
+  "placed_ts": "2026-10-31T18:50:09Z",
+  "status": "open",
+  "event_id": "a497e21a8680cd1dbe55bd0907f7d696",
+  "league": "SUI",
+  "commence": "2026-10-31T19:30:00Z",
+  "home": "FC Luzern",
+  "away": "FC Sion",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "FC Sion",
+  "book": "unibet_nl",
+  "book_name": "Unibet NL",
+  "odds": 2.6,
+  "fair_odds": 2.557,
+  "p": 0.3911,
+  "edge": 0.017,
+  "edge_bfx": 0.011,
+  "kelly": 0.00265,
+  "stake_kelly": 2.65,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.39114,
+  "clv": 0.01696,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.557
+ },
+ {
+  "key": "a497e21a8680cd1dbe55bd0907f7d696|1X2|A|",
+  "placed_ts": "2026-10-31T18:50:09Z",
+  "status": "open",
+  "event_id": "a497e21a8680cd1dbe55bd0907f7d696",
+  "league": "SUI",
+  "commence": "2026-10-31T19:30:00Z",
+  "home": "FC Luzern",
+  "away": "FC Sion",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "FC Sion",
+  "book": "unibet_nl",
+  "book_name": "Unibet NL",
+  "odds": 2.6,
+  "fair_odds": 2.557,
+  "p": 0.3911,
+  "edge": 0.017,
+  "edge_bfx": 0.011,
+  "kelly": 0.00265,
+  "stake_kelly": 2.65,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.39114,
+  "clv": 0.01696,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 2.557
  }
 ]

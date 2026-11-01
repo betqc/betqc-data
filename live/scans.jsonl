@@ -491,3 +491,4 @@
 {"mode": "recalc", "new_bets": 7, "settled": 0, "credits_remaining": null, "credits_used": 0, "ts": "2026-11-01T04:29:38Z"}
 {"mode": "recalc", "new_bets": 1, "settled": 0, "credits_remaining": null, "credits_used": 0, "ts": "2026-11-01T05:04:34Z"}
 {"mode": "recalc", "new_bets": 1, "settled": 0, "credits_remaining": null, "credits_used": 0, "ts": "2026-11-01T05:38:25Z"}
+{"scan_ts": "2026-11-01T05:48:51Z", "horizon_h": 24, "leagues": {"NHL": "5 matchs, 5 en 3 issues"}, "rows": 691, "credits_remaining": 19653, "credits_used_scan": 9, "mode": "mid"}

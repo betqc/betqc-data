@@ -479,3 +479,4 @@
 {"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 19855, "credits_used": 2, "ts": "2026-11-01T01:57:47Z"}
 {"scan_ts": "2026-11-01T02:08:20Z", "horizon_h": 1.1666666666666665, "leagues": {"NHL": "aucun match dans l'horizon"}, "rows": 0, "credits_remaining": 19855, "credits_used_scan": 0, "mode": "near"}
 {"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 19853, "credits_used": 2, "ts": "2026-11-01T02:08:20Z"}
+{"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 19851, "credits_used": 2, "ts": "2026-11-01T02:18:38Z"}

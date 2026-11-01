@@ -11609,15 +11609,15 @@
   "clv": 0.01474,
   "result": null,
   "pnl": null,
-  "score": "46-41",
+  "score": "50-56",
   "primary": true,
   "close_odds": 1.183,
   "close_final": true,
   "close_lead_min": 31.8,
   "live": {
-   "score": "46-41",
-   "now": "won",
-   "ts": "2026-11-01T00:53:37Z"
+   "score": "50-56",
+   "now": "lost",
+   "ts": "2026-11-01T01:04:24Z"
   }
  },
  {
@@ -11648,15 +11648,15 @@
   "clv": -0.11575,
   "result": null,
   "pnl": null,
-  "score": "44-29",
+  "score": "51-37",
   "primary": true,
   "close_odds": 1.38,
   "close_final": true,
   "close_lead_min": 31.8,
   "live": {
-   "score": "44-29",
+   "score": "51-37",
    "now": "won",
-   "ts": "2026-11-01T00:53:37Z"
+   "ts": "2026-11-01T01:04:24Z"
   }
  },
  {
@@ -12917,15 +12917,15 @@
   "clv": 0.05169,
   "result": null,
   "pnl": null,
-  "score": "91-74",
+  "score": "96-78",
   "primary": true,
   "close_odds": 1.54,
   "close_final": true,
   "close_lead_min": 14.6,
   "live": {
-   "score": "91-74",
+   "score": "96-78",
    "now": "lost",
-   "ts": "2026-11-01T00:53:37Z"
+   "ts": "2026-11-01T01:04:24Z"
   }
  },
  {
@@ -13093,15 +13093,15 @@
   "clv": 0.05169,
   "result": null,
   "pnl": null,
-  "score": "91-74",
+  "score": "96-78",
   "strategy": "v2",
   "close_odds": 1.54,
   "close_final": true,
   "close_lead_min": 14.6,
   "live": {
-   "score": "91-74",
+   "score": "96-78",
    "now": "lost",
-   "ts": "2026-11-01T00:53:37Z"
+   "ts": "2026-11-01T01:04:24Z"
   }
  },
  {
@@ -13272,15 +13272,15 @@
   "clv": 0.01474,
   "result": null,
   "pnl": null,
-  "score": "46-41",
+  "score": "50-56",
   "strategy": "v2",
   "close_odds": 1.183,
   "close_final": true,
   "close_lead_min": 31.8,
   "live": {
-   "score": "46-41",
-   "now": "won",
-   "ts": "2026-11-01T00:53:37Z"
+   "score": "50-56",
+   "now": "lost",
+   "ts": "2026-11-01T01:04:24Z"
   }
  },
  {
@@ -13311,15 +13311,15 @@
   "clv": -0.11575,
   "result": null,
   "pnl": null,
-  "score": "44-29",
+  "score": "51-37",
   "strategy": "v2",
   "close_odds": 1.38,
   "close_final": true,
   "close_lead_min": 31.8,
   "live": {
-   "score": "44-29",
+   "score": "51-37",
    "now": "won",
-   "ts": "2026-11-01T00:53:37Z"
+   "ts": "2026-11-01T01:04:24Z"
   }
  },
  {
@@ -15253,5 +15253,37 @@
   "score": null,
   "primary": false,
   "close_odds": 3.151
+ },
+ {
+  "key": "cd2960ff2b4d605144a83562b0085400|1X2|H||v2",
+  "placed_ts": "2026-11-01T01:04:19Z",
+  "status": "open",
+  "event_id": "cd2960ff2b4d605144a83562b0085400",
+  "league": "T1",
+  "commence": "2026-11-01T13:00:00Z",
+  "home": "Trabzonspor",
+  "away": "Gazişehir Gaziantep",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Trabzonspor",
+  "book": "ladbrokes_uk",
+  "book_name": "Ladbrokes",
+  "odds": 1.33,
+  "fair_odds": 1.298,
+  "p": 0.7701,
+  "edge": 0.0243,
+  "edge_bfx": null,
+  "kelly": 0.01838,
+  "stake_kelly": 18.38,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.77013,
+  "clv": 0.02427,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.298
  }
 ]

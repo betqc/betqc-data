@@ -11584,7 +11584,7 @@
  {
   "key": "06a03fb0ce0f81a970c6000fb71fdc6d|1X2|H|",
   "placed_ts": "2026-10-31T03:45:55Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "06a03fb0ce0f81a970c6000fb71fdc6d",
   "league": "NBA",
   "commence": "2026-11-01T00:10:00Z",
@@ -11607,23 +11607,19 @@
   "confirmed": null,
   "close_p": 0.84561,
   "clv": 0.01474,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.2,
   "score": "121-111",
   "primary": true,
   "close_odds": 1.183,
   "close_final": true,
   "close_lead_min": 31.8,
-  "live": {
-   "score": "121-111",
-   "now": "won",
-   "ts": "2026-11-01T02:29:27Z"
-  }
+  "settled_ts": "2026-11-01T02:40:05Z"
  },
  {
   "key": "863ae1092be42c6b563b2c4f099a3eb3|1X2|H|",
   "placed_ts": "2026-10-31T03:45:55Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "863ae1092be42c6b563b2c4f099a3eb3",
   "league": "NBA",
   "commence": "2026-11-01T00:10:00Z",
@@ -11646,18 +11642,14 @@
   "confirmed": null,
   "close_p": 0.72479,
   "clv": -0.11575,
-  "result": null,
-  "pnl": null,
-  "score": "120-99",
+  "result": "won",
+  "pnl": 0.22,
+  "score": "136-105",
   "primary": true,
   "close_odds": 1.38,
   "close_final": true,
   "close_lead_min": 31.8,
-  "live": {
-   "score": "120-99",
-   "now": "won",
-   "ts": "2026-11-01T02:29:27Z"
-  }
+  "settled_ts": "2026-11-01T02:40:05Z"
  },
  {
   "key": "aaf80503a4d464deaca15c7d6bc9dcd7|1X2|A||v2",
@@ -13239,7 +13231,7 @@
  {
   "key": "06a03fb0ce0f81a970c6000fb71fdc6d|1X2|H||v2",
   "placed_ts": "2026-10-31T12:20:21Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "06a03fb0ce0f81a970c6000fb71fdc6d",
   "league": "NBA",
   "commence": "2026-11-01T00:10:00Z",
@@ -13262,23 +13254,19 @@
   "confirmed": null,
   "close_p": 0.84561,
   "clv": 0.01474,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.2,
   "score": "121-111",
   "strategy": "v2",
   "close_odds": 1.183,
   "close_final": true,
   "close_lead_min": 31.8,
-  "live": {
-   "score": "121-111",
-   "now": "won",
-   "ts": "2026-11-01T02:29:27Z"
-  }
+  "settled_ts": "2026-11-01T02:40:05Z"
  },
  {
   "key": "863ae1092be42c6b563b2c4f099a3eb3|1X2|H||v2",
   "placed_ts": "2026-10-31T12:20:21Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "863ae1092be42c6b563b2c4f099a3eb3",
   "league": "NBA",
   "commence": "2026-11-01T00:10:00Z",
@@ -13301,18 +13289,14 @@
   "confirmed": null,
   "close_p": 0.72479,
   "clv": -0.11575,
-  "result": null,
-  "pnl": null,
-  "score": "120-99",
+  "result": "won",
+  "pnl": 0.22,
+  "score": "136-105",
   "strategy": "v2",
   "close_odds": 1.38,
   "close_final": true,
   "close_lead_min": 31.8,
-  "live": {
-   "score": "120-99",
-   "now": "won",
-   "ts": "2026-11-01T02:29:27Z"
-  }
+  "settled_ts": "2026-11-01T02:40:05Z"
  },
  {
   "key": "59cd398152bfa1c4bffe2b866237e7a6|1X2|A||v2",
@@ -15341,5 +15325,37 @@
   "score": null,
   "primary": true,
   "close_odds": 2.546
+ },
+ {
+  "key": "60eaeb599578cd5c951f917c4fef06ff|1X2|A||v2",
+  "placed_ts": "2026-11-01T02:40:00Z",
+  "status": "open",
+  "event_id": "60eaeb599578cd5c951f917c4fef06ff",
+  "league": "D1",
+  "commence": "2026-11-01T14:30:00Z",
+  "home": "Union Berlin",
+  "away": "1. FC Köln",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "1. FC Köln",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 2.65,
+  "fair_odds": 2.606,
+  "p": 0.3838,
+  "edge": 0.017,
+  "edge_bfx": 0.014,
+  "kelly": 0.00258,
+  "stake_kelly": 2.58,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.38377,
+  "clv": 0.017,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.606
  }
 ]

@@ -10710,7 +10710,7 @@
   "live": {
    "score": "3-1",
    "now": "lost",
-   "ts": "2026-11-02T18:34:00Z"
+   "ts": "2026-11-02T18:46:33Z"
   }
  },
  {
@@ -14886,7 +14886,7 @@
   "live": {
    "score": "3-1",
    "now": "lost",
-   "ts": "2026-11-02T18:34:00Z"
+   "ts": "2026-11-02T18:46:33Z"
   }
  },
  {
@@ -18506,15 +18506,15 @@
   "clv": 0.05281,
   "result": null,
   "pnl": null,
-  "score": "1-1",
+  "score": "3-1",
   "strategy": "v2",
   "close_odds": 1.976,
   "close_final": true,
   "close_lead_min": 36.2,
   "live": {
-   "score": "1-1",
-   "now": "lost",
-   "ts": "2026-11-02T18:12:42Z"
+   "score": "3-1",
+   "now": "won",
+   "ts": "2026-11-02T18:46:33Z"
   }
  },
  {
@@ -18772,15 +18772,15 @@
   "clv": 0.05281,
   "result": null,
   "pnl": null,
-  "score": "1-1",
+  "score": "3-1",
   "primary": true,
   "close_odds": 1.976,
   "close_final": true,
   "close_lead_min": 36.2,
   "live": {
-   "score": "1-1",
-   "now": "lost",
-   "ts": "2026-11-02T18:12:42Z"
+   "score": "3-1",
+   "now": "won",
+   "ts": "2026-11-02T18:46:33Z"
   }
  },
  {
@@ -19055,7 +19055,7 @@
   "live": {
    "score": "3-1",
    "now": "won",
-   "ts": "2026-11-02T18:34:00Z"
+   "ts": "2026-11-02T18:46:33Z"
   }
  },
  {
@@ -19086,15 +19086,15 @@
   "clv": 0.05965,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "1-2",
   "strategy": "v2",
   "close_odds": 1.953,
   "close_final": true,
   "close_lead_min": 3.8,
   "live": {
-   "score": "1-0",
-   "now": "won",
-   "ts": "2026-11-02T18:12:42Z"
+   "score": "1-2",
+   "now": "push",
+   "ts": "2026-11-02T18:46:33Z"
   }
  },
  {
@@ -19133,7 +19133,7 @@
   "live": {
    "score": "3-1",
    "now": "won",
-   "ts": "2026-11-02T18:34:00Z"
+   "ts": "2026-11-02T18:46:33Z"
   }
  },
  {
@@ -19164,15 +19164,15 @@
   "clv": 0.05965,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "1-2",
   "primary": true,
   "close_odds": 1.953,
   "close_final": true,
   "close_lead_min": 3.8,
   "live": {
-   "score": "1-0",
-   "now": "won",
-   "ts": "2026-11-02T18:12:42Z"
+   "score": "1-2",
+   "now": "push",
+   "ts": "2026-11-02T18:46:33Z"
   }
  },
  {

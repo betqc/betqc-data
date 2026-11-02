@@ -18103,15 +18103,15 @@
   "clv": 0.03326,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-1",
   "primary": true,
   "close_odds": 2.052,
   "close_final": true,
   "close_lead_min": 35.7,
   "live": {
-   "score": "1-0",
+   "score": "2-1",
    "now": "won",
-   "ts": "2026-11-02T23:19:09Z"
+   "ts": "2026-11-02T23:51:49Z"
   }
  },
  {
@@ -18486,15 +18486,15 @@
   "clv": 0.02838,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-1",
   "strategy": "v2",
   "close_odds": 2.052,
   "close_final": true,
   "close_lead_min": 35.7,
   "live": {
-   "score": "1-0",
+   "score": "2-1",
    "now": "won",
-   "ts": "2026-11-02T23:19:09Z"
+   "ts": "2026-11-02T23:51:49Z"
   }
  },
  {

@@ -9998,13 +9998,13 @@
   "stake_kelly": 9.92,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.57,
-  "clv": 0.0431,
+  "close_p": 0.5736,
+  "clv": 0.04969,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.754
+  "close_odds": 1.743
  },
  {
   "key": "640c52a86289f35698261b41987dd71e|1X2|D|",
@@ -12477,13 +12477,13 @@
   "stake_kelly": 1.54,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.15454,
-  "clv": 0.05863,
+  "close_p": 0.15703,
+  "clv": 0.07564,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 6.471
+  "close_odds": 6.368
  },
  {
   "key": "c876c7bc6c966a9a5be59d95b5e58adb|1X2|D|",
@@ -12683,13 +12683,13 @@
   "stake_kelly": 2.51,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.31622,
-  "clv": -0.0039,
+  "close_p": 0.31596,
+  "clv": -0.00474,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.162
+  "close_odds": 3.165
  },
  {
   "key": "aecb9d8c01176616c87d893bee4bc0de|1X2|D|",
@@ -12820,13 +12820,13 @@
   "stake_kelly": 3.86,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.44549,
-  "clv": 0.01572,
+  "close_p": 0.44937,
+  "clv": 0.02455,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.245
+  "close_odds": 2.225
  },
  {
   "key": "6bf5102547eb3f3eb74023133e27d2d3|1X2|D|",
@@ -12887,13 +12887,13 @@
   "stake_kelly": 2.28,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.29066,
-  "clv": -0.09022,
+  "close_p": 0.29042,
+  "clv": -0.091,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.44
+  "close_odds": 3.443
  },
  {
   "key": "60eaeb599578cd5c951f917c4fef06ff|1X2|D|",
@@ -13059,13 +13059,13 @@
   "stake_kelly": 1.82,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.31159,
-  "clv": 0.01268,
+  "close_p": 0.31188,
+  "clv": 0.01362,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.209
+  "close_odds": 3.206
  },
  {
   "key": "04aa939b89001eedf55668e66c74836e|TOT|U|2.5",
@@ -17679,13 +17679,13 @@
   "stake_kelly": 1.99,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.23776,
-  "clv": 0.02238,
+  "close_p": 0.23657,
+  "clv": 0.01726,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 4.206
+  "close_odds": 4.227
  },
  {
   "key": "f43ef699c987e112e115f7035114854e|1X2|A|",
@@ -17871,13 +17871,13 @@
   "stake_kelly": 1.65,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.29369,
-  "clv": 0.01323,
+  "close_p": 0.29519,
+  "clv": 0.01839,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.405
+  "close_odds": 3.388
  },
  {
   "key": "6891a7ee06d4118eba6fb1ea59026099|1X2|H||v2",
@@ -17903,13 +17903,13 @@
   "stake_kelly": 5.69,
   "tier": 2,
   "confirmed": true,
-  "close_p": 0.57,
-  "clv": 0.0203,
+  "close_p": 0.5736,
+  "clv": 0.02675,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.754
+  "close_odds": 1.743
  },
  {
   "key": "6579d9162df09172d12f48eecc5220fb|1X2|A|",
@@ -18095,13 +18095,13 @@
   "stake_kelly": 3.08,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.44732,
-  "clv": 0.06462,
+  "close_p": 0.44707,
+  "clv": 0.06403,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 2.236
+  "close_odds": 2.237
  },
  {
   "key": "e43e6dc9406491d90d5b5e7bbbfcf576|1X2|H|",
@@ -18127,13 +18127,13 @@
   "stake_kelly": 1.43,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.14776,
-  "clv": 0.03431,
+  "close_p": 0.14329,
+  "clv": 0.003,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 6.768
+  "close_odds": 6.979
  },
  {
   "key": "d56e71286d50584ccb26b7e004f69afe|1X2|H|",
@@ -18159,13 +18159,13 @@
   "stake_kelly": 5.86,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.45746,
-  "clv": 0.02928,
+  "close_p": 0.45696,
+  "clv": 0.02817,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.186
+  "close_odds": 2.188
  },
  {
   "key": "b6b186eeddf010582866d3ca7123a2b7|1X2|H|",
@@ -18191,13 +18191,13 @@
   "stake_kelly": 4.41,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.4485,
-  "clv": 0.02257,
+  "close_p": 0.44229,
+  "clv": 0.00842,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.23
+  "close_odds": 2.261
  },
  {
   "key": "d56e71286d50584ccb26b7e004f69afe|1X2|H||v2",
@@ -18223,13 +18223,13 @@
   "stake_kelly": 5.86,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.45746,
-  "clv": 0.02928,
+  "close_p": 0.45696,
+  "clv": 0.02817,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.186
+  "close_odds": 2.188
  },
  {
   "key": "0f552d9c6990c69474f50ff2fb54e9a3|1X2|H||v2",
@@ -18255,12 +18255,76 @@
   "stake_kelly": 7.94,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.44732,
-  "clv": 0.04225,
+  "close_p": 0.44707,
+  "clv": 0.04167,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.236
+  "close_odds": 2.237
+ },
+ {
+  "key": "7a2cd2744fdf15ea675423a6c23df46b|1X2|H||v2",
+  "placed_ts": "2026-11-02T09:14:05Z",
+  "status": "open",
+  "event_id": "7a2cd2744fdf15ea675423a6c23df46b",
+  "league": "SP1",
+  "commence": "2026-11-02T20:00:00Z",
+  "home": "Deportivo La Coruña",
+  "away": "CA Osasuna",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Deportivo La Coruña",
+  "book": "onexbet",
+  "book_name": "1xBet",
+  "odds": 2.27,
+  "fair_odds": 2.225,
+  "p": 0.4494,
+  "edge": 0.0201,
+  "edge_bfx": 0.0101,
+  "kelly": 0.00395,
+  "stake_kelly": 3.95,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.44937,
+  "clv": 0.02006,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.225
+ },
+ {
+  "key": "b6b186eeddf010582866d3ca7123a2b7|1X2|D|",
+  "placed_ts": "2026-11-02T09:14:05Z",
+  "status": "open",
+  "event_id": "b6b186eeddf010582866d3ca7123a2b7",
+  "league": "G1",
+  "commence": "2026-11-02T17:30:00Z",
+  "home": "Kalamata FC",
+  "away": "Iraklis FC",
+  "market": "1X2",
+  "sel": "D",
+  "point": null,
+  "label": "Nul",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 3.4,
+  "fair_odds": 3.332,
+  "p": 0.3001,
+  "edge": 0.0205,
+  "edge_bfx": 0.0164,
+  "kelly": 0.00214,
+  "stake_kelly": 2.14,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.30015,
+  "clv": 0.0205,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 3.332
  }
 ]

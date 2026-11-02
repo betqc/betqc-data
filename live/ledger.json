@@ -13056,7 +13056,7 @@
  {
   "key": "97ce048d06fc45fc59e114548540828f|1X2|D|",
   "placed_ts": "2026-10-31T06:10:46Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "97ce048d06fc45fc59e114548540828f",
   "league": "P1",
   "commence": "2026-11-02T20:15:00Z",
@@ -13079,18 +13079,14 @@
   "confirmed": null,
   "close_p": 0.29801,
   "clv": -0.03145,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 2.25,
   "score": "0-0",
   "primary": true,
   "close_odds": 3.356,
   "close_final": true,
   "close_lead_min": 34.8,
-  "live": {
-   "score": "0-0",
-   "now": "won",
-   "ts": "2026-11-02T21:52:01Z"
-  }
+  "settled_ts": "2026-11-02T22:13:36Z"
  },
  {
   "key": "04aa939b89001eedf55668e66c74836e|TOT|U|2.5",

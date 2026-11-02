@@ -9998,13 +9998,13 @@
   "stake_kelly": 9.92,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.57719,
-  "clv": 0.05625,
+  "close_p": 0.56745,
+  "clv": 0.03843,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.733
+  "close_odds": 1.762
  },
  {
   "key": "640c52a86289f35698261b41987dd71e|1X2|D|",
@@ -17903,13 +17903,13 @@
   "stake_kelly": 5.69,
   "tier": 2,
   "confirmed": true,
-  "close_p": 0.57719,
-  "clv": 0.03316,
+  "close_p": 0.56745,
+  "clv": 0.01573,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.733
+  "close_odds": 1.762
  },
  {
   "key": "6579d9162df09172d12f48eecc5220fb|1X2|A|",
@@ -18587,7 +18587,7 @@
   "live": {
    "score": "2-0",
    "now": "lost",
-   "ts": "2026-11-02T14:24:53Z"
+   "ts": "2026-11-02T14:35:34Z"
   }
  },
  {
@@ -18813,5 +18813,69 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 1.734
+ },
+ {
+  "key": "6891a7ee06d4118eba6fb1ea59026099|TOT|U|2.5|v2",
+  "placed_ts": "2026-11-02T14:35:30Z",
+  "status": "open",
+  "event_id": "6891a7ee06d4118eba6fb1ea59026099",
+  "league": "SP2",
+  "commence": "2026-11-02T15:15:00Z",
+  "home": "Oviedo",
+  "away": "Las Palmas",
+  "market": "TOT",
+  "sel": "U",
+  "point": 2.5,
+  "label": "Moins de 2,5",
+  "book": "onexbet",
+  "book_name": "1xBet",
+  "odds": 2.03,
+  "fair_odds": 2.0,
+  "p": 0.5,
+  "edge": 0.015,
+  "edge_bfx": null,
+  "kelly": 0.00364,
+  "stake_kelly": 3.64,
+  "tier": 2,
+  "confirmed": null,
+  "close_p": 0.5,
+  "clv": 0.015,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.0
+ },
+ {
+  "key": "6891a7ee06d4118eba6fb1ea59026099|TOT|U|2.5",
+  "placed_ts": "2026-11-02T14:35:30Z",
+  "status": "open",
+  "event_id": "6891a7ee06d4118eba6fb1ea59026099",
+  "league": "SP2",
+  "commence": "2026-11-02T15:15:00Z",
+  "home": "Oviedo",
+  "away": "Las Palmas",
+  "market": "TOT",
+  "sel": "U",
+  "point": 2.5,
+  "label": "Moins de 2,5",
+  "book": "onexbet",
+  "book_name": "1xBet",
+  "odds": 2.03,
+  "fair_odds": 2.0,
+  "p": 0.5,
+  "edge": 0.015,
+  "edge_bfx": null,
+  "kelly": 0.00364,
+  "stake_kelly": 3.64,
+  "tier": 2,
+  "confirmed": null,
+  "close_p": 0.5,
+  "clv": 0.015,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 2.0
  }
 ]

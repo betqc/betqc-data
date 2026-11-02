@@ -46,6 +46,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BETQC_LIVE_DIR: ${{ github.workspace }}/data/live
           BETQC_PUBLIC_DIR: ${{ github.workspace }}/data/public
+          BETQC_REGIONS: ${{ vars.BETQC_REGIONS }}
         run: |
           cd data
           git config user.name "betqc-robot"

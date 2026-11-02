@@ -1,1 +1,1 @@
-{"ts": "2026-11-02T07:03:01Z", "rows": [], "log": {"ts": "2026-11-02T07:03:01Z", "pages": 0, "mj_events": 0, "matched": 0, "unmatched": [], "errors": [], "changed": 0}}
+{"ts": "2026-11-02T07:54:01Z", "rows": [], "log": {"ts": "2026-11-02T07:54:01Z", "pages": 0, "mj_events": 0, "matched": 0, "unmatched": [], "errors": ["accueil : HTTPError"]}}

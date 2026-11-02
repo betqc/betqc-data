@@ -18554,7 +18554,7 @@
  {
   "key": "f89b9247af7cc118faae54ec9f0934ee|1X2|D|",
   "placed_ts": "2026-11-02T12:36:37Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "f89b9247af7cc118faae54ec9f0934ee",
   "league": "SP2",
   "commence": "2026-11-02T13:00:00Z",
@@ -18577,18 +18577,14 @@
   "confirmed": true,
   "close_p": 0.31537,
   "clv": 0.04702,
-  "result": null,
-  "pnl": null,
-  "score": "2-1",
+  "result": "won",
+  "pnl": 2.32,
+  "score": "2-2",
   "primary": true,
   "close_odds": 3.171,
   "close_final": true,
   "close_lead_min": 23.4,
-  "live": {
-   "score": "2-1",
-   "now": "lost",
-   "ts": "2026-11-02T14:50:39Z"
-  }
+  "settled_ts": "2026-11-02T15:01:56Z"
  },
  {
   "key": "6e6ddd0046e27c40f5b67c96cc16d5fd|1X2|A|",

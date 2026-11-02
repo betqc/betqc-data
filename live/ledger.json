@@ -12483,13 +12483,13 @@
   "stake_kelly": 1.54,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.1309,
-  "clv": -0.10335,
+  "close_p": 0.11701,
+  "clv": -0.1985,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 7.64
+  "close_odds": 8.546
  },
  {
   "key": "c876c7bc6c966a9a5be59d95b5e58adb|1X2|D|",
@@ -12689,13 +12689,13 @@
   "stake_kelly": 2.51,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.30813,
-  "clv": -0.02939,
+  "close_p": 0.3093,
+  "clv": -0.02569,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.245
+  "close_odds": 3.233
  },
  {
   "key": "aecb9d8c01176616c87d893bee4bc0de|1X2|D|",
@@ -13065,13 +13065,13 @@
   "stake_kelly": 1.82,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.31248,
-  "clv": 0.01555,
+  "close_p": 0.29801,
+  "clv": -0.03145,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.2
+  "close_odds": 3.356
  },
  {
   "key": "04aa939b89001eedf55668e66c74836e|TOT|U|2.5",
@@ -17636,7 +17636,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:40:20Z"
   }
  },
  {
@@ -17699,15 +17699,15 @@
   "clv": 0.00848,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-1",
   "primary": true,
   "close_odds": 4.264,
   "close_final": true,
   "close_lead_min": 33.8,
   "live": {
-   "score": "1-0",
+   "score": "2-1",
    "now": "lost",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:40:20Z"
   }
  },
  {
@@ -18165,7 +18165,7 @@
   "live": {
    "score": "0-2",
    "now": "lost",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:40:20Z"
   }
  },
  {
@@ -18196,11 +18196,16 @@
   "clv": 0.0502,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-1",
   "primary": true,
   "close_odds": 2.142,
   "close_final": true,
-  "close_lead_min": 32.8
+  "close_lead_min": 32.8,
+  "live": {
+   "score": "0-1",
+   "now": "lost",
+   "ts": "2026-11-02T19:40:20Z"
+  }
  },
  {
   "key": "b6b186eeddf010582866d3ca7123a2b7|1X2|H|",
@@ -18265,11 +18270,16 @@
   "clv": 0.0502,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-1",
   "strategy": "v2",
   "close_odds": 2.142,
   "close_final": true,
-  "close_lead_min": 32.8
+  "close_lead_min": 32.8,
+  "live": {
+   "score": "0-1",
+   "now": "lost",
+   "ts": "2026-11-02T19:40:20Z"
+  }
  },
  {
   "key": "0f552d9c6990c69474f50ff2fb54e9a3|1X2|H||v2",
@@ -19167,15 +19177,15 @@
   "clv": 0.01759,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-1",
   "strategy": "v2",
   "close_odds": 1.897,
   "close_final": true,
   "close_lead_min": 33.8,
   "live": {
-   "score": "1-0",
+   "score": "2-1",
    "now": "won",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:40:20Z"
   }
  },
  {
@@ -19206,15 +19216,15 @@
   "clv": 0.01759,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "2-1",
   "primary": false,
   "close_odds": 1.897,
   "close_final": true,
   "close_lead_min": 33.8,
   "live": {
-   "score": "1-0",
+   "score": "2-1",
    "now": "won",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:40:20Z"
   }
  },
  {
@@ -19253,7 +19263,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:40:20Z"
   }
  },
  {
@@ -19280,13 +19290,13 @@
   "stake_kelly": 1.83,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.30813,
-  "clv": 0.01683,
+  "close_p": 0.30052,
+  "clv": -0.00828,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.245
+  "close_odds": 3.328
  },
  {
   "key": "53ad3f78c949e79381b5e90a70293ac6|1X2|H|",
@@ -19319,5 +19329,133 @@
   "score": null,
   "primary": true,
   "close_odds": 2.878
+ },
+ {
+  "key": "b199e41aa8f4e383ecbeedbd329290e9|1X2|A||v2",
+  "placed_ts": "2026-11-02T19:40:17Z",
+  "status": "open",
+  "event_id": "b199e41aa8f4e383ecbeedbd329290e9",
+  "league": "F2",
+  "commence": "2026-11-02T19:45:00Z",
+  "home": "Red Star",
+  "away": "Nancy",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Nancy",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 2.95,
+  "fair_odds": 2.905,
+  "p": 0.3443,
+  "edge": 0.0156,
+  "edge_bfx": 0.0166,
+  "kelly": 0.00199,
+  "stake_kelly": 1.99,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.34426,
+  "clv": 0.01556,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.905
+ },
+ {
+  "key": "2e488800d615a94e5377c195810303c0|1X2|H||v2",
+  "placed_ts": "2026-11-02T19:40:17Z",
+  "status": "open",
+  "event_id": "2e488800d615a94e5377c195810303c0",
+  "league": "I1",
+  "commence": "2026-11-02T19:45:00Z",
+  "home": "Atalanta BC",
+  "away": "Parma",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Atalanta BC",
+  "book": "marathonbet",
+  "book_name": "Marathonbet",
+  "odds": 1.44,
+  "fair_odds": 1.419,
+  "p": 0.7049,
+  "edge": 0.015,
+  "edge_bfx": 0.0095,
+  "kelly": 0.00855,
+  "stake_kelly": 8.55,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.7049,
+  "clv": 0.01505,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.419
+ },
+ {
+  "key": "b199e41aa8f4e383ecbeedbd329290e9|1X2|A|",
+  "placed_ts": "2026-11-02T19:40:17Z",
+  "status": "open",
+  "event_id": "b199e41aa8f4e383ecbeedbd329290e9",
+  "league": "F2",
+  "commence": "2026-11-02T19:45:00Z",
+  "home": "Red Star",
+  "away": "Nancy",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Nancy",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 2.95,
+  "fair_odds": 2.905,
+  "p": 0.3443,
+  "edge": 0.0156,
+  "edge_bfx": 0.0166,
+  "kelly": 0.00199,
+  "stake_kelly": 1.99,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.34426,
+  "clv": 0.01556,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 2.905
+ },
+ {
+  "key": "2e488800d615a94e5377c195810303c0|1X2|H|",
+  "placed_ts": "2026-11-02T19:40:17Z",
+  "status": "open",
+  "event_id": "2e488800d615a94e5377c195810303c0",
+  "league": "I1",
+  "commence": "2026-11-02T19:45:00Z",
+  "home": "Atalanta BC",
+  "away": "Parma",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Atalanta BC",
+  "book": "marathonbet",
+  "book_name": "Marathonbet",
+  "odds": 1.44,
+  "fair_odds": 1.419,
+  "p": 0.7049,
+  "edge": 0.015,
+  "edge_bfx": 0.0095,
+  "kelly": 0.00855,
+  "stake_kelly": 8.55,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.7049,
+  "clv": 0.01505,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 1.419
  }
 ]

@@ -1,0 +1,22 @@
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+set-cookie: __uzma=445f7f8b-1a50-499a-ba88-0f52742fcd14; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:36 GMT; Max-Age=15724800; SameSite=Lax
+set-cookie: __uzmb=1793583936; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:36 GMT; Max-Age=15724800; SameSite=Lax
+set-cookie: __uzme=2027; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:36 GMT; Max-Age=15724800; SameSite=Lax
+set-cookie: __uzmc=730611057834; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:36 GMT; Max-Age=15724800; SameSite=Lax
+set-cookie: __uzmd=1793583936; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:36 GMT; Max-Age=15724800; SameSite=Lax
+date: Mon, 02 Nov 2026 01:45:36 GMT
+set-cookie: reseau=2; Path=/; Secure
+x-ua-compatible: IE=11,IE=10,IE=9,IE=8
+pragma: No-cache
+cache-control: no-cache,no-store,max-age=0
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+set-cookie: derniereVisite=30$null; Path=/; Secure
+set-cookie: idAct=30; Path=/; Secure
+set-cookie: Themes=basketball; Path=/; Secure
+set-cookie: descActivites=basketball/nba/matchs; Path=/; Secure
+set-cookie: typeMenu=parTypesParis; Path=/; Secure
+set-cookie: JSESSIONID="4ZjoMvuVD8tuYM85M+WW3zfV.hc-j01-trx02-1a:jvm-j01-trx02-1a"; Version=1; Path=/; Secure; HttpOnly
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000; includeSubDomains
+

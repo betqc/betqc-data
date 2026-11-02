@@ -1,0 +1,20 @@
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+set-cookie: __uzma=deab5538-3342-44e5-b9e0-4a3a8ec23719; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:32 GMT; Max-Age=15724800; SameSite=Lax
+set-cookie: __uzmb=1793583932; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:32 GMT; Max-Age=15724800; SameSite=Lax
+set-cookie: __uzme=3624; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:32 GMT; Max-Age=15724800; SameSite=Lax
+set-cookie: __uzmc=169911015928; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:32 GMT; Max-Age=15724800; SameSite=Lax
+set-cookie: __uzmd=1793583932; Domain=miseojeu.espacejeux.com; HttpOnly; path=/; Expires=Mon, 03-May-27 01:45:32 GMT; Max-Age=15724800; SameSite=Lax
+date: Mon, 02 Nov 2026 01:45:32 GMT
+set-cookie: reseau=2; Path=/; Secure
+x-ua-compatible: IE=11,IE=10,IE=9,IE=8
+pragma: No-cache
+cache-control: no-cache,no-store,max-age=0
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+set-cookie: derniereVisite=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: idAct=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: typeMenu=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+set-cookie: JSESSIONID="L61s-QXE4mc-frJcJmQePAfh.hc-j01-trx02-1b:jvm-j01-trx02-1b"; Version=1; Path=/; Secure; HttpOnly
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000; includeSubDomains
+

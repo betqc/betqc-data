@@ -12489,7 +12489,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 8.546
+  "close_odds": 8.546,
+  "close_final": true,
+  "close_lead_min": 4.8
  },
  {
   "key": "c876c7bc6c966a9a5be59d95b5e58adb|1X2|D|",
@@ -12693,9 +12695,16 @@
   "clv": -0.02569,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "primary": true,
-  "close_odds": 3.233
+  "close_odds": 3.233,
+  "close_final": true,
+  "close_lead_min": 4.8,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-02T19:51:41Z"
+  }
  },
  {
   "key": "aecb9d8c01176616c87d893bee4bc0de|1X2|D|",
@@ -19294,9 +19303,16 @@
   "clv": -0.00828,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "primary": false,
-  "close_odds": 3.328
+  "close_odds": 3.328,
+  "close_final": true,
+  "close_lead_min": 4.8,
+  "live": {
+   "score": "0-0",
+   "now": "won",
+   "ts": "2026-11-02T19:51:41Z"
+  }
  },
  {
   "key": "53ad3f78c949e79381b5e90a70293ac6|1X2|H|",
@@ -19358,9 +19374,16 @@
   "clv": 0.01556,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "strategy": "v2",
-  "close_odds": 2.905
+  "close_odds": 2.905,
+  "close_final": true,
+  "close_lead_min": 4.8,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-02T19:51:41Z"
+  }
  },
  {
   "key": "2e488800d615a94e5377c195810303c0|1X2|H||v2",
@@ -19392,7 +19415,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.419
+  "close_odds": 1.419,
+  "close_final": true,
+  "close_lead_min": 4.8
  },
  {
   "key": "b199e41aa8f4e383ecbeedbd329290e9|1X2|A|",
@@ -19422,9 +19447,16 @@
   "clv": 0.01556,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "primary": true,
-  "close_odds": 2.905
+  "close_odds": 2.905,
+  "close_final": true,
+  "close_lead_min": 4.8,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-02T19:51:41Z"
+  }
  },
  {
   "key": "2e488800d615a94e5377c195810303c0|1X2|H|",
@@ -19456,6 +19488,8 @@
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 1.419
+  "close_odds": 1.419,
+  "close_final": true,
+  "close_lead_min": 4.8
  }
 ]

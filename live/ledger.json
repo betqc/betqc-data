@@ -10710,7 +10710,7 @@
   "live": {
    "score": "4-2",
    "now": "lost",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:19:32Z"
   }
  },
  {
@@ -14886,7 +14886,7 @@
   "live": {
    "score": "4-2",
    "now": "lost",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:19:32Z"
   }
  },
  {
@@ -19047,7 +19047,7 @@
   "live": {
    "score": "4-2",
    "now": "won",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:19:32Z"
   }
  },
  {
@@ -19078,15 +19078,15 @@
   "clv": 0.05965,
   "result": null,
   "pnl": null,
-  "score": "1-2",
+  "score": "2-3",
   "strategy": "v2",
   "close_odds": 1.953,
   "close_final": true,
   "close_lead_min": 3.8,
   "live": {
-   "score": "1-2",
-   "now": "push",
-   "ts": "2026-11-02T18:46:33Z"
+   "score": "2-3",
+   "now": "lost",
+   "ts": "2026-11-02T19:19:32Z"
   }
  },
  {
@@ -19125,7 +19125,7 @@
   "live": {
    "score": "4-2",
    "now": "won",
-   "ts": "2026-11-02T19:08:02Z"
+   "ts": "2026-11-02T19:19:32Z"
   }
  },
  {
@@ -19156,15 +19156,15 @@
   "clv": 0.05965,
   "result": null,
   "pnl": null,
-  "score": "1-2",
+  "score": "2-3",
   "primary": true,
   "close_odds": 1.953,
   "close_final": true,
   "close_lead_min": 3.8,
   "live": {
-   "score": "1-2",
-   "now": "push",
-   "ts": "2026-11-02T18:46:33Z"
+   "score": "2-3",
+   "now": "lost",
+   "ts": "2026-11-02T19:19:32Z"
   }
  },
  {
@@ -19315,5 +19315,37 @@
   "score": null,
   "primary": false,
   "close_odds": 3.245
+ },
+ {
+  "key": "53ad3f78c949e79381b5e90a70293ac6|1X2|H|",
+  "placed_ts": "2026-11-02T19:18:42Z",
+  "status": "open",
+  "event_id": "53ad3f78c949e79381b5e90a70293ac6",
+  "league": "NBA",
+  "commence": "2026-11-03T00:40:00Z",
+  "home": "Indiana Pacers",
+  "away": "Atlanta Hawks",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Indiana Pacers",
+  "book": "miseojeu",
+  "book_name": "Mise-o-jeu",
+  "odds": 3.3,
+  "fair_odds": 2.878,
+  "p": 0.3474,
+  "edge": 0.1465,
+  "edge_bfx": 0.1577,
+  "kelly": 0.01592,
+  "stake_kelly": 15.92,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.34742,
+  "clv": 0.1465,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 2.878
  }
 ]

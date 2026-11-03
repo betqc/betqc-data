@@ -19694,13 +19694,13 @@
   "stake_kelly": 15.43,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.75121,
-  "clv": -0.0009,
+  "close_p": 0.76851,
+  "clv": 0.02211,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.331
+  "close_odds": 1.301
  },
  {
   "key": "6e1ab845c103de1214038cf35b7c9612|1X2|H|",

@@ -19685,7 +19685,7 @@
  {
   "key": "815fdc608bcf774718dd7722624817c7|TOT|O|3.5",
   "placed_ts": "2026-11-03T00:02:32Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "815fdc608bcf774718dd7722624817c7",
   "league": "SWE",
   "commence": "2026-11-03T18:00:00Z",
@@ -19708,23 +19708,19 @@
   "confirmed": null,
   "close_p": 0.4821,
   "clv": 0.01241,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-0",
   "primary": true,
   "close_odds": 2.074,
   "close_final": true,
   "close_lead_min": 4.6,
-  "live": {
-   "score": "2-0",
-   "now": "lost",
-   "ts": "2026-11-03T19:37:47Z"
-  }
+  "settled_ts": "2026-11-03T19:59:04Z"
  },
  {
   "key": "815fdc608bcf774718dd7722624817c7|1X2|H|",
   "placed_ts": "2026-11-03T00:02:32Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "815fdc608bcf774718dd7722624817c7",
   "league": "SWE",
   "commence": "2026-11-03T18:00:00Z",
@@ -19747,18 +19743,14 @@
   "confirmed": null,
   "close_p": 0.76848,
   "clv": 0.02208,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.33,
   "score": "2-0",
   "primary": true,
   "close_odds": 1.301,
   "close_final": true,
   "close_lead_min": 4.6,
-  "live": {
-   "score": "2-0",
-   "now": "won",
-   "ts": "2026-11-03T19:37:47Z"
-  }
+  "settled_ts": "2026-11-03T19:59:04Z"
  },
  {
   "key": "6e1ab845c103de1214038cf35b7c9612|1X2|H|",
@@ -20230,7 +20222,7 @@
  {
   "key": "815fdc608bcf774718dd7722624817c7|TOT|O|3.5|v2",
   "placed_ts": "2026-11-03T06:07:08Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "815fdc608bcf774718dd7722624817c7",
   "league": "SWE",
   "commence": "2026-11-03T18:00:00Z",
@@ -20253,18 +20245,14 @@
   "confirmed": null,
   "close_p": 0.4821,
   "clv": -0.0358,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-0",
   "strategy": "v2",
   "close_odds": 2.074,
   "close_final": true,
   "close_lead_min": 4.6,
-  "live": {
-   "score": "2-0",
-   "now": "lost",
-   "ts": "2026-11-03T19:37:47Z"
-  }
+  "settled_ts": "2026-11-03T19:59:04Z"
  },
  {
   "key": "9b8076d3ffa027df6f6cb3189de46706|TOT|O|3.5|v2",

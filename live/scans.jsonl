@@ -828,3 +828,4 @@
 {"mode": "recalc", "new_bets": 0, "settled": 6, "credits_remaining": 16411, "credits_used": 8, "ts": "2026-11-03T19:48:48Z"}
 {"scan_ts": "2026-11-03T19:59:01Z", "horizon_h": 1.1666666666666665, "leagues": {"UCL": "aucun match dans l'horizon"}, "rows": 0, "credits_remaining": 16411, "credits_used_scan": 0, "mode": "near"}
 {"mode": "recalc", "new_bets": 0, "settled": 3, "credits_remaining": 16407, "credits_used": 4, "ts": "2026-11-03T19:59:01Z"}
+{"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 16405, "credits_used": 2, "ts": "2026-11-03T20:09:43Z"}

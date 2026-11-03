@@ -20057,7 +20057,7 @@
  {
   "key": "afde8462706839f30115ea9d5f761066|1X2|A||v2",
   "placed_ts": "2026-11-03T03:01:55Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "afde8462706839f30115ea9d5f761066",
   "league": "NBA",
   "commence": "2026-11-03T03:10:00Z",
@@ -20080,23 +20080,19 @@
   "confirmed": true,
   "close_p": 0.67776,
   "clv": 0.0302,
-  "result": null,
-  "pnl": null,
-  "score": "118-122",
+  "result": "won",
+  "pnl": 0.52,
+  "score": "118-125",
   "strategy": "v2",
   "close_odds": 1.475,
   "close_final": true,
   "close_lead_min": 8.1,
-  "live": {
-   "score": "118-122",
-   "now": "won",
-   "ts": "2026-11-03T05:56:25Z"
-  }
+  "settled_ts": "2026-11-03T06:07:12Z"
  },
  {
   "key": "afde8462706839f30115ea9d5f761066|1X2|A|",
   "placed_ts": "2026-11-03T03:01:55Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "afde8462706839f30115ea9d5f761066",
   "league": "NBA",
   "commence": "2026-11-03T03:10:00Z",
@@ -20119,18 +20115,14 @@
   "confirmed": true,
   "close_p": 0.67776,
   "clv": 0.0302,
-  "result": null,
-  "pnl": null,
-  "score": "118-122",
+  "result": "won",
+  "pnl": 0.52,
+  "score": "118-125",
   "primary": true,
   "close_odds": 1.475,
   "close_final": true,
   "close_lead_min": 8.1,
-  "live": {
-   "score": "118-122",
-   "now": "won",
-   "ts": "2026-11-03T05:56:25Z"
-  }
+  "settled_ts": "2026-11-03T06:07:12Z"
  },
  {
   "key": "9b8076d3ffa027df6f6cb3189de46706|1X2|H||v2",
@@ -20163,5 +20155,37 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 2.19
+ },
+ {
+  "key": "815fdc608bcf774718dd7722624817c7|TOT|O|3.5|v2",
+  "placed_ts": "2026-11-03T06:07:08Z",
+  "status": "open",
+  "event_id": "815fdc608bcf774718dd7722624817c7",
+  "league": "SWE",
+  "commence": "2026-11-03T18:00:00Z",
+  "home": "IK Sirius",
+  "away": "Halmstads BK",
+  "market": "TOT",
+  "sel": "O",
+  "point": 3.5,
+  "label": "Plus de 3,5",
+  "book": "leovegas_se",
+  "book_name": "LeoVegas SE",
+  "odds": 2.0,
+  "fair_odds": 1.946,
+  "p": 0.5139,
+  "edge": 0.0277,
+  "edge_bfx": null,
+  "kelly": 0.00693,
+  "stake_kelly": 6.93,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.51385,
+  "clv": 0.0277,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.946
  }
 ]

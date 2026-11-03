@@ -20082,15 +20082,15 @@
   "clv": 0.0302,
   "result": null,
   "pnl": null,
-  "score": "105-96",
+  "score": "112-116",
   "strategy": "v2",
   "close_odds": 1.475,
   "close_final": true,
   "close_lead_min": 8.1,
   "live": {
-   "score": "105-96",
-   "now": "lost",
-   "ts": "2026-11-03T05:23:37Z"
+   "score": "112-116",
+   "now": "won",
+   "ts": "2026-11-03T05:45:11Z"
   }
  },
  {
@@ -20121,15 +20121,47 @@
   "clv": 0.0302,
   "result": null,
   "pnl": null,
-  "score": "105-96",
+  "score": "112-116",
   "primary": true,
   "close_odds": 1.475,
   "close_final": true,
   "close_lead_min": 8.1,
   "live": {
-   "score": "105-96",
-   "now": "lost",
-   "ts": "2026-11-03T05:23:37Z"
+   "score": "112-116",
+   "now": "won",
+   "ts": "2026-11-03T05:45:11Z"
   }
+ },
+ {
+  "key": "9b8076d3ffa027df6f6cb3189de46706|1X2|H||v2",
+  "placed_ts": "2026-11-03T05:45:07Z",
+  "status": "open",
+  "event_id": "9b8076d3ffa027df6f6cb3189de46706",
+  "league": "UCL",
+  "commence": "2026-11-03T17:45:00Z",
+  "home": "Galatasaray",
+  "away": "VfB Stuttgart",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Galatasaray",
+  "book": "onexbet",
+  "book_name": "1xBet",
+  "odds": 2.23,
+  "fair_odds": 2.19,
+  "p": 0.4567,
+  "edge": 0.0184,
+  "edge_bfx": 0.0368,
+  "kelly": 0.00374,
+  "stake_kelly": 3.74,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.45668,
+  "clv": 0.01839,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.19
  }
 ]

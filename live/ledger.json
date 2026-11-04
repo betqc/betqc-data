@@ -17821,13 +17821,13 @@
   "stake_kelly": 4.37,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.43014,
-  "clv": -0.0451,
+  "close_p": 0.46118,
+  "clv": 0.02383,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.325
+  "close_odds": 2.168
  },
  {
   "key": "6d386ed81fabf67aa19fbd442c0d8c60|1X2|H|",
@@ -18646,13 +18646,13 @@
   "stake_kelly": 5.52,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.30603,
-  "clv": 0.0405,
+  "close_p": 0.28181,
+  "clv": -0.04185,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.268
+  "close_odds": 3.549
  },
  {
   "key": "013cecbf40f5b4530342632a80f35b00|1X2|H|",
@@ -22810,5 +22810,37 @@
   "score": null,
   "primary": true,
   "close_odds": 1.152
+ },
+ {
+  "key": "29ebc4d234c1c6e86ebea07ab9174818|1X2|H||v2",
+  "placed_ts": "2026-11-04T15:23:36Z",
+  "status": "open",
+  "event_id": "29ebc4d234c1c6e86ebea07ab9174818",
+  "league": "UEL",
+  "commence": "2026-11-04T15:30:00Z",
+  "home": "Rennes",
+  "away": "Olympiakos Piraeus",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Rennes",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 2.25,
+  "fair_odds": 2.168,
+  "p": 0.4612,
+  "edge": 0.0377,
+  "edge_bfx": 0.0205,
+  "kelly": 0.00753,
+  "stake_kelly": 7.53,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.46118,
+  "clv": 0.03767,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.168
  }
 ]

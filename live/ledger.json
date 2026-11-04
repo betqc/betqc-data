@@ -17591,13 +17591,13 @@
   "stake_kelly": 7.35,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.59968,
-  "clv": 0.25933,
+  "close_p": 0.60605,
+  "clv": 0.27271,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.668
+  "close_odds": 1.65
  },
  {
   "key": "47523374e8d8cdd5b43677e358317587|1X2|H|",
@@ -18778,13 +18778,13 @@
   "stake_kelly": 3.02,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.32235,
-  "clv": 0.17659,
+  "close_p": 0.31945,
+  "clv": 0.16597,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.102
+  "close_odds": 3.13
  },
  {
   "key": "adf608a0e9be02eb1d8b0a6f464a12b1|TOT|O|3.5",
@@ -22679,13 +22679,13 @@
   "stake_kelly": 5.72,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.59968,
-  "clv": 0.01946,
+  "close_p": 0.60605,
+  "clv": 0.03029,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.668
+  "close_odds": 1.65
  },
  {
   "key": "df7d2d81b9e2f3f11c6aeddaee6b7085|1X2|A||v2",
@@ -23173,5 +23173,37 @@
    "now": "lost",
    "ts": "2026-11-04T23:47:39Z"
   }
+ },
+ {
+  "key": "e766824cd38eb33865f45b707c35467e|1X2|A|",
+  "placed_ts": "2026-11-04T23:58:13Z",
+  "status": "open",
+  "event_id": "e766824cd38eb33865f45b707c35467e",
+  "league": "BRA",
+  "commence": "2026-11-05T00:30:00Z",
+  "home": "Botafogo",
+  "away": "Atletico Mineiro",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Atletico Mineiro",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 5.95,
+  "fair_odds": 5.858,
+  "p": 0.1707,
+  "edge": 0.0158,
+  "edge_bfx": 0.0172,
+  "kelly": 0.0008,
+  "stake_kelly": 0.8,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.17072,
+  "clv": 0.01577,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 5.858
  }
 ]

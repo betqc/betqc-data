@@ -17603,7 +17603,7 @@
   "live": {
    "score": "1-0",
    "now": "won",
-   "ts": "2026-11-05T01:42:13Z"
+   "ts": "2026-11-05T02:15:16Z"
   }
  },
  {
@@ -18797,7 +18797,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-11-05T01:42:13Z"
+   "ts": "2026-11-05T02:15:16Z"
   }
  },
  {
@@ -21962,15 +21962,15 @@
   "clv": -0.01301,
   "result": null,
   "pnl": null,
-  "score": "74-83",
+  "score": "97-108",
   "primary": true,
   "close_odds": 1.824,
   "close_final": true,
   "close_lead_min": 23.3,
   "live": {
-   "score": "74-83",
+   "score": "97-108",
    "now": "won",
-   "ts": "2026-11-05T01:42:13Z"
+   "ts": "2026-11-05T02:15:16Z"
   }
  },
  {
@@ -22036,15 +22036,15 @@
   "clv": -0.10196,
   "result": null,
   "pnl": null,
-  "score": "39-20",
+  "score": "60-44",
   "primary": true,
   "close_odds": 2.505,
   "close_final": true,
   "close_lead_min": 40.5,
   "live": {
-   "score": "39-20",
+   "score": "60-44",
    "now": "lost",
-   "ts": "2026-11-05T01:42:13Z"
+   "ts": "2026-11-05T02:15:16Z"
   }
  },
  {
@@ -22110,11 +22110,16 @@
   "clv": 0.02722,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "4-8",
   "primary": true,
   "close_odds": 1.558,
   "close_final": true,
-  "close_lead_min": 19.0
+  "close_lead_min": 19.0,
+  "live": {
+   "score": "4-8",
+   "now": "lost",
+   "ts": "2026-11-05T02:15:16Z"
+  }
  },
  {
   "key": "e901dbcdd6e2255fb24d84032b9d437a|1X2|A||v2",
@@ -22284,11 +22289,16 @@
   "clv": 0.00952,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "4-8",
   "primary": false,
   "close_odds": 2.793,
   "close_final": true,
-  "close_lead_min": 19.0
+  "close_lead_min": 19.0,
+  "live": {
+   "score": "4-8",
+   "now": "won",
+   "ts": "2026-11-05T02:15:16Z"
+  }
  },
  {
   "key": "12c73c238e22b4d2b70797fdfbd3a8a6|1X2|H|",
@@ -22711,7 +22721,7 @@
   "live": {
    "score": "1-0",
    "now": "won",
-   "ts": "2026-11-05T01:42:13Z"
+   "ts": "2026-11-05T02:15:16Z"
   }
  },
  {
@@ -23225,7 +23235,7 @@
   "live": {
    "score": "1-0",
    "now": "lost",
-   "ts": "2026-11-05T01:42:13Z"
+   "ts": "2026-11-05T02:15:16Z"
   }
  },
  {
@@ -23288,15 +23298,15 @@
   "clv": 0.01507,
   "result": null,
   "pnl": null,
-  "score": "62-41",
+  "score": "87-79",
   "strategy": "v2",
   "close_odds": 1.182,
   "close_final": true,
   "close_lead_min": 20.6,
   "live": {
-   "score": "62-41",
+   "score": "87-79",
    "now": "won",
-   "ts": "2026-11-05T01:42:13Z"
+   "ts": "2026-11-05T02:15:16Z"
   }
  },
  {
@@ -23327,15 +23337,15 @@
   "clv": 0.01507,
   "result": null,
   "pnl": null,
-  "score": "62-41",
+  "score": "87-79",
   "primary": true,
   "close_odds": 1.182,
   "close_final": true,
   "close_lead_min": 20.6,
   "live": {
-   "score": "62-41",
+   "score": "87-79",
    "now": "won",
-   "ts": "2026-11-05T01:42:13Z"
+   "ts": "2026-11-05T02:15:16Z"
   }
  },
  {

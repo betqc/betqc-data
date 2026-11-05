@@ -18849,15 +18849,15 @@
   "clv": -0.14542,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "1-3",
   "primary": true,
   "close_odds": 2.598,
   "close_final": true,
   "close_lead_min": 5.7,
   "live": {
-   "score": "1-0",
-   "now": "won",
-   "ts": "2026-11-04T23:47:39Z"
+   "score": "1-3",
+   "now": "lost",
+   "ts": "2026-11-05T00:20:26Z"
   }
  },
  {
@@ -21952,9 +21952,16 @@
   "clv": -0.01301,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "10-9",
   "primary": true,
-  "close_odds": 1.824
+  "close_odds": 1.824,
+  "close_final": true,
+  "close_lead_min": 23.3,
+  "live": {
+   "score": "10-9",
+   "now": "lost",
+   "ts": "2026-11-05T00:20:26Z"
+  }
  },
  {
   "key": "7e605ab1c3e8d0a9b4df244dcdab71a9|TOT|U|2.5",
@@ -22015,13 +22022,13 @@
   "stake_kelly": 5.15,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.43909,
-  "clv": -0.01205,
+  "close_p": 0.39913,
+  "clv": -0.10196,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.277
+  "close_odds": 2.505
  },
  {
   "key": "9c9b60495c9667d04bcdba59483a623f|1X2|D|",
@@ -22051,15 +22058,15 @@
   "clv": 0.06517,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "1-3",
   "primary": false,
   "close_odds": 3.521,
   "close_final": true,
   "close_lead_min": 5.7,
   "live": {
-   "score": "1-0",
+   "score": "1-3",
    "now": "lost",
-   "ts": "2026-11-04T23:47:39Z"
+   "ts": "2026-11-05T00:20:26Z"
   }
  },
  {
@@ -22329,15 +22336,15 @@
   "clv": 0.05174,
   "result": null,
   "pnl": null,
-  "score": "3-0",
+  "score": "3-1",
   "primary": true,
   "close_odds": 1.921,
   "close_final": true,
   "close_lead_min": 5.7,
   "live": {
-   "score": "3-0",
-   "now": "lost",
-   "ts": "2026-11-04T23:47:39Z"
+   "score": "3-1",
+   "now": "won",
+   "ts": "2026-11-05T00:20:26Z"
   }
  },
  {
@@ -22750,15 +22757,15 @@
   "clv": 0.02434,
   "result": null,
   "pnl": null,
-  "score": "3-0",
+  "score": "3-1",
   "strategy": "v2",
   "close_odds": 1.142,
   "close_final": true,
   "close_lead_min": 5.7,
   "live": {
-   "score": "3-0",
+   "score": "3-1",
    "now": "won",
-   "ts": "2026-11-04T23:47:39Z"
+   "ts": "2026-11-05T00:20:26Z"
   }
  },
  {
@@ -22949,15 +22956,15 @@
   "clv": 0.02434,
   "result": null,
   "pnl": null,
-  "score": "3-0",
+  "score": "3-1",
   "primary": true,
   "close_odds": 1.142,
   "close_final": true,
   "close_lead_min": 5.7,
   "live": {
-   "score": "3-0",
+   "score": "3-1",
    "now": "won",
-   "ts": "2026-11-04T23:47:39Z"
+   "ts": "2026-11-05T00:20:26Z"
   }
  },
  {
@@ -23163,15 +23170,15 @@
   "clv": 0.0195,
   "result": null,
   "pnl": null,
-  "score": "1-0",
+  "score": "1-3",
   "primary": false,
   "close_odds": 3.021,
   "close_final": true,
   "close_lead_min": 5.7,
   "live": {
-   "score": "1-0",
-   "now": "lost",
-   "ts": "2026-11-04T23:47:39Z"
+   "score": "1-3",
+   "now": "won",
+   "ts": "2026-11-05T00:20:26Z"
   }
  },
  {
@@ -23237,5 +23244,69 @@
   "score": null,
   "primary": true,
   "close_odds": 2.102
+ },
+ {
+  "key": "1cb12166c3eda270d40cc65b9b34459a|1X2|H||v2",
+  "placed_ts": "2026-11-05T00:19:28Z",
+  "status": "open",
+  "event_id": "1cb12166c3eda270d40cc65b9b34459a",
+  "league": "NBA",
+  "commence": "2026-11-05T00:40:00Z",
+  "home": "Boston Celtics",
+  "away": "Milwaukee Bucks",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Boston Celtics",
+  "book": "williamhill",
+  "book_name": "William Hill",
+  "odds": 1.2,
+  "fair_odds": 1.182,
+  "p": 0.8459,
+  "edge": 0.0151,
+  "edge_bfx": 0.0149,
+  "kelly": 0.01884,
+  "stake_kelly": 18.84,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.8459,
+  "clv": 0.01507,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.182
+ },
+ {
+  "key": "1cb12166c3eda270d40cc65b9b34459a|1X2|H|",
+  "placed_ts": "2026-11-05T00:19:28Z",
+  "status": "open",
+  "event_id": "1cb12166c3eda270d40cc65b9b34459a",
+  "league": "NBA",
+  "commence": "2026-11-05T00:40:00Z",
+  "home": "Boston Celtics",
+  "away": "Milwaukee Bucks",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Boston Celtics",
+  "book": "williamhill",
+  "book_name": "William Hill",
+  "odds": 1.2,
+  "fair_odds": 1.182,
+  "p": 0.8459,
+  "edge": 0.0151,
+  "edge_bfx": 0.0149,
+  "kelly": 0.01884,
+  "stake_kelly": 18.84,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.8459,
+  "clv": 0.01507,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.182
  }
 ]

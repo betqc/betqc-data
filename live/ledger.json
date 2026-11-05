@@ -22069,7 +22069,7 @@
  {
   "key": "50bdc20ea9ea3c88d4bfa261b9b2307e|1X2|H|",
   "placed_ts": "2026-11-04T05:39:27Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "50bdc20ea9ea3c88d4bfa261b9b2307e",
   "league": "NBA",
   "commence": "2026-11-05T02:00:00Z",
@@ -22092,18 +22092,14 @@
   "confirmed": true,
   "close_p": 0.64201,
   "clv": 0.02722,
-  "result": null,
-  "pnl": null,
-  "score": "117-96",
+  "result": "won",
+  "pnl": 0.6,
+  "score": "128-109",
   "primary": true,
   "close_odds": 1.558,
   "close_final": true,
   "close_lead_min": 19.0,
-  "live": {
-   "score": "117-96",
-   "now": "won",
-   "ts": "2026-11-05T04:06:08Z"
-  }
+  "settled_ts": "2026-11-05T04:31:48Z"
  },
  {
   "key": "e901dbcdd6e2255fb24d84032b9d437a|1X2|A||v2",
@@ -22248,7 +22244,7 @@
  {
   "key": "50bdc20ea9ea3c88d4bfa261b9b2307e|1X2|A|",
   "placed_ts": "2026-11-04T07:57:23Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "50bdc20ea9ea3c88d4bfa261b9b2307e",
   "league": "NBA",
   "commence": "2026-11-05T02:00:00Z",
@@ -22271,18 +22267,14 @@
   "confirmed": true,
   "close_p": 0.35799,
   "clv": 0.00952,
-  "result": null,
-  "pnl": null,
-  "score": "117-96",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "128-109",
   "primary": false,
   "close_odds": 2.793,
   "close_final": true,
   "close_lead_min": 19.0,
-  "live": {
-   "score": "117-96",
-   "now": "lost",
-   "ts": "2026-11-05T04:06:08Z"
-  }
+  "settled_ts": "2026-11-05T04:31:48Z"
  },
  {
   "key": "12c73c238e22b4d2b70797fdfbd3a8a6|1X2|H|",

@@ -24516,13 +24516,13 @@
   "stake_kelly": 2.8,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.28973,
-  "clv": 0.02855,
+  "close_p": 0.28454,
+  "clv": 0.01012,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.451
+  "close_odds": 3.514
  },
  {
   "key": "c50815d0a3cbc7dfe6b9f3a737ce4836|1X2|H|",

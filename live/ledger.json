@@ -19899,13 +19899,13 @@
   "stake_kelly": 4.67,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.21895,
-  "clv": 0.07286,
+  "close_p": 0.21504,
+  "clv": 0.0537,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 4.567
+  "close_odds": 4.65
  },
  {
   "key": "bc4a4cc34a2219d9564b7b0c17ba2934|1X2|H|",
@@ -19931,13 +19931,13 @@
   "stake_kelly": 30.0,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.86038,
-  "clv": 0.04967,
+  "close_p": 0.83762,
+  "clv": 0.02189,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.162
+  "close_odds": 1.194
  },
  {
   "key": "df7d2d81b9e2f3f11c6aeddaee6b7085|1X2|A|",
@@ -19998,13 +19998,13 @@
   "stake_kelly": 13.42,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.74401,
-  "clv": 0.01185,
+  "close_p": 0.72284,
+  "clv": -0.01694,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.344
+  "close_odds": 1.383
  },
  {
   "key": "84b68e09ecbe93fdbce759cd822322a2|1X2|H|",
@@ -20030,13 +20030,13 @@
   "stake_kelly": 7.87,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.63666,
-  "clv": 0.01866,
+  "close_p": 0.63285,
+  "clv": 0.01256,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.571
+  "close_odds": 1.58
  },
  {
   "key": "013cecbf40f5b4530342632a80f35b00|1X2|A|",
@@ -21147,13 +21147,13 @@
   "stake_kelly": 4.66,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.54749,
-  "clv": 0.0457,
+  "close_p": 0.57681,
+  "clv": 0.1017,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.827
+  "close_odds": 1.734
  },
  {
   "key": "754fd36ffe7b5a7fcd922576da8b0c8a|1X2|H|",
@@ -21660,13 +21660,13 @@
   "stake_kelly": 3.49,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.31197,
-  "clv": 0.02952,
+  "close_p": 0.31023,
+  "clv": 0.02376,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.205
+  "close_odds": 3.223
  },
  {
   "key": "9dd0014685fd62d9b2890d7c33a8c9ab|1X2|H|",
@@ -21756,13 +21756,13 @@
   "stake_kelly": 2.27,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.26466,
-  "clv": 0.00569,
+  "close_p": 0.26811,
+  "clv": 0.01882,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.778
+  "close_odds": 3.73
  },
  {
   "key": "1358657f64b8fdae74ac7263bf7b8725|1X2|D|",
@@ -23205,5 +23205,37 @@
   "score": null,
   "primary": false,
   "close_odds": 5.858
+ },
+ {
+  "key": "b828d43ba5fa1c8cdd2e34aabea9d0ce|TOT|U|2.5",
+  "placed_ts": "2026-11-05T00:08:52Z",
+  "status": "open",
+  "event_id": "b828d43ba5fa1c8cdd2e34aabea9d0ce",
+  "league": "UEL",
+  "commence": "2026-11-05T20:00:00Z",
+  "home": "Celta Vigo",
+  "away": "Union Saint-Gilloise",
+  "market": "TOT",
+  "sel": "U",
+  "point": 2.5,
+  "label": "Moins de 2,5",
+  "book": "leovegas_se",
+  "book_name": "LeoVegas SE",
+  "odds": 2.14,
+  "fair_odds": 2.102,
+  "p": 0.4757,
+  "edge": 0.0179,
+  "edge_bfx": null,
+  "kelly": 0.00393,
+  "stake_kelly": 3.93,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.47566,
+  "clv": 0.01791,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 2.102
  }
 ]

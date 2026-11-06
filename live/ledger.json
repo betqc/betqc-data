@@ -21616,13 +21616,13 @@
   "stake_kelly": 7.4,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.35941,
-  "clv": 0.09621,
+  "close_p": 0.34853,
+  "clv": 0.06302,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.782
+  "close_odds": 2.869
  },
  {
   "key": "926c11a6b5d1773d9024296a215d0f71|1X2|A|",
@@ -21648,13 +21648,13 @@
   "stake_kelly": 6.06,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.43038,
-  "clv": 0.05443,
+  "close_p": 0.42837,
+  "clv": 0.04951,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.324
+  "close_odds": 2.334
  },
  {
   "key": "b828d43ba5fa1c8cdd2e34aabea9d0ce|1X2|A|",
@@ -21715,13 +21715,13 @@
   "stake_kelly": 6.82,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.51019,
-  "clv": 0.04589,
+  "close_p": 0.50803,
+  "clv": 0.04146,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.96
+  "close_odds": 1.968
  },
  {
   "key": "b2eb5387bd74e1c65fc5ad050c24e674|1X2|A|",
@@ -21747,13 +21747,13 @@
   "stake_kelly": 0.97,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.12736,
-  "clv": 0.01889,
+  "close_p": 0.12533,
+  "clv": 0.00262,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 7.852
+  "close_odds": 7.979
  },
  {
   "key": "c91f4c9744f6ca502b7986a564e858df|1X2|H|",
@@ -21942,13 +21942,13 @@
   "stake_kelly": 1.32,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.26632,
-  "clv": 0.03864,
+  "close_p": 0.26637,
+  "clv": 0.03884,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.755
+  "close_odds": 3.754
  },
  {
   "key": "05200821a78e4f6db8131cff1652550f|1X2|A|",
@@ -24574,15 +24574,15 @@
   "clv": 0.39936,
   "result": null,
   "pnl": null,
-  "score": "26-29",
+  "score": "53-53",
   "primary": true,
   "close_odds": 2.537,
   "close_final": true,
   "close_lead_min": 30.5,
   "live": {
-   "score": "26-29",
-   "now": "won",
-   "ts": "2026-11-06T03:40:42Z"
+   "score": "53-53",
+   "now": "lost",
+   "ts": "2026-11-06T04:12:49Z"
   }
  },
  {
@@ -24893,15 +24893,15 @@
   "clv": -0.00481,
   "result": null,
   "pnl": null,
-  "score": "85-62",
+  "score": "113-92",
   "primary": true,
   "close_odds": 2.13,
   "close_final": true,
   "close_lead_min": 4.8,
   "live": {
-   "score": "85-62",
+   "score": "113-92",
    "now": "lost",
-   "ts": "2026-11-06T03:40:42Z"
+   "ts": "2026-11-06T04:12:49Z"
   }
  },
  {
@@ -27224,5 +27224,37 @@
   "score": null,
   "primary": true,
   "close_odds": 3.103
+ },
+ {
+  "key": "7ad550e94d58693e8d19f1da1ae1513f|1X2|A|",
+  "placed_ts": "2026-11-06T04:11:38Z",
+  "status": "open",
+  "event_id": "7ad550e94d58693e8d19f1da1ae1513f",
+  "league": "B1",
+  "commence": "2026-11-06T19:45:00Z",
+  "home": "Standard Liege",
+  "away": "SK Beveren",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "SK Beveren",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 4.4,
+  "fair_odds": 4.3,
+  "p": 0.2325,
+  "edge": 0.0232,
+  "edge_bfx": null,
+  "kelly": 0.0017,
+  "stake_kelly": 1.7,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.23254,
+  "clv": 0.02316,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 4.3
  }
 ]

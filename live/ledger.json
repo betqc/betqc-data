@@ -21772,15 +21772,15 @@
   "clv": -0.16731,
   "result": null,
   "pnl": null,
-  "score": "3-0",
+  "score": "4-1",
   "primary": true,
   "close_odds": 9.607,
   "close_final": true,
   "close_lead_min": 24.4,
   "live": {
-   "score": "3-0",
+   "score": "4-1",
    "now": "lost",
-   "ts": "2026-11-06T20:13:32Z"
+   "ts": "2026-11-06T20:25:58Z"
   }
  },
  {
@@ -24169,7 +24169,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-11-06T19:48:25Z"
+   "ts": "2026-11-06T20:25:58Z"
   }
  },
  {
@@ -26135,7 +26135,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-11-06T19:48:25Z"
+   "ts": "2026-11-06T20:25:58Z"
   }
  },
  {
@@ -26174,7 +26174,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-11-06T19:48:25Z"
+   "ts": "2026-11-06T20:25:58Z"
   }
  },
  {
@@ -26821,7 +26821,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-11-06T19:48:25Z"
+   "ts": "2026-11-06T20:25:58Z"
   }
  },
  {
@@ -27332,15 +27332,15 @@
   "clv": 0.2176,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "1-0",
   "primary": true,
   "close_odds": 3.614,
   "close_final": true,
   "close_lead_min": 29.2,
   "live": {
-   "score": "0-0",
+   "score": "1-0",
    "now": "lost",
-   "ts": "2026-11-06T19:48:25Z"
+   "ts": "2026-11-06T20:25:58Z"
   }
  },
  {
@@ -27590,15 +27590,15 @@
   "clv": 0.04264,
   "result": null,
   "pnl": null,
-  "score": "3-0",
+  "score": "4-1",
   "strategy": "v2",
   "close_odds": 1.352,
   "close_final": true,
   "close_lead_min": 24.4,
   "live": {
-   "score": "3-0",
+   "score": "4-1",
    "now": "won",
-   "ts": "2026-11-06T20:13:32Z"
+   "ts": "2026-11-06T20:25:58Z"
   }
  },
  {
@@ -27707,15 +27707,15 @@
   "clv": 0.04264,
   "result": null,
   "pnl": null,
-  "score": "3-0",
+  "score": "4-1",
   "primary": false,
   "close_odds": 1.352,
   "close_final": true,
   "close_lead_min": 24.4,
   "live": {
-   "score": "3-0",
+   "score": "4-1",
    "now": "won",
-   "ts": "2026-11-06T20:13:32Z"
+   "ts": "2026-11-06T20:25:58Z"
   }
  },
  {

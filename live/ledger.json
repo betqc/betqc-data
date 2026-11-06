@@ -21648,13 +21648,13 @@
   "stake_kelly": 6.06,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.45907,
-  "clv": 0.12472,
+  "close_p": 0.41889,
+  "clv": 0.02628,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.178
+  "close_odds": 2.387
  },
  {
   "key": "b828d43ba5fa1c8cdd2e34aabea9d0ce|1X2|A|",
@@ -21816,13 +21816,13 @@
   "stake_kelly": 2.03,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.25181,
-  "clv": -0.11867,
+  "close_p": 0.25684,
+  "clv": -0.10105,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.971
+  "close_odds": 3.893
  },
  {
   "key": "c24a6af71b59cc8d4d5ccff1140bcf58|1X2|H|",
@@ -21887,13 +21887,13 @@
   "stake_kelly": 5.66,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.61202,
-  "clv": 0.06492,
+  "close_p": 0.63267,
+  "clv": 0.10084,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.634
+  "close_odds": 1.581
  },
  {
   "key": "97a7510ccf27d422b558ee67491d36d6|1X2|A|",
@@ -27353,13 +27353,13 @@
   "stake_kelly": 6.76,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.32813,
-  "clv": 0.03362,
+  "close_p": 0.33018,
+  "clv": 0.04006,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.048
+  "close_odds": 3.029
  },
  {
   "key": "51baab3ec98943f452377895491bfd6a|TOT|O|2.5",
@@ -27424,13 +27424,13 @@
   "stake_kelly": 6.11,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.61202,
-  "clv": 0.04044,
+  "close_p": 0.63267,
+  "clv": 0.07553,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.634
+  "close_odds": 1.581
  },
  {
   "key": "af665449ac9e2c4e1f183376e85fc936|1X2|A||v2",
@@ -27522,13 +27522,13 @@
   "stake_kelly": 2.24,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.32813,
-  "clv": -0.0156,
+  "close_p": 0.33018,
+  "clv": -0.00946,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 3.048
+  "close_odds": 3.029
  },
  {
   "key": "586bec023ee8ac2f0645d963bd2c9d25|1X2|A|",
@@ -27748,13 +27748,13 @@
   "stake_kelly": 4.83,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.28799,
-  "clv": 0.05117,
+  "close_p": 0.31861,
+  "clv": 0.16294,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.472
+  "close_odds": 3.139
  },
  {
   "key": "c22d673775e6a4dc0810cc88b0ed75ec|1X2|A|",
@@ -28363,5 +28363,37 @@
   "score": null,
   "primary": true,
   "close_odds": 3.102
+ },
+ {
+  "key": "12e661a2aa5dc95aa7530fa0d9b1bf5c|1X2|D|",
+  "placed_ts": "2026-11-06T18:23:33Z",
+  "status": "open",
+  "event_id": "12e661a2aa5dc95aa7530fa0d9b1bf5c",
+  "league": "F2",
+  "commence": "2026-11-06T19:00:00Z",
+  "home": "USL Dunkerque",
+  "away": "Guingamp",
+  "market": "1X2",
+  "sel": "D",
+  "point": null,
+  "label": "Nul",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 3.75,
+  "fair_odds": 3.651,
+  "p": 0.2739,
+  "edge": 0.027,
+  "edge_bfx": 0.0453,
+  "kelly": 0.00246,
+  "stake_kelly": 2.46,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.27388,
+  "clv": 0.02703,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.651
  }
 ]

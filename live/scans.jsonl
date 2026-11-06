@@ -1077,3 +1077,4 @@
 {"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 14252, "credits_used": 6, "ts": "2026-11-06T18:40:42Z"}
 {"scan_ts": "2026-11-06T18:53:04Z", "horizon_h": 1.1666666666666665, "leagues": {"D1": "1 matchs", "I2": "1 matchs", "SP2": "1 matchs", "POL": "1 matchs"}, "rows": 480, "credits_remaining": 14236, "credits_used_scan": 16, "mode": "near"}
 {"mode": "recalc", "new_bets": 1, "settled": 0, "credits_remaining": null, "credits_used": 0, "ts": "2026-11-06T18:53:06Z"}
+{"mode": "recalc", "new_bets": 0, "settled": 2, "credits_remaining": 14230, "credits_used": 6, "ts": "2026-11-06T19:04:26Z"}

@@ -24574,15 +24574,15 @@
   "clv": 0.39936,
   "result": null,
   "pnl": null,
-  "score": "53-53",
+  "score": "76-65",
   "primary": true,
   "close_odds": 2.537,
   "close_final": true,
   "close_lead_min": 30.5,
   "live": {
-   "score": "53-53",
+   "score": "76-65",
    "now": "lost",
-   "ts": "2026-11-06T04:12:49Z"
+   "ts": "2026-11-06T04:47:22Z"
   }
  },
  {
@@ -24868,7 +24868,7 @@
  {
   "key": "2a76b31e02d1416de069a995589515fc|1X2|A|",
   "placed_ts": "2026-11-05T11:58:02Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "2a76b31e02d1416de069a995589515fc",
   "league": "NBA",
   "commence": "2026-11-06T02:10:00Z",
@@ -24891,18 +24891,14 @@
   "confirmed": true,
   "close_p": 0.46943,
   "clv": -0.00481,
-  "result": null,
-  "pnl": null,
-  "score": "113-92",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "117-104",
   "primary": true,
   "close_odds": 2.13,
   "close_final": true,
   "close_lead_min": 4.8,
-  "live": {
-   "score": "113-92",
-   "now": "lost",
-   "ts": "2026-11-06T04:12:49Z"
-  }
+  "settled_ts": "2026-11-06T04:47:22Z"
  },
  {
   "key": "9604c5b1c465435911e038db95ab2a7b|1X2|H||v2",
@@ -27256,5 +27252,37 @@
   "score": null,
   "primary": true,
   "close_odds": 4.3
+ },
+ {
+  "key": "62a92e31b546d31ba57caf792815bf65|1X2|H|",
+  "placed_ts": "2026-11-06T04:46:10Z",
+  "status": "open",
+  "event_id": "62a92e31b546d31ba57caf792815bf65",
+  "league": "NBA",
+  "commence": "2026-11-07T01:10:00Z",
+  "home": "Dallas Mavericks",
+  "away": "Utah Jazz",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Dallas Mavericks",
+  "book": "virginbet",
+  "book_name": "Virgin Bet",
+  "odds": 1.38,
+  "fair_odds": 1.356,
+  "p": 0.7375,
+  "edge": 0.0178,
+  "edge_bfx": -0.0044,
+  "kelly": 0.01169,
+  "stake_kelly": 11.69,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.73751,
+  "clv": 0.01776,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.356
  }
 ]

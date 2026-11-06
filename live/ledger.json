@@ -21747,7 +21747,7 @@
  {
   "key": "b2eb5387bd74e1c65fc5ad050c24e674|1X2|A|",
   "placed_ts": "2026-11-04T01:13:09Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "b2eb5387bd74e1c65fc5ad050c24e674",
   "league": "SWE",
   "commence": "2026-11-06T18:00:00Z",
@@ -21770,18 +21770,14 @@
   "confirmed": null,
   "close_p": 0.10409,
   "clv": -0.16731,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "4-1",
   "primary": true,
   "close_odds": 9.607,
   "close_final": true,
   "close_lead_min": 24.4,
-  "live": {
-   "score": "4-1",
-   "now": "lost",
-   "ts": "2026-11-06T20:25:58Z"
-  }
+  "settled_ts": "2026-11-06T20:37:15Z"
  },
  {
   "key": "c91f4c9744f6ca502b7986a564e858df|1X2|H|",
@@ -27565,7 +27561,7 @@
  {
   "key": "b2eb5387bd74e1c65fc5ad050c24e674|1X2|H||v2",
   "placed_ts": "2026-11-06T08:29:48Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "b2eb5387bd74e1c65fc5ad050c24e674",
   "league": "SWE",
   "commence": "2026-11-06T18:00:00Z",
@@ -27588,18 +27584,14 @@
   "confirmed": null,
   "close_p": 0.73946,
   "clv": 0.04264,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.41,
   "score": "4-1",
   "strategy": "v2",
   "close_odds": 1.352,
   "close_final": true,
   "close_lead_min": 24.4,
-  "live": {
-   "score": "4-1",
-   "now": "won",
-   "ts": "2026-11-06T20:25:58Z"
-  }
+  "settled_ts": "2026-11-06T20:37:15Z"
  },
  {
   "key": "57fc8cfc03a9f7081a2d90bbaf77e899|1X2|D||v2",
@@ -27682,7 +27674,7 @@
  {
   "key": "b2eb5387bd74e1c65fc5ad050c24e674|1X2|H|",
   "placed_ts": "2026-11-06T08:29:48Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "b2eb5387bd74e1c65fc5ad050c24e674",
   "league": "SWE",
   "commence": "2026-11-06T18:00:00Z",
@@ -27705,18 +27697,14 @@
   "confirmed": null,
   "close_p": 0.73946,
   "clv": 0.04264,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.41,
   "score": "4-1",
   "primary": false,
   "close_odds": 1.352,
   "close_final": true,
   "close_lead_min": 24.4,
-  "live": {
-   "score": "4-1",
-   "now": "won",
-   "ts": "2026-11-06T20:25:58Z"
-  }
+  "settled_ts": "2026-11-06T20:37:15Z"
  },
  {
   "key": "5e4708fadda49a3c06fd7ac50414020e|1X2|H||v2",

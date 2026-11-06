@@ -21924,13 +21924,13 @@
   "stake_kelly": 1.24,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.23196,
-  "clv": 0.00902,
+  "close_p": 0.23704,
+  "clv": 0.03112,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 4.311
+  "close_odds": 4.219
  },
  {
   "key": "295076c39e49863cb54db085ac3cd340|1X2|D|",
@@ -21956,13 +21956,13 @@
   "stake_kelly": 1.32,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.2784,
-  "clv": 0.08577,
+  "close_p": 0.27455,
+  "clv": 0.07074,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.592
+  "close_odds": 3.642
  },
  {
   "key": "05200821a78e4f6db8131cff1652550f|1X2|A|",
@@ -28410,5 +28410,37 @@
   "score": null,
   "primary": true,
   "close_odds": 3.651
+ },
+ {
+  "key": "fd02f34a219698f956b133ddb2fc7bdf|1X2|D|",
+  "placed_ts": "2026-11-06T18:53:06Z",
+  "status": "open",
+  "event_id": "fd02f34a219698f956b133ddb2fc7bdf",
+  "league": "I2",
+  "commence": "2026-11-06T19:30:00Z",
+  "home": "Ascoli",
+  "away": "Palermo",
+  "market": "1X2",
+  "sel": "D",
+  "point": null,
+  "label": "Nul",
+  "book": "unibet_nl",
+  "book_name": "Unibet NL",
+  "odds": 3.5,
+  "fair_odds": 3.448,
+  "p": 0.29,
+  "edge": 0.0152,
+  "edge_bfx": 0.0354,
+  "kelly": 0.00152,
+  "stake_kelly": 1.52,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.29005,
+  "clv": 0.01517,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.448
  }
 ]

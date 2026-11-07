@@ -23485,13 +23485,13 @@
   "stake_kelly": 1.89,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.12382,
-  "clv": -0.02801,
+  "close_p": 0.08855,
+  "clv": -0.30491,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 8.076
+  "close_odds": 11.294
  },
  {
   "key": "6dd9bd70df940845fd51c7af37ea1510|1X2|A|",
@@ -23709,13 +23709,13 @@
   "stake_kelly": 5.18,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.44388,
-  "clv": 0.02093,
+  "close_p": 0.43,
+  "clv": -0.011,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.253
+  "close_odds": 2.326
  },
  {
   "key": "a88341ac02c8103eedc594a2ceb3a400|1X2|A|",
@@ -24007,13 +24007,13 @@
   "stake_kelly": 1.62,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.25143,
-  "clv": 0.04594,
+  "close_p": 0.2508,
+  "clv": 0.04332,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.977
+  "close_odds": 3.987
  },
  {
   "key": "b68207565e75753877ade56fe96f5cb8|1X2|H|",
@@ -29530,13 +29530,13 @@
   "stake_kelly": 9.65,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.67953,
-  "clv": 0.0193,
+  "close_p": 0.68533,
+  "clv": 0.02799,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.472
+  "close_odds": 1.459
  },
  {
   "key": "813cc4970b2dcab8457490a332fb5a6c|1X2|H|",
@@ -29658,13 +29658,13 @@
   "stake_kelly": 9.65,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.67953,
-  "clv": 0.0193,
+  "close_p": 0.68533,
+  "clv": 0.02799,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.472
+  "close_odds": 1.459
  },
  {
   "key": "af8d920f175d73f12933c64ae296573f|1X2|A|",
@@ -30173,5 +30173,37 @@
   "score": null,
   "primary": true,
   "close_odds": 1.829
+ },
+ {
+  "key": "4ca4c7a2a1c15e9121f9a7eaa7f42ddb|1X2|A||v2",
+  "placed_ts": "2026-11-07T13:51:49Z",
+  "status": "open",
+  "event_id": "4ca4c7a2a1c15e9121f9a7eaa7f42ddb",
+  "league": "D1",
+  "commence": "2026-11-07T14:30:00Z",
+  "home": "SC Paderborn",
+  "away": "Eintracht Frankfurt",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Eintracht Frankfurt",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 2.38,
+  "fair_odds": 2.326,
+  "p": 0.43,
+  "edge": 0.0234,
+  "edge_bfx": 0.0124,
+  "kelly": 0.00424,
+  "stake_kelly": 4.24,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.43,
+  "clv": 0.0234,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.326
  }
 ]

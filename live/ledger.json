@@ -25508,9 +25508,16 @@
   "clv": 0.03948,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-1",
   "primary": true,
-  "close_odds": 1.972
+  "close_odds": 1.972,
+  "close_final": true,
+  "close_lead_min": 358.2,
+  "live": {
+   "score": "0-1",
+   "now": "won",
+   "ts": "2026-11-07T10:39:40Z"
+  }
  },
  {
   "key": "b71f32fbba046e08d4cc26e2a8e1d5a6|1X2|H|",
@@ -29820,5 +29827,37 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 1.268
+ },
+ {
+  "key": "e76682ca6c25a37b0a53cec226b91aab|1X2|A||v2",
+  "placed_ts": "2026-11-07T10:38:34Z",
+  "status": "open",
+  "event_id": "e76682ca6c25a37b0a53cec226b91aab",
+  "league": "NBA",
+  "commence": "2026-11-07T22:10:00Z",
+  "home": "Indiana Pacers",
+  "away": "Denver Nuggets",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Denver Nuggets",
+  "book": "livescorebet",
+  "book_name": "LiveScore Bet",
+  "odds": 1.42,
+  "fair_odds": 1.39,
+  "p": 0.7194,
+  "edge": 0.0216,
+  "edge_bfx": 0.0204,
+  "kelly": 0.01284,
+  "stake_kelly": 12.84,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.71942,
+  "clv": 0.02157,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.39
  }
 ]

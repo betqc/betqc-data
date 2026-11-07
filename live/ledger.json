@@ -22987,15 +22987,15 @@
   "clv": 0.08389,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "0-1",
   "primary": true,
   "close_odds": 3.321,
   "close_final": true,
   "close_lead_min": 35.6,
   "live": {
-   "score": "0-0",
-   "now": "won",
-   "ts": "2026-11-07T12:09:35Z"
+   "score": "0-1",
+   "now": "lost",
+   "ts": "2026-11-07T12:44:06Z"
   }
  },
  {

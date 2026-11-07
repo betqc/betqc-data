@@ -23868,7 +23868,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.116
+  "close_odds": 3.116,
+  "close_final": true,
+  "close_lead_min": 6.0
  },
  {
   "key": "f796c10282bb7bd80ea9889d03d2066d|1X2|A|",
@@ -24013,7 +24015,9 @@
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.389
+  "close_odds": 3.389,
+  "close_final": true,
+  "close_lead_min": 6.0
  },
  {
   "key": "4ca4c7a2a1c15e9121f9a7eaa7f42ddb|1X2|D|",
@@ -30437,7 +30441,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.502
+  "close_odds": 2.502,
+  "close_final": true,
+  "close_lead_min": 6.0
  },
  {
   "key": "fe97f5adf397dd6b0a8a9e0a5272f307|1X2|A||v2",
@@ -30572,7 +30578,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.87
+  "close_odds": 1.87,
+  "close_final": true,
+  "close_lead_min": 6.0
  },
  {
   "key": "5c33c4a6a816b8506602426e4a94c3dd|1X2|H|",
@@ -30707,7 +30715,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.502
+  "close_odds": 2.502,
+  "close_final": true,
+  "close_lead_min": 6.0
  },
  {
   "key": "fe97f5adf397dd6b0a8a9e0a5272f307|1X2|A|",
@@ -31041,7 +31051,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.87
+  "close_odds": 1.87,
+  "close_final": true,
+  "close_lead_min": 6.0
  },
  {
   "key": "c70f9f21f48464daa93973147502e183|1X2|D|",
@@ -31106,5 +31118,69 @@
   "score": null,
   "primary": true,
   "close_odds": 1.753
+ },
+ {
+  "key": "8d50b9900ac727448364978a457d50f6|1X2|H|",
+  "placed_ts": "2026-11-07T15:21:12Z",
+  "status": "open",
+  "event_id": "8d50b9900ac727448364978a457d50f6",
+  "league": "AUT",
+  "commence": "2026-11-07T16:00:00Z",
+  "home": "Austria Lustenau",
+  "away": "Grazer AK",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Austria Lustenau",
+  "book": "grosvenor",
+  "book_name": "Grosvenor",
+  "odds": 2.65,
+  "fair_odds": 2.607,
+  "p": 0.3835,
+  "edge": 0.0164,
+  "edge_bfx": -0.0246,
+  "kelly": 0.00248,
+  "stake_kelly": 2.48,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.38353,
+  "clv": 0.01635,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 2.607
+ },
+ {
+  "key": "c7ad58db2278db2259846b11c28ae1c2|1X2|A|",
+  "placed_ts": "2026-11-07T15:21:12Z",
+  "status": "open",
+  "event_id": "c7ad58db2278db2259846b11c28ae1c2",
+  "league": "T1",
+  "commence": "2026-11-07T16:00:00Z",
+  "home": "Goztepe",
+  "away": "Basaksehir",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Basaksehir",
+  "book": "tipico_de",
+  "book_name": "Tipico",
+  "odds": 4.0,
+  "fair_odds": 3.939,
+  "p": 0.2539,
+  "edge": 0.0156,
+  "edge_bfx": -0.0357,
+  "kelly": 0.0013,
+  "stake_kelly": 1.3,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.2539,
+  "clv": 0.01559,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.939
  }
 ]

@@ -28781,7 +28781,7 @@
  {
   "key": "328536a210997eb2595077031a250747|1X2|H|",
   "placed_ts": "2026-11-07T00:02:57Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "328536a210997eb2595077031a250747",
   "league": "AUT",
   "commence": "2026-11-07T18:30:00Z",
@@ -28804,18 +28804,14 @@
   "confirmed": null,
   "close_p": 0.16289,
   "clv": -0.00636,
-  "result": null,
-  "pnl": null,
-  "score": "2-2",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "2-4",
   "primary": true,
   "close_odds": 6.139,
   "close_final": true,
   "close_lead_min": 18.9,
-  "live": {
-   "score": "2-2",
-   "now": "lost",
-   "ts": "2026-11-07T20:16:51Z"
-  }
+  "settled_ts": "2026-11-07T20:27:43Z"
  },
  {
   "key": "0d53a5dbd9d4f4716e923b97e92dfb0d|TOT|O|2.5",
@@ -31517,7 +31513,7 @@
   "live": {
    "score": "1-1",
    "now": "won",
-   "ts": "2026-11-07T20:16:51Z"
+   "ts": "2026-11-07T20:27:43Z"
   }
  },
  {

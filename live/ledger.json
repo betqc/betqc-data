@@ -22841,13 +22841,13 @@
   "stake_kelly": 18.49,
   "tier": 3,
   "confirmed": null,
-  "close_p": 0.69934,
-  "clv": 0.02803,
+  "close_p": 0.70418,
+  "clv": 0.03514,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.43
+  "close_odds": 1.42
  },
  {
   "key": "5c87852253fd11eea5d34ad723356607|1X2|D|",
@@ -22905,13 +22905,13 @@
   "stake_kelly": 4.58,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.47446,
-  "clv": -0.06531,
+  "close_p": 0.53483,
+  "clv": 0.05361,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.108
+  "close_odds": 1.87
  },
  {
   "key": "5c87852253fd11eea5d34ad723356607|TOT|U|2.5",
@@ -24004,13 +24004,13 @@
   "stake_kelly": 6.6,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.60575,
-  "clv": 0.05401,
+  "close_p": 0.54753,
+  "clv": -0.04729,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.651
+  "close_odds": 1.826
  },
  {
   "key": "4330962b4e3ef6768d90008d6befb10d|1X2|H|",
@@ -27108,13 +27108,13 @@
   "stake_kelly": 1.58,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.27297,
-  "clv": 0.02362,
+  "close_p": 0.26639,
+  "clv": -0.00102,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.663
+  "close_odds": 3.754
  },
  {
   "key": "9b8573f77bcf11e180a87e931d8eecfa|1X2|A|",
@@ -28835,13 +28835,13 @@
   "stake_kelly": 17.1,
   "tier": 3,
   "confirmed": null,
-  "close_p": 0.69934,
-  "clv": 0.02803,
+  "close_p": 0.70418,
+  "clv": 0.03514,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.43
+  "close_odds": 1.42
  },
  {
   "key": "b68207565e75753877ade56fe96f5cb8|1X2|H||v2",
@@ -28867,13 +28867,13 @@
   "stake_kelly": 7.66,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.60575,
-  "clv": 0.01766,
+  "close_p": 0.54753,
+  "clv": -0.08015,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.651
+  "close_odds": 1.826
  },
  {
   "key": "89fe6860f3058526dd227dc27efd902a|1X2|A||v2",
@@ -29898,5 +29898,37 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 1.909
+ },
+ {
+  "key": "b68207565e75753877ade56fe96f5cb8|TOT|U|2.5|v2",
+  "placed_ts": "2026-11-07T12:20:39Z",
+  "status": "open",
+  "event_id": "b68207565e75753877ade56fe96f5cb8",
+  "league": "SP2",
+  "commence": "2026-11-07T13:00:00Z",
+  "home": "Burgos CF",
+  "away": "Celta Fortuna",
+  "market": "TOT",
+  "sel": "U",
+  "point": 2.5,
+  "label": "Moins de 2,5",
+  "book": "onexbet",
+  "book_name": "1xBet",
+  "odds": 1.91,
+  "fair_odds": 1.87,
+  "p": 0.5348,
+  "edge": 0.0215,
+  "edge_bfx": null,
+  "kelly": 0.00591,
+  "stake_kelly": 5.91,
+  "tier": 2,
+  "confirmed": null,
+  "close_p": 0.53483,
+  "clv": 0.02152,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.87
  }
 ]

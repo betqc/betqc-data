@@ -27317,7 +27317,7 @@
   "live": {
    "score": "1-2",
    "now": "won",
-   "ts": "2026-11-07T18:46:30Z"
+   "ts": "2026-11-07T18:57:37Z"
   }
  },
  {
@@ -28887,7 +28887,7 @@
  {
   "key": "110f0c14909249dee819119e3affbab5|1X2|H|",
   "placed_ts": "2026-11-07T00:02:57Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "110f0c14909249dee819119e3affbab5",
   "league": "NOR",
   "commence": "2026-11-07T17:00:00Z",
@@ -28910,18 +28910,14 @@
   "confirmed": null,
   "close_p": 0.80111,
   "clv": 0.00139,
-  "result": null,
-  "pnl": null,
-  "score": "2-0",
+  "result": "won",
+  "pnl": 0.25,
+  "score": "4-1",
   "primary": true,
   "close_odds": 1.248,
   "close_final": true,
   "close_lead_min": 20.8,
-  "live": {
-   "score": "2-0",
-   "now": "won",
-   "ts": "2026-11-07T18:46:30Z"
-  }
+  "settled_ts": "2026-11-07T18:57:37Z"
  },
  {
   "key": "a88341ac02c8103eedc594a2ceb3a400|1X2|A||v2",
@@ -29661,7 +29657,7 @@
   "live": {
    "score": "1-2",
    "now": "lost",
-   "ts": "2026-11-07T18:46:30Z"
+   "ts": "2026-11-07T18:57:37Z"
   }
  },
  {
@@ -29840,7 +29836,7 @@
  {
   "key": "110f0c14909249dee819119e3affbab5|1X2|H||v2",
   "placed_ts": "2026-11-07T05:06:53Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "110f0c14909249dee819119e3affbab5",
   "league": "NOR",
   "commence": "2026-11-07T17:00:00Z",
@@ -29863,18 +29859,14 @@
   "confirmed": null,
   "close_p": 0.80111,
   "clv": 0.00139,
-  "result": null,
-  "pnl": null,
-  "score": "2-0",
+  "result": "won",
+  "pnl": 0.25,
+  "score": "4-1",
   "strategy": "v2",
   "close_odds": 1.248,
   "close_final": true,
   "close_lead_min": 20.8,
-  "live": {
-   "score": "2-0",
-   "now": "won",
-   "ts": "2026-11-07T18:46:30Z"
-  }
+  "settled_ts": "2026-11-07T18:57:37Z"
  },
  {
   "key": "71ca5141a1c532e390c6fa14e080d8bd|1X2|A||v2",
@@ -31117,7 +31109,7 @@
  {
   "key": "d0bfb3d1fddac90bd55d6765643bddb7|1X2|A|",
   "placed_ts": "2026-11-07T14:25:37Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "d0bfb3d1fddac90bd55d6765643bddb7",
   "league": "SUI",
   "commence": "2026-11-07T17:00:00Z",
@@ -31140,18 +31132,14 @@
   "confirmed": false,
   "close_p": 0.55088,
   "clv": -0.01944,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.78,
   "score": "0-4",
   "primary": true,
   "close_odds": 1.815,
   "close_final": true,
   "close_lead_min": 20.8,
-  "live": {
-   "score": "0-4",
-   "now": "won",
-   "ts": "2026-11-07T18:46:30Z"
-  }
+  "settled_ts": "2026-11-07T18:57:37Z"
  },
  {
   "key": "8d50b9900ac727448364978a457d50f6|1X2|H|",
@@ -31517,5 +31505,37 @@
   "close_odds": 3.438,
   "close_final": true,
   "close_lead_min": 18.9
+ },
+ {
+  "key": "c323662f3c6524f2ed1c293a7b4e8a46|1X2|D|",
+  "placed_ts": "2026-11-07T18:57:29Z",
+  "status": "open",
+  "event_id": "c323662f3c6524f2ed1c293a7b4e8a46",
+  "league": "SUI",
+  "commence": "2026-11-07T19:30:00Z",
+  "home": "Grasshopper Zürich",
+  "away": "FC Lausanne-Sport",
+  "market": "1X2",
+  "sel": "D",
+  "point": null,
+  "label": "Nul",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 3.75,
+  "fair_odds": 3.688,
+  "p": 0.2711,
+  "edge": 0.0168,
+  "edge_bfx": 0.0071,
+  "kelly": 0.00153,
+  "stake_kelly": 1.53,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.27114,
+  "clv": 0.01678,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.688
  }
 ]

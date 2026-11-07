@@ -25508,15 +25508,15 @@
   "clv": 0.03948,
   "result": null,
   "pnl": null,
-  "score": "0-1",
+  "score": "0-2",
   "primary": true,
   "close_odds": 1.972,
   "close_final": true,
   "close_lead_min": 358.2,
   "live": {
-   "score": "0-1",
+   "score": "0-2",
    "now": "won",
-   "ts": "2026-11-07T10:39:40Z"
+   "ts": "2026-11-07T11:13:33Z"
   }
  },
  {

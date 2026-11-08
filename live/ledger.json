@@ -26276,7 +26276,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 6.986
+  "close_odds": 6.986,
+  "close_final": true,
+  "close_lead_min": 5.1
  },
  {
   "key": "922c2dd253c81c2c53bcda1806eb7a09|1X2|H|",
@@ -26890,13 +26892,13 @@
   "stake_kelly": 10.06,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.67604,
-  "clv": 0.05462,
+  "close_p": 0.68562,
+  "clv": 0.06957,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.479
+  "close_odds": 1.459
  },
  {
   "key": "fa069801a5c9b49143447a1a1d173fd1|1X2|D|",
@@ -27169,13 +27171,13 @@
   "stake_kelly": 0.78,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.12403,
-  "clv": -0.1318,
+  "close_p": 0.11804,
+  "clv": -0.17371,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 8.063
+  "close_odds": 8.472
  },
  {
   "key": "81ad04996f63fb60b494d243b13ac586|TOT|O|2.5",
@@ -27300,13 +27302,13 @@
   "stake_kelly": 1.36,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.24012,
-  "clv": -0.01552,
+  "close_p": 0.25469,
+  "clv": 0.04421,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 4.165
+  "close_odds": 3.926
  },
  {
   "key": "4288fbe018e6e6fb223e389bcf3e57dd|1X2|A|",
@@ -27925,13 +27927,13 @@
   "stake_kelly": 28.82,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.30719,
-  "clv": 0.41309,
+  "close_p": 0.27711,
+  "clv": 0.27471,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.255
+  "close_odds": 3.609
  },
  {
   "key": "b0a4b5448a7e02d9ad1eaa817599fff0|1X2|D|",
@@ -27957,13 +27959,13 @@
   "stake_kelly": 4.13,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.25658,
-  "clv": 0.07763,
+  "close_p": 0.24355,
+  "clv": 0.02293,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.897
+  "close_odds": 4.106
  },
  {
   "key": "926c11a6b5d1773d9024296a215d0f71|1X2|H|",
@@ -28030,7 +28032,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 6.292
+  "close_odds": 6.292,
+  "close_final": true,
+  "close_lead_min": 5.1
  },
  {
   "key": "3a986ab890486c8a375ca00feed49131|1X2|A|",
@@ -30839,7 +30843,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-11-08T15:40:46Z"
+   "ts": "2026-11-08T15:51:24Z"
   }
  },
  {
@@ -31183,13 +31187,13 @@
   "stake_kelly": 3.58,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.43623,
-  "clv": -0.02721,
+  "close_p": 0.47933,
+  "clv": 0.06891,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 2.292
+  "close_odds": 2.086
  },
  {
   "key": "d6ac2cda054a3905cc7f2e5568787a67|TOT|U|2.5",
@@ -32381,13 +32385,13 @@
   "stake_kelly": 10.92,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.67604,
-  "clv": 0.05462,
+  "close_p": 0.68562,
+  "clv": 0.06957,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.479
+  "close_odds": 1.459
  },
  {
   "key": "6e465d9ae10bd171c96eba029985473e|1X2|A||v2",
@@ -32427,7 +32431,7 @@
  {
   "key": "2e75cd12ab05b84b90db6fcc1c9b9cb5|1X2|H|",
   "placed_ts": "2026-11-08T04:32:38Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "2e75cd12ab05b84b90db6fcc1c9b9cb5",
   "league": "POL",
   "commence": "2026-11-08T13:45:00Z",
@@ -32450,18 +32454,14 @@
   "confirmed": false,
   "close_p": 0.50485,
   "clv": 0.09047,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 1.16,
   "score": "1-0",
   "primary": true,
   "close_odds": 1.981,
   "close_final": true,
   "close_lead_min": 29.1,
-  "live": {
-   "score": "1-0",
-   "now": "won",
-   "ts": "2026-11-08T15:40:46Z"
-  }
+  "settled_ts": "2026-11-08T15:51:24Z"
  },
  {
   "key": "81ad04996f63fb60b494d243b13ac586|1X2|H||v2",
@@ -32843,7 +32843,7 @@
   "live": {
    "score": "0-1",
    "now": "won",
-   "ts": "2026-11-08T15:40:46Z"
+   "ts": "2026-11-08T15:51:24Z"
   }
  },
  {
@@ -32882,7 +32882,7 @@
   "live": {
    "score": "0-1",
    "now": "won",
-   "ts": "2026-11-08T15:40:46Z"
+   "ts": "2026-11-08T15:51:24Z"
   }
  },
  {
@@ -33732,7 +33732,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.113
+  "close_odds": 2.113,
+  "close_final": true,
+  "close_lead_min": 5.1
  },
  {
   "key": "460e6fc9e2af7ea0784ed473f39befe5|1X2|H||v2",
@@ -33828,7 +33830,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.432
+  "close_odds": 1.432,
+  "close_final": true,
+  "close_lead_min": 5.1
  },
  {
   "key": "f892f9aa0772c3febcde6fb5477bb6ea|1X2|D|",
@@ -33892,7 +33896,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.113
+  "close_odds": 2.113,
+  "close_final": true,
+  "close_lead_min": 5.1
  },
  {
   "key": "460e6fc9e2af7ea0784ed473f39befe5|1X2|H|",
@@ -33988,7 +33994,9 @@
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 1.432
+  "close_odds": 1.432,
+  "close_final": true,
+  "close_lead_min": 5.1
  },
  {
   "key": "74fa00eeaae6c0beb21475ee9fe73bad|1X2|A|",
@@ -34021,5 +34029,69 @@
   "score": null,
   "primary": false,
   "close_odds": 3.889
+ },
+ {
+  "key": "b0a4b5448a7e02d9ad1eaa817599fff0|1X2|H||v2",
+  "placed_ts": "2026-11-08T15:51:21Z",
+  "status": "open",
+  "event_id": "b0a4b5448a7e02d9ad1eaa817599fff0",
+  "league": "E0",
+  "commence": "2026-11-08T16:30:00Z",
+  "home": "Manchester United",
+  "away": "Aston Villa",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Manchester United",
+  "book": "onexbet",
+  "book_name": "1xBet",
+  "odds": 2.12,
+  "fair_odds": 2.086,
+  "p": 0.4793,
+  "edge": 0.0162,
+  "edge_bfx": 0.0152,
+  "kelly": 0.00361,
+  "stake_kelly": 3.61,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.47933,
+  "clv": 0.01619,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.086
+ },
+ {
+  "key": "52a7ada0374713bbf2bb3c5541c6cf74|1X2|A|",
+  "placed_ts": "2026-11-08T15:51:21Z",
+  "status": "open",
+  "event_id": "52a7ada0374713bbf2bb3c5541c6cf74",
+  "league": "G1",
+  "commence": "2026-11-08T16:30:00Z",
+  "home": "OFI Crete",
+  "away": "Atromitos Athens",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Atromitos Athens",
+  "book": "skybet",
+  "book_name": "Sky Bet",
+  "odds": 3.3,
+  "fair_odds": 3.124,
+  "p": 0.3201,
+  "edge": 0.0564,
+  "edge_bfx": 0.092,
+  "kelly": 0.00613,
+  "stake_kelly": 6.13,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.32013,
+  "clv": 0.05644,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.124
  }
 ]

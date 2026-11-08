@@ -28165,7 +28165,7 @@
   "live": {
    "score": "2-0",
    "now": "lost",
-   "ts": "2026-11-08T18:34:14Z"
+   "ts": "2026-11-08T18:56:11Z"
   }
  },
  {
@@ -31140,7 +31140,7 @@
  {
   "key": "0c2ed692b4ae41d5c8d1a9474f3192f8|TOT|O|3.5",
   "placed_ts": "2026-11-07T14:25:37Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
   "league": "DEN",
   "commence": "2026-11-08T17:00:00Z",
@@ -31163,18 +31163,14 @@
   "confirmed": null,
   "close_p": 0.50963,
   "clv": 0.00396,
-  "result": null,
-  "pnl": null,
-  "score": "1-2",
+  "result": "won",
+  "pnl": 0.97,
+  "score": "2-2",
   "primary": true,
   "close_odds": 1.962,
   "close_final": true,
   "close_lead_min": 36.2,
-  "live": {
-   "score": "1-2",
-   "now": "lost",
-   "ts": "2026-11-08T18:34:14Z"
-  }
+  "settled_ts": "2026-11-08T18:56:11Z"
  },
  {
   "key": "33c5cad848eb423e163a9bf5631ccefe|1X2|A|",

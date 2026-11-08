@@ -25465,13 +25465,13 @@
   "stake_kelly": 5.87,
   "tier": 3,
   "confirmed": null,
-  "close_p": 0.40707,
-  "clv": -0.03117,
+  "close_p": 0.41023,
+  "clv": -0.02365,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.457
+  "close_odds": 2.438
  },
  {
   "key": "3493023efb0aadbdffe37e74e528177c|1X2|H|",
@@ -25740,15 +25740,15 @@
   "clv": 0.00392,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "0-2",
   "primary": true,
   "close_odds": 1.773,
   "close_final": true,
   "close_lead_min": 3.1,
   "live": {
-   "score": "0-0",
-   "now": "lost",
-   "ts": "2026-11-08T11:23:50Z"
+   "score": "0-2",
+   "now": "won",
+   "ts": "2026-11-08T11:57:22Z"
   }
  },
  {
@@ -26748,13 +26748,13 @@
   "stake_kelly": 1.18,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.15128,
-  "clv": -0.01671,
+  "close_p": 0.17237,
+  "clv": 0.12039,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 6.61
+  "close_odds": 5.802
  },
  {
   "key": "1fa78d1150755a8ec1d24cc1e19eeb0a|1X2|H|",
@@ -29221,15 +29221,15 @@
   "clv": 0.06746,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "0-2",
   "primary": false,
   "close_odds": 4.497,
   "close_final": true,
   "close_lead_min": 3.1,
   "live": {
-   "score": "0-0",
+   "score": "0-2",
    "now": "lost",
-   "ts": "2026-11-08T11:23:50Z"
+   "ts": "2026-11-08T11:57:22Z"
   }
  },
  {
@@ -32338,15 +32338,15 @@
   "clv": 0.02,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "0-2",
   "strategy": "v2",
   "close_odds": 2.0,
   "close_final": true,
   "close_lead_min": 3.1,
   "live": {
-   "score": "0-0",
+   "score": "0-2",
    "now": "lost",
-   "ts": "2026-11-08T11:23:50Z"
+   "ts": "2026-11-08T11:57:22Z"
   }
  },
  {
@@ -32377,15 +32377,79 @@
   "clv": 0.02,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "0-2",
   "primary": true,
   "close_odds": 2.0,
   "close_final": true,
   "close_lead_min": 3.1,
   "live": {
-   "score": "0-0",
+   "score": "0-2",
    "now": "lost",
-   "ts": "2026-11-08T11:23:50Z"
+   "ts": "2026-11-08T11:57:22Z"
   }
+ },
+ {
+  "key": "e8c45f8f9ebcfde9f58ed47573691def|1X2|H||v2",
+  "placed_ts": "2026-11-08T11:57:18Z",
+  "status": "open",
+  "event_id": "e8c45f8f9ebcfde9f58ed47573691def",
+  "league": "D2",
+  "commence": "2026-11-08T12:30:00Z",
+  "home": "VfL Bochum",
+  "away": "Karlsruher SC",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "VfL Bochum",
+  "book": "grosvenor",
+  "book_name": "Grosvenor",
+  "odds": 1.81,
+  "fair_odds": 1.763,
+  "p": 0.5672,
+  "edge": 0.0266,
+  "edge_bfx": 0.0261,
+  "kelly": 0.0082,
+  "stake_kelly": 8.2,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.56716,
+  "clv": 0.02656,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.763
+ },
+ {
+  "key": "e8c45f8f9ebcfde9f58ed47573691def|1X2|H|",
+  "placed_ts": "2026-11-08T11:57:18Z",
+  "status": "open",
+  "event_id": "e8c45f8f9ebcfde9f58ed47573691def",
+  "league": "D2",
+  "commence": "2026-11-08T12:30:00Z",
+  "home": "VfL Bochum",
+  "away": "Karlsruher SC",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "VfL Bochum",
+  "book": "grosvenor",
+  "book_name": "Grosvenor",
+  "odds": 1.81,
+  "fair_odds": 1.763,
+  "p": 0.5672,
+  "edge": 0.0266,
+  "edge_bfx": 0.0261,
+  "kelly": 0.0082,
+  "stake_kelly": 8.2,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.56716,
+  "clv": 0.02656,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.763
  }
 ]

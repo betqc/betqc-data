@@ -34494,13 +34494,13 @@
   "stake_kelly": 21.49,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.77366,
-  "clv": 0.02897,
+  "close_p": 0.77411,
+  "clv": 0.02957,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.293
+  "close_odds": 1.292
  },
  {
   "key": "9866fa22adc8509d487522ef4cf0fc24|1X2|A|",
@@ -34526,13 +34526,13 @@
   "stake_kelly": 7.76,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.41756,
-  "clv": 0.04391,
+  "close_p": 0.40386,
+  "clv": 0.00965,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.395
+  "close_odds": 2.476
  },
  {
   "key": "3619e1cf4b0a325c3e0ba5b1fb7f3d91|1X2|H|",
@@ -34558,13 +34558,13 @@
   "stake_kelly": 13.27,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.78086,
-  "clv": 0.01511,
+  "close_p": 0.78127,
+  "clv": 0.01565,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.281
+  "close_odds": 1.28
  },
  {
   "key": "07361a8381206817e27bd2697fad7479|1X2|H|",
@@ -34590,13 +34590,13 @@
   "stake_kelly": 9.49,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.47328,
-  "clv": 0.04595,
+  "close_p": 0.52672,
+  "clv": 0.16405,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.113
+  "close_odds": 1.899
  },
  {
   "key": "07361a8381206817e27bd2697fad7479|1X2|H||v2",
@@ -34622,13 +34622,13 @@
   "stake_kelly": 9.49,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.47328,
-  "clv": 0.04595,
+  "close_p": 0.52672,
+  "clv": 0.16405,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.113
+  "close_odds": 1.899
  },
  {
   "key": "f52b83a74c511828f6155889d751d191|TOT|U|2.5|v2",
@@ -34654,13 +34654,13 @@
   "stake_kelly": 5.89,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.53212,
-  "clv": 0.02167,
+  "close_p": 0.52942,
+  "clv": 0.01648,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.879
+  "close_odds": 1.889
  },
  {
   "key": "f52b83a74c511828f6155889d751d191|TOT|U|2.5",
@@ -34686,12 +34686,44 @@
   "stake_kelly": 5.89,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.53212,
-  "clv": 0.02167,
+  "close_p": 0.52942,
+  "clv": 0.01648,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.879
+  "close_odds": 1.889
+ },
+ {
+  "key": "7bfc2afc162934f011a8425159e340da|1X2|D|",
+  "placed_ts": "2026-11-09T14:39:50Z",
+  "status": "open",
+  "event_id": "7bfc2afc162934f011a8425159e340da",
+  "league": "SP2",
+  "commence": "2026-11-09T19:30:00Z",
+  "home": "Las Palmas",
+  "away": "CD Eldense",
+  "market": "1X2",
+  "sel": "D",
+  "point": null,
+  "label": "Nul",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 3.75,
+  "fair_odds": 3.674,
+  "p": 0.2722,
+  "edge": 0.0208,
+  "edge_bfx": -0.0039,
+  "kelly": 0.00189,
+  "stake_kelly": 1.89,
+  "tier": 2,
+  "confirmed": false,
+  "close_p": 0.27222,
+  "clv": 0.02081,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.674
  }
 ]

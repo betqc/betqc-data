@@ -34495,13 +34495,13 @@
   "stake_kelly": 21.49,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.77411,
-  "clv": 0.02957,
+  "close_p": 0.77249,
+  "clv": 0.02741,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.292
+  "close_odds": 1.295
  },
  {
   "key": "9866fa22adc8509d487522ef4cf0fc24|1X2|A|",
@@ -34531,9 +34531,16 @@
   "clv": -0.07765,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-1",
   "primary": true,
-  "close_odds": 2.71
+  "close_odds": 2.71,
+  "close_final": true,
+  "close_lead_min": 56.4,
+  "live": {
+   "score": "0-1",
+   "now": "won",
+   "ts": "2026-11-10T01:11:38Z"
+  }
  },
  {
   "key": "3619e1cf4b0a325c3e0ba5b1fb7f3d91|1X2|H|",
@@ -34595,15 +34602,15 @@
   "clv": 0.22221,
   "result": null,
   "pnl": null,
-  "score": "7-5",
+  "score": "57-68",
   "primary": true,
   "close_odds": 1.808,
   "close_final": true,
   "close_lead_min": 29.4,
   "live": {
-   "score": "7-5",
-   "now": "won",
-   "ts": "2026-11-10T00:13:43Z"
+   "score": "57-68",
+   "now": "lost",
+   "ts": "2026-11-10T01:11:38Z"
   }
  },
  {
@@ -34634,15 +34641,15 @@
   "clv": 0.22221,
   "result": null,
   "pnl": null,
-  "score": "7-5",
+  "score": "57-68",
   "strategy": "v2",
   "close_odds": 1.808,
   "close_final": true,
   "close_lead_min": 29.4,
   "live": {
-   "score": "7-5",
-   "now": "won",
-   "ts": "2026-11-10T00:13:43Z"
+   "score": "57-68",
+   "now": "lost",
+   "ts": "2026-11-10T01:11:38Z"
   }
  },
  {
@@ -34812,15 +34819,15 @@
   "clv": 0.02847,
   "result": null,
   "pnl": null,
-  "score": "3-0",
+  "score": "59-50",
   "strategy": "v2",
   "close_odds": 1.254,
   "close_final": true,
   "close_lead_min": 29.4,
   "live": {
-   "score": "3-0",
+   "score": "59-50",
    "now": "won",
-   "ts": "2026-11-10T00:13:43Z"
+   "ts": "2026-11-10T01:11:38Z"
   }
  },
  {
@@ -34851,15 +34858,79 @@
   "clv": 0.02847,
   "result": null,
   "pnl": null,
-  "score": "3-0",
+  "score": "59-50",
   "primary": true,
   "close_odds": 1.254,
   "close_final": true,
   "close_lead_min": 29.4,
   "live": {
-   "score": "3-0",
+   "score": "59-50",
    "now": "won",
-   "ts": "2026-11-10T00:13:43Z"
+   "ts": "2026-11-10T01:11:38Z"
   }
+ },
+ {
+  "key": "dc61de43b5db9de357f48f44c8022494|1X2|H||v2",
+  "placed_ts": "2026-11-10T01:11:31Z",
+  "status": "open",
+  "event_id": "dc61de43b5db9de357f48f44c8022494",
+  "league": "NBA",
+  "commence": "2026-11-10T01:40:00Z",
+  "home": "Houston Rockets",
+  "away": "Denver Nuggets",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Houston Rockets",
+  "book": "unibet_uk",
+  "book_name": "Unibet",
+  "odds": 1.58,
+  "fair_odds": 1.552,
+  "p": 0.6444,
+  "edge": 0.0182,
+  "edge_bfx": 0.0019,
+  "kelly": 0.00783,
+  "stake_kelly": 7.83,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.6444,
+  "clv": 0.01816,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.552
+ },
+ {
+  "key": "dc61de43b5db9de357f48f44c8022494|1X2|H|",
+  "placed_ts": "2026-11-10T01:11:31Z",
+  "status": "open",
+  "event_id": "dc61de43b5db9de357f48f44c8022494",
+  "league": "NBA",
+  "commence": "2026-11-10T01:40:00Z",
+  "home": "Houston Rockets",
+  "away": "Denver Nuggets",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Houston Rockets",
+  "book": "unibet_uk",
+  "book_name": "Unibet",
+  "odds": 1.58,
+  "fair_odds": 1.552,
+  "p": 0.6444,
+  "edge": 0.0182,
+  "edge_bfx": 0.0019,
+  "kelly": 0.00783,
+  "stake_kelly": 7.83,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.6444,
+  "clv": 0.01816,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.552
  }
 ]

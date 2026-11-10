@@ -34499,21 +34499,21 @@
   "clv": 0.02741,
   "result": null,
   "pnl": null,
-  "score": "59-78",
+  "score": "68-90",
   "primary": true,
   "close_odds": 1.295,
   "close_final": true,
   "close_lead_min": 25.8,
   "live": {
-   "score": "59-78",
+   "score": "68-90",
    "now": "won",
-   "ts": "2026-11-10T03:41:43Z"
+   "ts": "2026-11-10T03:52:11Z"
   }
  },
  {
   "key": "9866fa22adc8509d487522ef4cf0fc24|1X2|A|",
   "placed_ts": "2026-11-09T08:58:21Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "9866fa22adc8509d487522ef4cf0fc24",
   "league": "NBA",
   "commence": "2026-11-10T01:10:00Z",
@@ -34536,18 +34536,14 @@
   "confirmed": true,
   "close_p": 0.36894,
   "clv": -0.07765,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "125-122",
   "primary": true,
   "close_odds": 2.71,
   "close_final": true,
   "close_lead_min": 56.4,
-  "live": {
-   "score": "125-122",
-   "now": "lost",
-   "ts": "2026-11-10T03:41:43Z"
-  }
+  "settled_ts": "2026-11-10T03:52:11Z"
  },
  {
   "key": "3619e1cf4b0a325c3e0ba5b1fb7f3d91|1X2|H|",
@@ -34577,15 +34573,15 @@
   "clv": 0.07286,
   "result": null,
   "pnl": null,
-  "score": "40-22",
+  "score": "50-24",
   "primary": true,
   "close_odds": 1.212,
   "close_final": true,
   "close_lead_min": 24.4,
   "live": {
-   "score": "40-22",
+   "score": "50-24",
    "now": "won",
-   "ts": "2026-11-10T03:41:43Z"
+   "ts": "2026-11-10T03:52:11Z"
   }
  },
  {
@@ -34895,15 +34891,15 @@
   "clv": 0.01816,
   "result": null,
   "pnl": null,
-  "score": "98-90",
+  "score": "110-100",
   "strategy": "v2",
   "close_odds": 1.552,
   "close_final": true,
   "close_lead_min": 28.5,
   "live": {
-   "score": "98-90",
+   "score": "110-100",
    "now": "won",
-   "ts": "2026-11-10T03:41:43Z"
+   "ts": "2026-11-10T03:52:11Z"
   }
  },
  {
@@ -34934,15 +34930,15 @@
   "clv": 0.01816,
   "result": null,
   "pnl": null,
-  "score": "98-90",
+  "score": "110-100",
   "primary": true,
   "close_odds": 1.552,
   "close_final": true,
   "close_lead_min": 28.5,
   "live": {
-   "score": "98-90",
+   "score": "110-100",
    "now": "won",
-   "ts": "2026-11-10T03:41:43Z"
+   "ts": "2026-11-10T03:52:11Z"
   }
  }
 ]

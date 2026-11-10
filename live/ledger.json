@@ -34499,15 +34499,15 @@
   "clv": 0.02741,
   "result": null,
   "pnl": null,
-  "score": "68-90",
+  "score": "90-114",
   "primary": true,
   "close_odds": 1.295,
   "close_final": true,
   "close_lead_min": 25.8,
   "live": {
-   "score": "68-90",
+   "score": "90-114",
    "now": "won",
-   "ts": "2026-11-10T03:52:11Z"
+   "ts": "2026-11-10T04:13:11Z"
   }
  },
  {
@@ -34573,15 +34573,15 @@
   "clv": 0.07286,
   "result": null,
   "pnl": null,
-  "score": "50-24",
+  "score": "72-43",
   "primary": true,
   "close_odds": 1.212,
   "close_final": true,
   "close_lead_min": 24.4,
   "live": {
-   "score": "50-24",
+   "score": "72-43",
    "now": "won",
-   "ts": "2026-11-10T03:52:11Z"
+   "ts": "2026-11-10T04:13:11Z"
   }
  },
  {
@@ -34866,7 +34866,7 @@
  {
   "key": "dc61de43b5db9de357f48f44c8022494|1X2|H||v2",
   "placed_ts": "2026-11-10T01:11:31Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "dc61de43b5db9de357f48f44c8022494",
   "league": "NBA",
   "commence": "2026-11-10T01:40:00Z",
@@ -34889,23 +34889,19 @@
   "confirmed": true,
   "close_p": 0.6444,
   "clv": 0.01816,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.58,
   "score": "110-100",
   "strategy": "v2",
   "close_odds": 1.552,
   "close_final": true,
   "close_lead_min": 28.5,
-  "live": {
-   "score": "110-100",
-   "now": "won",
-   "ts": "2026-11-10T03:52:11Z"
-  }
+  "settled_ts": "2026-11-10T04:13:11Z"
  },
  {
   "key": "dc61de43b5db9de357f48f44c8022494|1X2|H|",
   "placed_ts": "2026-11-10T01:11:31Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "dc61de43b5db9de357f48f44c8022494",
   "league": "NBA",
   "commence": "2026-11-10T01:40:00Z",
@@ -34928,17 +34924,13 @@
   "confirmed": true,
   "close_p": 0.6444,
   "clv": 0.01816,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.58,
   "score": "110-100",
   "primary": true,
   "close_odds": 1.552,
   "close_final": true,
   "close_lead_min": 28.5,
-  "live": {
-   "score": "110-100",
-   "now": "won",
-   "ts": "2026-11-10T03:52:11Z"
-  }
+  "settled_ts": "2026-11-10T04:13:11Z"
  }
 ]

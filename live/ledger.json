@@ -35159,13 +35159,13 @@
   "stake_kelly": 30.0,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.90102,
-  "clv": 0.01816,
+  "close_p": 0.90158,
+  "clv": 0.01879,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.11
+  "close_odds": 1.109
  },
  {
   "key": "095441822e3b9b1b84bff9e482b9057a|1X2|H|",
@@ -35191,13 +35191,13 @@
   "stake_kelly": 6.39,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.63041,
-  "clv": 0.01496,
+  "close_p": 0.62976,
+  "clv": 0.01392,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.586
+  "close_odds": 1.588
  },
  {
   "key": "e9545a3084389f5f3429e19fea891124|1X2|A|",
@@ -35262,5 +35262,37 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 2.342
+ },
+ {
+  "key": "f71d831db05c678e7208a069210cd59d|TOT|U|2.5",
+  "placed_ts": "2026-11-11T15:06:23Z",
+  "status": "open",
+  "event_id": "f71d831db05c678e7208a069210cd59d",
+  "league": "E3",
+  "commence": "2026-11-14T15:00:00Z",
+  "home": "Crewe Alexandra",
+  "away": "Newport County",
+  "market": "TOT",
+  "sel": "U",
+  "point": 2.5,
+  "label": "Moins de 2,5",
+  "book": "grosvenor",
+  "book_name": "Grosvenor",
+  "odds": 1.94,
+  "fair_odds": 1.882,
+  "p": 0.5314,
+  "edge": 0.031,
+  "edge_bfx": null,
+  "kelly": 0.00824,
+  "stake_kelly": 8.24,
+  "tier": 4,
+  "confirmed": null,
+  "close_p": 0.53143,
+  "clv": 0.03097,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.882
  }
 ]

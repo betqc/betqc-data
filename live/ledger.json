@@ -35159,13 +35159,13 @@
   "stake_kelly": 30.0,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.90151,
-  "clv": 0.01871,
+  "close_p": 0.90875,
+  "clv": 0.02689,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.109
+  "close_odds": 1.1
  },
  {
   "key": "095441822e3b9b1b84bff9e482b9057a|1X2|H|",
@@ -35191,13 +35191,13 @@
   "stake_kelly": 6.39,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.63406,
-  "clv": 0.02084,
+  "close_p": 0.62477,
+  "clv": 0.00588,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.577
+  "close_odds": 1.601
  },
  {
   "key": "e9545a3084389f5f3429e19fea891124|1X2|A|",
@@ -35223,13 +35223,13 @@
   "stake_kelly": 5.76,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.43344,
-  "clv": 0.0316,
+  "close_p": 0.42424,
+  "clv": 0.00968,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.307
+  "close_odds": 2.357
  },
  {
   "key": "e9545a3084389f5f3429e19fea891124|1X2|A||v2",
@@ -35255,13 +35255,13 @@
   "stake_kelly": 5.76,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.43344,
-  "clv": 0.0316,
+  "close_p": 0.42424,
+  "clv": 0.00968,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.307
+  "close_odds": 2.357
  },
  {
   "key": "f71d831db05c678e7208a069210cd59d|TOT|U|2.5",
@@ -35294,5 +35294,37 @@
   "score": null,
   "primary": true,
   "close_odds": 1.882
+ },
+ {
+  "key": "095441822e3b9b1b84bff9e482b9057a|1X2|H||v2",
+  "placed_ts": "2026-11-11T19:19:16Z",
+  "status": "open",
+  "event_id": "095441822e3b9b1b84bff9e482b9057a",
+  "league": "NBA",
+  "commence": "2026-11-12T00:10:00Z",
+  "home": "New York Knicks",
+  "away": "Cleveland Cavaliers",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "New York Knicks",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 1.63,
+  "fair_odds": 1.601,
+  "p": 0.6248,
+  "edge": 0.0184,
+  "edge_bfx": 0.0058,
+  "kelly": 0.00729,
+  "stake_kelly": 7.29,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.62477,
+  "clv": 0.01838,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.601
  }
 ]

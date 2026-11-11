@@ -35158,5 +35158,37 @@
    "now": "won",
    "ts": "2026-11-11T02:51:35Z"
   }
+ },
+ {
+  "key": "8e0fdbf07b1f288b00ec5b370f6c1e2d|1X2|A|",
+  "placed_ts": "2026-11-11T03:02:11Z",
+  "status": "open",
+  "event_id": "8e0fdbf07b1f288b00ec5b370f6c1e2d",
+  "league": "NBA",
+  "commence": "2026-11-12T01:10:00Z",
+  "home": "Chicago Bulls",
+  "away": "San Antonio Spurs",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "San Antonio Spurs",
+  "book": "skybet",
+  "book_name": "Sky Bet",
+  "odds": 1.13,
+  "fair_odds": 1.099,
+  "p": 0.9099,
+  "edge": 0.0282,
+  "edge_bfx": null,
+  "kelly": 0.03,
+  "stake_kelly": 30.0,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.90995,
+  "clv": 0.02824,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.099
  }
 ]

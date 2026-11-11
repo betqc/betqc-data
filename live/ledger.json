@@ -35033,7 +35033,7 @@
  {
   "key": "9ac02cb22adf276b325b1e9c9c6c588e|1X2|A||v2",
   "placed_ts": "2026-11-11T01:00:58Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "9ac02cb22adf276b325b1e9c9c6c588e",
   "league": "NBA",
   "commence": "2026-11-11T02:10:00Z",
@@ -35056,23 +35056,19 @@
   "confirmed": true,
   "close_p": 0.75391,
   "clv": 0.06301,
-  "result": null,
-  "pnl": null,
-  "score": "107-113",
+  "result": "won",
+  "pnl": 0.41,
+  "score": "109-115",
   "strategy": "v2",
   "close_odds": 1.326,
   "close_final": true,
   "close_lead_min": 5.0,
-  "live": {
-   "score": "107-113",
-   "now": "won",
-   "ts": "2026-11-11T04:41:05Z"
-  }
+  "settled_ts": "2026-11-11T04:51:59Z"
  },
  {
   "key": "9ac02cb22adf276b325b1e9c9c6c588e|1X2|A||qc",
   "placed_ts": "2026-11-11T01:00:58Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "9ac02cb22adf276b325b1e9c9c6c588e",
   "league": "NBA",
   "commence": "2026-11-11T02:10:00Z",
@@ -35095,23 +35091,19 @@
   "confirmed": true,
   "close_p": 0.75391,
   "clv": 0.06301,
-  "result": null,
-  "pnl": null,
-  "score": "107-113",
+  "result": "won",
+  "pnl": 0.41,
+  "score": "109-115",
   "strategy": "qc",
   "close_odds": 1.326,
   "close_final": true,
   "close_lead_min": 5.0,
-  "live": {
-   "score": "107-113",
-   "now": "won",
-   "ts": "2026-11-11T04:41:05Z"
-  }
+  "settled_ts": "2026-11-11T04:51:59Z"
  },
  {
   "key": "9ac02cb22adf276b325b1e9c9c6c588e|1X2|A|",
   "placed_ts": "2026-11-11T01:00:58Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "9ac02cb22adf276b325b1e9c9c6c588e",
   "league": "NBA",
   "commence": "2026-11-11T02:10:00Z",
@@ -35134,18 +35126,14 @@
   "confirmed": true,
   "close_p": 0.75391,
   "clv": 0.06301,
-  "result": null,
-  "pnl": null,
-  "score": "107-113",
+  "result": "won",
+  "pnl": 0.41,
+  "score": "109-115",
   "primary": true,
   "close_odds": 1.326,
   "close_final": true,
   "close_lead_min": 5.0,
-  "live": {
-   "score": "107-113",
-   "now": "won",
-   "ts": "2026-11-11T04:41:05Z"
-  }
+  "settled_ts": "2026-11-11T04:51:59Z"
  },
  {
   "key": "8e0fdbf07b1f288b00ec5b370f6c1e2d|1X2|A|",

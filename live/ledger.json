@@ -35191,13 +35191,13 @@
   "stake_kelly": 6.39,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.64862,
-  "clv": 0.04428,
+  "close_p": 0.64919,
+  "clv": 0.0452,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.542
+  "close_odds": 1.54
  },
  {
   "key": "e9545a3084389f5f3429e19fea891124|1X2|A|",
@@ -35223,13 +35223,13 @@
   "stake_kelly": 5.76,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.4099,
-  "clv": -0.02444,
+  "close_p": 0.41433,
+  "clv": -0.0139,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.44
+  "close_odds": 2.414
  },
  {
   "key": "e9545a3084389f5f3429e19fea891124|1X2|A||v2",
@@ -35255,13 +35255,13 @@
   "stake_kelly": 5.76,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.4099,
-  "clv": -0.02444,
+  "close_p": 0.41433,
+  "clv": -0.0139,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.44
+  "close_odds": 2.414
  },
  {
   "key": "f71d831db05c678e7208a069210cd59d|TOT|U|2.5",
@@ -35319,13 +35319,13 @@
   "stake_kelly": 7.29,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.64862,
-  "clv": 0.05725,
+  "close_p": 0.64919,
+  "clv": 0.05818,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.542
+  "close_odds": 1.54
  },
  {
   "key": "21792501482fecfaacd3a4a24776c9e6|1X2|A||v2",
@@ -35383,13 +35383,13 @@
   "stake_kelly": 5.2,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.5901,
-  "clv": 0.01498,
+  "close_p": 0.58567,
+  "clv": 0.00736,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.695
+  "close_odds": 1.707
  },
  {
   "key": "21792501482fecfaacd3a4a24776c9e6|1X2|A|",
@@ -35447,12 +35447,12 @@
   "stake_kelly": 5.2,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.5901,
-  "clv": 0.01498,
+  "close_p": 0.58567,
+  "clv": 0.00736,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 1.695
+  "close_odds": 1.707
  }
 ]

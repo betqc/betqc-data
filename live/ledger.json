@@ -35644,15 +35644,15 @@
   "clv": 0.02176,
   "result": null,
   "pnl": null,
-  "score": "0-3",
+  "score": "0-4",
   "strategy": "v2",
   "close_odds": 1.37,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "0-3",
+   "score": "0-4",
    "now": "won",
-   "ts": "2026-11-12T18:58:41Z"
+   "ts": "2026-11-12T19:31:40Z"
   }
  },
  {
@@ -35683,15 +35683,15 @@
   "clv": 0.02176,
   "result": null,
   "pnl": null,
-  "score": "0-3",
+  "score": "0-4",
   "primary": true,
   "close_odds": 1.37,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "0-3",
+   "score": "0-4",
    "now": "won",
-   "ts": "2026-11-12T18:58:41Z"
+   "ts": "2026-11-12T19:31:40Z"
   }
  },
  {
@@ -35725,5 +35725,37 @@
   "score": null,
   "primary": true,
   "close_odds": 1.633
+ },
+ {
+  "key": "f3f429e773bfb2340ba2bb90f2b9dd1e|1X2|A|",
+  "placed_ts": "2026-11-12T19:31:38Z",
+  "status": "open",
+  "event_id": "f3f429e773bfb2340ba2bb90f2b9dd1e",
+  "league": "NBA",
+  "commence": "2026-11-13T02:10:00Z",
+  "home": "Phoenix Suns",
+  "away": "Charlotte Hornets",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Charlotte Hornets",
+  "book": "sport888",
+  "book_name": "888sport",
+  "odds": 3.1,
+  "fair_odds": 3.019,
+  "p": 0.3313,
+  "edge": 0.027,
+  "edge_bfx": 0.0496,
+  "kelly": 0.00321,
+  "stake_kelly": 3.21,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.33128,
+  "clv": 0.02696,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.019
  }
 ]

@@ -35163,9 +35163,16 @@
   "clv": 0.02796,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "54-40",
   "primary": true,
-  "close_odds": 1.099
+  "close_odds": 1.099,
+  "close_final": true,
+  "close_lead_min": 26.4,
+  "live": {
+   "score": "54-40",
+   "now": "lost",
+   "ts": "2026-11-12T01:45:45Z"
+  }
  },
  {
   "key": "095441822e3b9b1b84bff9e482b9057a|1X2|H|",
@@ -35195,15 +35202,15 @@
   "clv": 0.05107,
   "result": null,
   "pnl": null,
-  "score": "34-36",
+  "score": "70-72",
   "primary": true,
   "close_odds": 1.532,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "34-36",
+   "score": "70-72",
    "now": "lost",
-   "ts": "2026-11-12T00:54:15Z"
+   "ts": "2026-11-12T01:45:45Z"
   }
  },
  {
@@ -35234,15 +35241,15 @@
   "clv": -0.0139,
   "result": null,
   "pnl": null,
-  "score": "33-41",
+  "score": "76-77",
   "primary": true,
   "close_odds": 2.414,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "33-41",
+   "score": "76-77",
    "now": "won",
-   "ts": "2026-11-12T00:54:15Z"
+   "ts": "2026-11-12T01:45:45Z"
   }
  },
  {
@@ -35273,15 +35280,15 @@
   "clv": -0.0139,
   "result": null,
   "pnl": null,
-  "score": "33-41",
+  "score": "76-77",
   "strategy": "v2",
   "close_odds": 2.414,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "33-41",
+   "score": "76-77",
    "now": "won",
-   "ts": "2026-11-12T00:54:15Z"
+   "ts": "2026-11-12T01:45:45Z"
   }
  },
  {
@@ -35344,15 +35351,15 @@
   "clv": 0.06413,
   "result": null,
   "pnl": null,
-  "score": "34-36",
+  "score": "70-72",
   "strategy": "v2",
   "close_odds": 1.532,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "34-36",
+   "score": "70-72",
    "now": "lost",
-   "ts": "2026-11-12T00:54:15Z"
+   "ts": "2026-11-12T01:45:45Z"
   }
  },
  {
@@ -35383,9 +35390,16 @@
   "clv": 0.00819,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "31-42",
   "strategy": "v2",
-  "close_odds": 1.656
+  "close_odds": 1.656,
+  "close_final": true,
+  "close_lead_min": 26.4,
+  "live": {
+   "score": "31-42",
+   "now": "won",
+   "ts": "2026-11-12T01:45:45Z"
+  }
  },
  {
   "key": "e9545a3084389f5f3429e19fea891124|1X2|H||v2",
@@ -35415,15 +35429,15 @@
   "clv": 0.00736,
   "result": null,
   "pnl": null,
-  "score": "33-41",
+  "score": "76-77",
   "strategy": "v2",
   "close_odds": 1.707,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "33-41",
+   "score": "76-77",
    "now": "lost",
-   "ts": "2026-11-12T00:54:15Z"
+   "ts": "2026-11-12T01:45:45Z"
   }
  },
  {
@@ -35454,9 +35468,16 @@
   "clv": 0.00819,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "31-42",
   "primary": true,
-  "close_odds": 1.656
+  "close_odds": 1.656,
+  "close_final": true,
+  "close_lead_min": 26.4,
+  "live": {
+   "score": "31-42",
+   "now": "won",
+   "ts": "2026-11-12T01:45:45Z"
+  }
  },
  {
   "key": "e9545a3084389f5f3429e19fea891124|1X2|H|",
@@ -35486,15 +35507,15 @@
   "clv": 0.00736,
   "result": null,
   "pnl": null,
-  "score": "33-41",
+  "score": "76-77",
   "primary": false,
   "close_odds": 1.707,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "33-41",
+   "score": "76-77",
    "now": "lost",
-   "ts": "2026-11-12T00:54:15Z"
+   "ts": "2026-11-12T01:45:45Z"
   }
  },
  {
@@ -35525,15 +35546,15 @@
   "clv": 0.02572,
   "result": null,
   "pnl": null,
-  "score": "46-32",
+  "score": "63-61",
   "strategy": "v2",
   "close_odds": 1.54,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "46-32",
+   "score": "63-61",
    "now": "lost",
-   "ts": "2026-11-12T00:54:15Z"
+   "ts": "2026-11-12T01:45:45Z"
   }
  },
  {
@@ -35564,15 +35585,15 @@
   "clv": 0.02572,
   "result": null,
   "pnl": null,
-  "score": "46-32",
+  "score": "63-61",
   "primary": true,
   "close_odds": 1.54,
   "close_final": true,
   "close_lead_min": 4.5,
   "live": {
-   "score": "46-32",
+   "score": "63-61",
    "now": "lost",
-   "ts": "2026-11-12T00:54:15Z"
+   "ts": "2026-11-12T01:45:45Z"
   }
  }
 ]

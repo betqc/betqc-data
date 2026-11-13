@@ -35721,7 +35721,7 @@
  {
   "key": "f3f429e773bfb2340ba2bb90f2b9dd1e|1X2|A|",
   "placed_ts": "2026-11-12T19:31:38Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "f3f429e773bfb2340ba2bb90f2b9dd1e",
   "league": "NBA",
   "commence": "2026-11-13T02:10:00Z",
@@ -35744,18 +35744,14 @@
   "confirmed": true,
   "close_p": 0.33554,
   "clv": 0.04016,
-  "result": null,
-  "pnl": null,
-  "score": "79-79",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "101-96",
   "primary": true,
   "close_odds": 2.98,
   "close_final": true,
   "close_lead_min": 29.6,
-  "live": {
-   "score": "79-79",
-   "now": "lost",
-   "ts": "2026-11-13T03:59:51Z"
-  }
+  "settled_ts": "2026-11-13T04:32:23Z"
  },
  {
   "key": "a51c350318d7570c2b74af08eedb9fcd|1X2|H|",

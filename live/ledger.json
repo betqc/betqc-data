@@ -35299,13 +35299,13 @@
   "stake_kelly": 8.24,
   "tier": 4,
   "confirmed": null,
-  "close_p": 0.53143,
-  "clv": 0.03097,
+  "close_p": 0.53059,
+  "clv": 0.02935,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.882
+  "close_odds": 1.885
  },
  {
   "key": "095441822e3b9b1b84bff9e482b9057a|1X2|H||v2",
@@ -35576,13 +35576,13 @@
   "stake_kelly": 4.32,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.25399,
-  "clv": 0.04135,
+  "close_p": 0.25282,
+  "clv": 0.03655,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.937
+  "close_odds": 3.955
  },
  {
   "key": "d5b0e0c0934f6a58410410bd573a5065|1X2|D|",
@@ -35608,13 +35608,13 @@
   "stake_kelly": 3.02,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.31144,
-  "clv": 0.02777,
+  "close_p": 0.31074,
+  "clv": 0.02543,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.211
+  "close_odds": 3.218
  },
  {
   "key": "5a2820b80e20b69258bd5eb25c18eb78|1X2|A||v2",
@@ -35710,13 +35710,13 @@
   "stake_kelly": 8.5,
   "tier": 4,
   "confirmed": null,
-  "close_p": 0.61244,
-  "clv": 0.02277,
+  "close_p": 0.61181,
+  "clv": 0.02172,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.633
+  "close_odds": 1.634
  },
  {
   "key": "f3f429e773bfb2340ba2bb90f2b9dd1e|1X2|A|",
@@ -35777,13 +35777,13 @@
   "stake_kelly": 7.97,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.19049,
-  "clv": 0.32392,
+  "close_p": 0.19718,
+  "clv": 0.37041,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 5.25
+  "close_odds": 5.071
  },
  {
   "key": "60e79364c168ad0ad22c0cffc02be8a9|1X2|H|",
@@ -35809,13 +35809,13 @@
   "stake_kelly": 4.64,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.49965,
-  "clv": 0.01929,
+  "close_p": 0.48164,
+  "clv": -0.01746,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.001
+  "close_odds": 2.076
  },
  {
   "key": "21cd36d8c877a851efe2016178ff0bd1|1X2|H|",
@@ -35841,13 +35841,13 @@
   "stake_kelly": 12.3,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.62545,
-  "clv": 0.03199,
+  "close_p": 0.58762,
+  "clv": -0.03042,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.599
+  "close_odds": 1.702
  },
  {
   "key": "1fae7f34ec6035dffa74feb148ee26c7|1X2|A|",
@@ -35873,13 +35873,13 @@
   "stake_kelly": 1.24,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.16417,
-  "clv": 0.02604,
+  "close_p": 0.15811,
+  "clv": -0.01184,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 6.091
+  "close_odds": 6.325
  },
  {
   "key": "80ffc963f864f3d4fcefa82fd02b7d7b|1X2|A|",
@@ -35905,12 +35905,44 @@
   "stake_kelly": 12.75,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.72886,
-  "clv": 0.0204,
+  "close_p": 0.69548,
+  "clv": -0.02633,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.372
+  "close_odds": 1.438
+ },
+ {
+  "key": "8fafa425728aa8e7d2c23956ba4c2553|1X2|A|",
+  "placed_ts": "2026-11-13T15:17:33Z",
+  "status": "open",
+  "event_id": "8fafa425728aa8e7d2c23956ba4c2553",
+  "league": "BRA",
+  "commence": "2026-11-14T23:30:00Z",
+  "home": "Chapecoense",
+  "away": "Vasco da Gama",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Vasco da Gama",
+  "book": "onexbet",
+  "book_name": "1xBet",
+  "odds": 1.46,
+  "fair_odds": 1.43,
+  "p": 0.6995,
+  "edge": 0.0212,
+  "edge_bfx": null,
+  "kelly": 0.01154,
+  "stake_kelly": 11.54,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.69947,
+  "clv": 0.02123,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.43
  }
 ]

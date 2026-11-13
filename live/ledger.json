@@ -35576,13 +35576,13 @@
   "stake_kelly": 4.32,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.25449,
-  "clv": 0.04341,
+  "close_p": 0.2635,
+  "clv": 0.08033,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.929
+  "close_odds": 3.795
  },
  {
   "key": "d5b0e0c0934f6a58410410bd573a5065|1X2|D|",
@@ -35608,13 +35608,13 @@
   "stake_kelly": 3.02,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.3043,
-  "clv": 0.00419,
+  "close_p": 0.30583,
+  "clv": 0.00924,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.286
+  "close_odds": 3.27
  },
  {
   "key": "5a2820b80e20b69258bd5eb25c18eb78|1X2|A||v2",
@@ -35777,13 +35777,13 @@
   "stake_kelly": 7.97,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.19202,
-  "clv": 0.33451,
+  "close_p": 0.19686,
+  "clv": 0.36818,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 5.208
+  "close_odds": 5.08
  },
  {
   "key": "60e79364c168ad0ad22c0cffc02be8a9|1X2|H|",
@@ -35841,13 +35841,13 @@
   "stake_kelly": 12.3,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.59044,
-  "clv": -0.02578,
+  "close_p": 0.59409,
+  "clv": -0.01975,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.694
+  "close_odds": 1.683
  },
  {
   "key": "1fae7f34ec6035dffa74feb148ee26c7|1X2|A|",
@@ -35873,13 +35873,13 @@
   "stake_kelly": 1.24,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.1492,
-  "clv": -0.06747,
+  "close_p": 0.14948,
+  "clv": -0.06573,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 6.702
+  "close_odds": 6.69
  },
  {
   "key": "80ffc963f864f3d4fcefa82fd02b7d7b|1X2|A|",
@@ -35905,13 +35905,13 @@
   "stake_kelly": 12.75,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.71065,
-  "clv": -0.00508,
+  "close_p": 0.71104,
+  "clv": -0.00455,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.407
+  "close_odds": 1.406
  },
  {
   "key": "8fafa425728aa8e7d2c23956ba4c2553|1X2|A|",
@@ -35944,5 +35944,37 @@
   "score": null,
   "primary": true,
   "close_odds": 1.43
+ },
+ {
+  "key": "371f8125767427c4b599eab458bb5549|1X2|H|",
+  "placed_ts": "2026-11-13T21:31:32Z",
+  "status": "open",
+  "event_id": "371f8125767427c4b599eab458bb5549",
+  "league": "E2",
+  "commence": "2026-11-14T15:00:00Z",
+  "home": "Stockport County FC",
+  "away": "Reading",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Stockport County FC",
+  "book": "coral",
+  "book_name": "Coral",
+  "odds": 1.91,
+  "fair_odds": 1.88,
+  "p": 0.5319,
+  "edge": 0.0159,
+  "edge_bfx": null,
+  "kelly": 0.00436,
+  "stake_kelly": 4.36,
+  "tier": 3,
+  "confirmed": null,
+  "close_p": 0.53187,
+  "clv": 0.01587,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.88
  }
 ]

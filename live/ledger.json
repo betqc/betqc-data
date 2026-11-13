@@ -35299,13 +35299,13 @@
   "stake_kelly": 8.24,
   "tier": 4,
   "confirmed": null,
-  "close_p": 0.53059,
-  "clv": 0.02935,
+  "close_p": 0.52656,
+  "clv": 0.02153,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.885
+  "close_odds": 1.899
  },
  {
   "key": "095441822e3b9b1b84bff9e482b9057a|1X2|H||v2",
@@ -35608,13 +35608,13 @@
   "stake_kelly": 3.02,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.31074,
-  "clv": 0.02543,
+  "close_p": 0.31002,
+  "clv": 0.02308,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.218
+  "close_odds": 3.226
  },
  {
   "key": "5a2820b80e20b69258bd5eb25c18eb78|1X2|A||v2",
@@ -35777,13 +35777,13 @@
   "stake_kelly": 7.97,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.19718,
-  "clv": 0.37041,
+  "close_p": 0.19186,
+  "clv": 0.33343,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 5.071
+  "close_odds": 5.212
  },
  {
   "key": "60e79364c168ad0ad22c0cffc02be8a9|1X2|H|",
@@ -35841,13 +35841,13 @@
   "stake_kelly": 12.3,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.58762,
-  "clv": -0.03042,
+  "close_p": 0.59044,
+  "clv": -0.02578,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.702
+  "close_odds": 1.694
  },
  {
   "key": "1fae7f34ec6035dffa74feb148ee26c7|1X2|A|",
@@ -35873,13 +35873,13 @@
   "stake_kelly": 1.24,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.15811,
-  "clv": -0.01184,
+  "close_p": 0.15779,
+  "clv": -0.01383,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 6.325
+  "close_odds": 6.338
  },
  {
   "key": "80ffc963f864f3d4fcefa82fd02b7d7b|1X2|A|",
@@ -35905,13 +35905,13 @@
   "stake_kelly": 12.75,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.69548,
-  "clv": -0.02633,
+  "close_p": 0.72276,
+  "clv": 0.01186,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.438
+  "close_odds": 1.384
  },
  {
   "key": "8fafa425728aa8e7d2c23956ba4c2553|1X2|A|",

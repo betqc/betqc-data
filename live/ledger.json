@@ -35742,12 +35742,12 @@
   "stake_kelly": 3.21,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.32176,
-  "clv": -0.00254,
+  "close_p": 0.33554,
+  "clv": 0.04016,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.108
+  "close_odds": 2.98
  }
 ]

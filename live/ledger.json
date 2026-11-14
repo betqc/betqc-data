@@ -35836,7 +35836,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-11-14T21:33:54Z"
+   "ts": "2026-11-14T22:27:51Z"
   }
  },
  {
@@ -36084,7 +36084,7 @@
  {
   "key": "beaf0bb6252d3b1d42a720aa385e9414|1X2|D|",
   "placed_ts": "2026-11-14T02:08:48Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "beaf0bb6252d3b1d42a720aa385e9414",
   "league": "SP2",
   "commence": "2026-11-14T20:00:00Z",
@@ -36107,18 +36107,14 @@
   "confirmed": null,
   "close_p": 0.30552,
   "clv": 0.05403,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "1-2",
   "primary": true,
   "close_odds": 3.273,
   "close_final": true,
   "close_lead_min": 25.4,
-  "live": {
-   "score": "1-2",
-   "now": "lost",
-   "ts": "2026-11-14T21:33:54Z"
-  }
+  "settled_ts": "2026-11-14T22:27:51Z"
  },
  {
   "key": "b8c1674ee9357dafd107c231c7d8277e|1X2|H|",

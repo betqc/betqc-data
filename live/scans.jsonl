@@ -1880,3 +1880,4 @@
 {"mode": "recalc", "new_bets": 2, "settled": 0, "credits_remaining": null, "credits_used": 0, "ts": "2026-11-14T05:29:21Z"}
 {"mode": "recalc", "new_bets": 1, "settled": 1, "credits_remaining": 8020, "credits_used": 4, "ts": "2026-11-14T05:40:01Z"}
 {"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 8018, "credits_used": 2, "ts": "2026-11-14T05:50:57Z"}
+{"mode": "recalc", "new_bets": 0, "settled": 1, "credits_remaining": 8016, "credits_used": 2, "ts": "2026-11-14T06:01:40Z"}

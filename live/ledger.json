@@ -36517,7 +36517,7 @@
  {
   "key": "7bf0d1f95bb9b2b6003386c82ba96b6a|1X2|D|",
   "placed_ts": "2026-11-14T12:16:41Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "7bf0d1f95bb9b2b6003386c82ba96b6a",
   "league": "E3",
   "commence": "2026-11-14T12:30:00Z",
@@ -36540,18 +36540,14 @@
   "confirmed": false,
   "close_p": 0.27733,
   "clv": 0.02611,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "1-0",
   "primary": true,
   "close_odds": 3.606,
   "close_final": true,
   "close_lead_min": 13.4,
-  "live": {
-   "score": "1-0",
-   "now": "lost",
-   "ts": "2026-11-14T14:18:07Z"
-  }
+  "settled_ts": "2026-11-14T14:28:42Z"
  },
  {
   "key": "8c883d569a4f4682e918e8b2b37f65ea|1X2|A|",

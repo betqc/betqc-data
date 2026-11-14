@@ -35756,7 +35756,7 @@
  {
   "key": "a51c350318d7570c2b74af08eedb9fcd|1X2|H|",
   "placed_ts": "2026-11-13T03:16:23Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "a51c350318d7570c2b74af08eedb9fcd",
   "league": "NBA",
   "commence": "2026-11-14T03:10:00Z",
@@ -35779,18 +35779,14 @@
   "confirmed": null,
   "close_p": 0.19607,
   "clv": 0.3627,
-  "result": null,
-  "pnl": null,
-  "score": "98-113",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "107-120",
   "primary": true,
   "close_odds": 5.1,
   "close_final": true,
   "close_lead_min": 61.2,
-  "live": {
-   "score": "98-113",
-   "now": "lost",
-   "ts": "2026-11-14T05:18:39Z"
-  }
+  "settled_ts": "2026-11-14T05:40:18Z"
  },
  {
   "key": "60e79364c168ad0ad22c0cffc02be8a9|1X2|H|",
@@ -35852,15 +35848,15 @@
   "clv": 0.00083,
   "result": null,
   "pnl": null,
-  "score": "2-1",
+  "score": "2-2",
   "primary": true,
   "close_odds": 1.649,
   "close_final": true,
   "close_lead_min": 39.5,
   "live": {
-   "score": "2-1",
-   "now": "won",
-   "ts": "2026-11-14T05:04:18Z"
+   "score": "2-2",
+   "now": "lost",
+   "ts": "2026-11-14T05:40:18Z"
   }
  },
  {
@@ -36162,5 +36158,37 @@
   "score": null,
   "primary": true,
   "close_odds": 2.363
+ },
+ {
+  "key": "b8c1674ee9357dafd107c231c7d8277e|1X2|H||v2",
+  "placed_ts": "2026-11-14T05:40:01Z",
+  "status": "open",
+  "event_id": "b8c1674ee9357dafd107c231c7d8277e",
+  "league": "E3",
+  "commence": "2026-11-14T17:30:00Z",
+  "home": "Fleetwood Town",
+  "away": "Tranmere Rovers",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Fleetwood Town",
+  "book": "virginbet",
+  "book_name": "Virgin Bet",
+  "odds": 1.98,
+  "fair_odds": 1.932,
+  "p": 0.5177,
+  "edge": 0.025,
+  "edge_bfx": null,
+  "kelly": 0.00639,
+  "stake_kelly": 6.39,
+  "tier": 4,
+  "confirmed": null,
+  "close_p": 0.5177,
+  "clv": 0.02504,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.932
  }
 ]

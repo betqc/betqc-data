@@ -35841,13 +35841,13 @@
   "stake_kelly": 12.3,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.5949,
-  "clv": -0.01841,
+  "close_p": 0.60657,
+  "clv": 0.00083,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.681
+  "close_odds": 1.649
  },
  {
   "key": "1fae7f34ec6035dffa74feb148ee26c7|1X2|A|",

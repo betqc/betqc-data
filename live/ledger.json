@@ -35777,13 +35777,13 @@
   "stake_kelly": 7.97,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.19832,
-  "clv": 0.37835,
+  "close_p": 0.19607,
+  "clv": 0.3627,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 5.042
+  "close_odds": 5.1
  },
  {
   "key": "60e79364c168ad0ad22c0cffc02be8a9|1X2|H|",
@@ -35873,13 +35873,13 @@
   "stake_kelly": 1.24,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.14223,
-  "clv": -0.11105,
+  "close_p": 0.1459,
+  "clv": -0.08815,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 7.031
+  "close_odds": 6.854
  },
  {
   "key": "80ffc963f864f3d4fcefa82fd02b7d7b|1X2|A|",
@@ -36061,5 +36061,37 @@
    "now": "lost",
    "ts": "2026-11-14T01:47:35Z"
   }
+ },
+ {
+  "key": "beaf0bb6252d3b1d42a720aa385e9414|1X2|D|",
+  "placed_ts": "2026-11-14T02:08:48Z",
+  "status": "open",
+  "event_id": "beaf0bb6252d3b1d42a720aa385e9414",
+  "league": "SP2",
+  "commence": "2026-11-14T20:00:00Z",
+  "home": "Oviedo",
+  "away": "Girona FC",
+  "market": "1X2",
+  "sel": "D",
+  "point": null,
+  "label": "Nul",
+  "book": "winamax_de",
+  "book_name": "Winamax DE",
+  "odds": 3.45,
+  "fair_odds": 3.39,
+  "p": 0.295,
+  "edge": 0.0176,
+  "edge_bfx": null,
+  "kelly": 0.00179,
+  "stake_kelly": 1.79,
+  "tier": 2,
+  "confirmed": null,
+  "close_p": 0.29495,
+  "clv": 0.01758,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.39
  }
 ]

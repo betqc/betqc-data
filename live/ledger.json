@@ -35836,7 +35836,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-11-14T22:27:51Z"
+   "ts": "2026-11-14T22:59:59Z"
   }
  },
  {
@@ -35968,13 +35968,13 @@
   "stake_kelly": 11.54,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.69947,
-  "clv": 0.02123,
+  "close_p": 0.68378,
+  "clv": -0.00169,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.43
+  "close_odds": 1.462
  },
  {
   "key": "371f8125767427c4b599eab458bb5549|1X2|H|",
@@ -37004,5 +37004,37 @@
   "score": null,
   "primary": false,
   "close_odds": 2.072
+ },
+ {
+  "key": "8fafa425728aa8e7d2c23956ba4c2553|1X2|H|",
+  "placed_ts": "2026-11-14T22:59:44Z",
+  "status": "open",
+  "event_id": "8fafa425728aa8e7d2c23956ba4c2553",
+  "league": "BRA",
+  "commence": "2026-11-14T23:30:00Z",
+  "home": "Chapecoense",
+  "away": "Vasco da Gama",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Chapecoense",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 7.75,
+  "fair_odds": 7.569,
+  "p": 0.1321,
+  "edge": 0.0239,
+  "edge_bfx": -0.0196,
+  "kelly": 0.00089,
+  "stake_kelly": 0.89,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.13212,
+  "clv": 0.02393,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 7.569
  }
 ]

@@ -37051,7 +37051,7 @@
  {
   "key": "a7cb6062530bd69eb6caee84a015abd0|1X2|H||v2",
   "placed_ts": "2026-11-14T23:56:51Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "a7cb6062530bd69eb6caee84a015abd0",
   "league": "NBA",
   "commence": "2026-11-15T01:10:00Z",
@@ -37074,23 +37074,19 @@
   "confirmed": true,
   "close_p": 0.6463,
   "clv": 0.07932,
-  "result": null,
-  "pnl": null,
-  "score": "110-91",
+  "result": "won",
+  "pnl": 0.67,
+  "score": "129-110",
   "strategy": "v2",
   "close_odds": 1.547,
   "close_final": true,
   "close_lead_min": 41.2,
-  "live": {
-   "score": "110-91",
-   "now": "won",
-   "ts": "2026-11-15T03:06:08Z"
-  }
+  "settled_ts": "2026-11-15T03:36:04Z"
  },
  {
   "key": "a7cb6062530bd69eb6caee84a015abd0|1X2|H|",
   "placed_ts": "2026-11-14T23:56:51Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "a7cb6062530bd69eb6caee84a015abd0",
   "league": "NBA",
   "commence": "2026-11-15T01:10:00Z",
@@ -37113,18 +37109,14 @@
   "confirmed": true,
   "close_p": 0.6463,
   "clv": 0.07932,
-  "result": null,
-  "pnl": null,
-  "score": "110-91",
+  "result": "won",
+  "pnl": 0.67,
+  "score": "129-110",
   "primary": true,
   "close_odds": 1.547,
   "close_final": true,
   "close_lead_min": 41.2,
-  "live": {
-   "score": "110-91",
-   "now": "won",
-   "ts": "2026-11-15T03:06:08Z"
-  }
+  "settled_ts": "2026-11-15T03:36:04Z"
  },
  {
   "key": "cb06267ae037a883ae6f71078d6e2aaa|1X2|H||v2",
@@ -37154,15 +37146,15 @@
   "clv": 0.0284,
   "result": null,
   "pnl": null,
-  "score": "99-82",
+  "score": "124-108",
   "strategy": "v2",
   "close_odds": 2.528,
   "close_final": true,
   "close_lead_min": 41.2,
   "live": {
-   "score": "99-82",
+   "score": "124-108",
    "now": "won",
-   "ts": "2026-11-15T03:06:08Z"
+   "ts": "2026-11-15T03:36:04Z"
   }
  },
  {
@@ -37193,15 +37185,15 @@
   "clv": 0.0284,
   "result": null,
   "pnl": null,
-  "score": "99-82",
+  "score": "124-108",
   "primary": true,
   "close_odds": 2.528,
   "close_final": true,
   "close_lead_min": 41.2,
   "live": {
-   "score": "99-82",
+   "score": "124-108",
    "now": "won",
-   "ts": "2026-11-15T03:06:08Z"
+   "ts": "2026-11-15T03:36:04Z"
   }
  },
  {

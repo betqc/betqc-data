@@ -36874,13 +36874,13 @@
   "stake_kelly": 3.81,
   "tier": 2,
   "confirmed": true,
-  "close_p": 0.23445,
-  "clv": -0.10908,
+  "close_p": 0.23473,
+  "clv": -0.10802,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 4.265
+  "close_odds": 4.26
  },
  {
   "key": "b8308c8150f5ad55e242d7671adaffbd|1X2|D|",
@@ -36906,13 +36906,13 @@
   "stake_kelly": 3.89,
   "tier": 2,
   "confirmed": false,
-  "close_p": 0.28383,
-  "clv": -0.0066,
+  "close_p": 0.28326,
+  "clv": -0.00859,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.523
+  "close_odds": 3.53
  },
  {
   "key": "f241b0cec31506c2eb749ff9be97667c|1X2|H|",
@@ -36938,13 +36938,13 @@
   "stake_kelly": 8.08,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.54496,
-  "clv": 0.00817,
+  "close_p": 0.54219,
+  "clv": 0.00306,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.835
+  "close_odds": 1.844
  },
  {
   "key": "2cc2c254049b0bd0a6219f70cbb0b69a|1X2|A||qc",
@@ -37005,13 +37005,13 @@
   "stake_kelly": 4.31,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.48172,
-  "clv": 0.01161,
+  "close_p": 0.48201,
+  "clv": 0.01222,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 2.076
+  "close_odds": 2.075
  },
  {
   "key": "8fafa425728aa8e7d2c23956ba4c2553|1X2|H|",
@@ -37212,13 +37212,13 @@
   "stake_kelly": 7.09,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.50938,
-  "clv": 0.02895,
+  "close_p": 0.5067,
+  "clv": 0.02353,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.963
+  "close_odds": 1.974
  },
  {
   "key": "b8308c8150f5ad55e242d7671adaffbd|TOT|U|2.5|qc",
@@ -37244,13 +37244,13 @@
   "stake_kelly": 7.09,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.50938,
-  "clv": 0.02895,
+  "close_p": 0.5067,
+  "clv": 0.02353,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "qc",
-  "close_odds": 1.963
+  "close_odds": 1.974
  },
  {
   "key": "b8308c8150f5ad55e242d7671adaffbd|TOT|U|2.5",
@@ -37276,12 +37276,44 @@
   "stake_kelly": 7.09,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.50938,
-  "clv": 0.02895,
+  "close_p": 0.5067,
+  "clv": 0.02353,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.963
+  "close_odds": 1.974
+ },
+ {
+  "key": "956532b58659658093d93e24e83f5213|1X2|H|",
+  "placed_ts": "2026-11-15T05:34:12Z",
+  "status": "open",
+  "event_id": "956532b58659658093d93e24e83f5213",
+  "league": "NBA",
+  "commence": "2026-11-15T23:10:00Z",
+  "home": "Boston Celtics",
+  "away": "Dallas Mavericks",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Boston Celtics",
+  "book": "skybet",
+  "book_name": "Sky Bet",
+  "odds": 1.17,
+  "fair_odds": 1.144,
+  "p": 0.8742,
+  "edge": 0.0229,
+  "edge_bfx": null,
+  "kelly": 0.03,
+  "stake_kelly": 30.0,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.87424,
+  "clv": 0.02287,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.144
  }
 ]

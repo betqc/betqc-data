@@ -37714,13 +37714,13 @@
   "stake_kelly": 21.95,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.6065,
-  "clv": 0.06138,
+  "close_p": 0.60672,
+  "clv": 0.06176,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.649
+  "close_odds": 1.648
  },
  {
   "key": "39dbdb7fdc78bd01ceac2fc7048bc1fd|1X2|H|",
@@ -37746,13 +37746,13 @@
   "stake_kelly": 27.99,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.77651,
-  "clv": -0.00607,
+  "close_p": 0.75794,
+  "clv": -0.02984,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.288
+  "close_odds": 1.319
  },
  {
   "key": "4a0ed971930ed1355d19497b2aa72744|1X2|H|",
@@ -37778,13 +37778,13 @@
   "stake_kelly": 4.02,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.42949,
-  "clv": 0.02218,
+  "close_p": 0.43753,
+  "clv": 0.04132,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.328
+  "close_odds": 2.286
  },
  {
   "key": "77094bf6e4d9bf58f3cb98b6a4fb3b22|TOT|O|226.5",
@@ -37842,13 +37842,13 @@
   "stake_kelly": 6.11,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.60871,
-  "clv": 0.04698,
+  "close_p": 0.59126,
+  "clv": 0.01697,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.643
+  "close_odds": 1.691
  },
  {
   "key": "c52bb6ace02b521be96df8fba8806037|1X2|H||v2",
@@ -37874,13 +37874,13 @@
   "stake_kelly": 14.24,
   "tier": 2,
   "confirmed": true,
-  "close_p": 0.6065,
-  "clv": 0.01892,
+  "close_p": 0.60672,
+  "clv": 0.01929,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.649
+  "close_odds": 1.648
  },
  {
   "key": "11be2fc6d73e2a4e187a643b4c051093|1X2|H|",
@@ -37906,13 +37906,13 @@
   "stake_kelly": 3.38,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.43163,
-  "clv": -0.03746,
+  "close_p": 0.4307,
+  "clv": -0.03955,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.317
+  "close_odds": 2.322
  },
  {
   "key": "11be2fc6d73e2a4e187a643b4c051093|1X2|H||v2",
@@ -37938,12 +37938,44 @@
   "stake_kelly": 6.89,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.43163,
-  "clv": -0.07199,
+  "close_p": 0.4307,
+  "clv": -0.074,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.317
+  "close_odds": 2.322
+ },
+ {
+  "key": "1c0decf6a961edaef153ea4223ec22ce|1X2|H|",
+  "placed_ts": "2026-11-16T16:13:09Z",
+  "status": "open",
+  "event_id": "1c0decf6a961edaef153ea4223ec22ce",
+  "league": "BRA",
+  "commence": "2026-11-19T00:30:00Z",
+  "home": "Corinthians",
+  "away": "Botafogo",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Corinthians",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 1.89,
+  "fair_odds": 1.861,
+  "p": 0.5374,
+  "edge": 0.0158,
+  "edge_bfx": null,
+  "kelly": 0.00442,
+  "stake_kelly": 4.42,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.53743,
+  "clv": 0.01575,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.861
  }
 ]

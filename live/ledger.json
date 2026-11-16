@@ -37714,13 +37714,13 @@
   "stake_kelly": 21.95,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.60616,
-  "clv": 0.06079,
+  "close_p": 0.6065,
+  "clv": 0.06138,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.65
+  "close_odds": 1.649
  },
  {
   "key": "39dbdb7fdc78bd01ceac2fc7048bc1fd|1X2|H|",
@@ -37746,13 +37746,13 @@
   "stake_kelly": 27.99,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.76206,
-  "clv": -0.02456,
+  "close_p": 0.77651,
+  "clv": -0.00607,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.312
+  "close_odds": 1.288
  },
  {
   "key": "4a0ed971930ed1355d19497b2aa72744|1X2|H|",
@@ -37842,13 +37842,13 @@
   "stake_kelly": 6.11,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.58791,
-  "clv": 0.01121,
+  "close_p": 0.60871,
+  "clv": 0.04698,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.701
+  "close_odds": 1.643
  },
  {
   "key": "c52bb6ace02b521be96df8fba8806037|1X2|H||v2",
@@ -37874,13 +37874,13 @@
   "stake_kelly": 14.24,
   "tier": 2,
   "confirmed": true,
-  "close_p": 0.60616,
-  "clv": 0.01836,
+  "close_p": 0.6065,
+  "clv": 0.01892,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.65
+  "close_odds": 1.649
  },
  {
   "key": "11be2fc6d73e2a4e187a643b4c051093|1X2|H|",
@@ -37906,13 +37906,13 @@
   "stake_kelly": 3.38,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.47987,
-  "clv": 0.0701,
+  "close_p": 0.43163,
+  "clv": -0.03746,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.084
+  "close_odds": 2.317
  },
  {
   "key": "11be2fc6d73e2a4e187a643b4c051093|1X2|H||v2",
@@ -37938,12 +37938,12 @@
   "stake_kelly": 6.89,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.47987,
-  "clv": 0.03171,
+  "close_p": 0.43163,
+  "clv": -0.07199,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.084
+  "close_odds": 2.317
  }
 ]

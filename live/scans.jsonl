@@ -2008,3 +2008,5 @@
 {"scan_ts": "2026-11-17T01:52:47Z", "horizon_h": 1.1666666666666665, "leagues": {"NHL": "1 matchs, 1 en 3 issues"}, "rows": 134, "credits_remaining": 6901, "credits_used_scan": 5, "mode": "near"}
 {"mode": "recalc", "new_bets": 0, "settled": 0, "credits_remaining": 6899, "credits_used": 2, "ts": "2026-11-17T01:52:49Z"}
 {"scan_ts": "2026-11-17T02:03:26Z", "horizon_h": 1.1666666666666665, "leagues": {"NBA": "1 matchs"}, "rows": 136, "credits_remaining": 6895, "credits_used_scan": 4, "mode": "near"}
+{"scan_ts": "2026-11-17T02:30:22Z", "horizon_h": 1.1666666666666665, "leagues": {"NHL": "1 matchs, 1 en 3 issues"}, "rows": 132, "credits_remaining": 6890, "credits_used_scan": 5, "mode": "near"}
+{"mode": "recalc", "new_bets": 0, "settled": 2, "credits_remaining": 6888, "credits_used": 2, "ts": "2026-11-17T02:30:23Z"}

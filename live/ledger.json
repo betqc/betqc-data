@@ -37784,13 +37784,13 @@
   "stake_kelly": 4.02,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.41914,
-  "clv": -0.00246,
+  "close_p": 0.39559,
+  "clv": -0.0585,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.386
+  "close_odds": 2.528
  },
  {
   "key": "77094bf6e4d9bf58f3cb98b6a4fb3b22|TOT|O|226.5",
@@ -37991,13 +37991,13 @@
   "stake_kelly": 4.42,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.54465,
-  "clv": 0.02939,
+  "close_p": 0.54802,
+  "clv": 0.03577,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.836
+  "close_odds": 1.825
  },
  {
   "key": "efd4d1a289cc2aca91d30116e3629d1f|1X2|A||v2",
@@ -38195,13 +38195,13 @@
   "stake_kelly": 1.93,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.27492,
-  "clv": 0.00346,
+  "close_p": 0.26641,
+  "clv": -0.0276,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.637
+  "close_odds": 3.754
  },
  {
   "key": "f1c9f0cd022cd864154413efbd9d9522|1X2|H||v2",
@@ -38489,13 +38489,13 @@
   "stake_kelly": 8.31,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.66074,
-  "clv": -0.0089,
+  "close_p": 0.66546,
+  "clv": -0.00181,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.513
+  "close_odds": 1.503
  },
  {
   "key": "a96fe59de916f1d378f3dcce6733dd20|1X2|H||v2",
@@ -38521,12 +38521,44 @@
   "stake_kelly": 8.31,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.66074,
-  "clv": -0.0089,
+  "close_p": 0.66546,
+  "clv": -0.00181,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.513
+  "close_odds": 1.503
+ },
+ {
+  "key": "4a0ed971930ed1355d19497b2aa72744|1X2|A|",
+  "placed_ts": "2026-11-18T15:06:41Z",
+  "status": "open",
+  "event_id": "4a0ed971930ed1355d19497b2aa72744",
+  "league": "BRA",
+  "commence": "2026-11-19T00:30:00Z",
+  "home": "Grêmio",
+  "away": "Bahia",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Bahia",
+  "book": "betanysports",
+  "book_name": "Betanysports",
+  "odds": 3.03,
+  "fair_odds": 2.952,
+  "p": 0.3387,
+  "edge": 0.0263,
+  "edge_bfx": 0.0268,
+  "kelly": 0.00324,
+  "stake_kelly": 3.24,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.33871,
+  "clv": 0.0263,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 2.952
  }
 ]

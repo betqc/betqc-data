@@ -37784,13 +37784,13 @@
   "stake_kelly": 4.02,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.39207,
-  "clv": -0.06688,
+  "close_p": 0.39433,
+  "clv": -0.06148,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.551
+  "close_odds": 2.536
  },
  {
   "key": "77094bf6e4d9bf58f3cb98b6a4fb3b22|TOT|O|226.5",
@@ -37991,13 +37991,13 @@
   "stake_kelly": 4.42,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.56733,
-  "clv": 0.07226,
+  "close_p": 0.57435,
+  "clv": 0.08551,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.763
+  "close_odds": 1.741
  },
  {
   "key": "efd4d1a289cc2aca91d30116e3629d1f|1X2|A||v2",
@@ -38574,13 +38574,13 @@
   "stake_kelly": 3.24,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.34094,
-  "clv": 0.03304,
+  "close_p": 0.34034,
+  "clv": 0.03122,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 2.933
+  "close_odds": 2.938
  },
  {
   "key": "34b8d9b2a641392b592e1dc5470e7622|1X2|A||v2",
@@ -38645,13 +38645,13 @@
   "stake_kelly": 4.67,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.56733,
-  "clv": 0.03255,
+  "close_p": 0.57435,
+  "clv": 0.04531,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.763
+  "close_odds": 1.741
  },
  {
   "key": "f24a0d144552987819267b7f58f8a96d|1X2|A|",
@@ -39548,13 +39548,13 @@
   "stake_kelly": 4.49,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.53097,
-  "clv": 0.01414,
+  "close_p": 0.53212,
+  "clv": 0.01635,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.883
+  "close_odds": 1.879
  },
  {
   "key": "4a0ed971930ed1355d19497b2aa72744|TOT|O|2.75",
@@ -39580,13 +39580,13 @@
   "stake_kelly": 4.49,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.53097,
-  "clv": 0.01414,
+  "close_p": 0.53212,
+  "clv": 0.01635,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.883
+  "close_odds": 1.879
  },
  {
   "key": "4ffeab0ae6c6a76e96262104d3a1d6e7|1X2|H||v2",

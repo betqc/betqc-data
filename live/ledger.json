@@ -38207,7 +38207,7 @@
   "live": {
    "score": "0-0",
    "now": "won",
-   "ts": "2026-11-18T22:38:36Z"
+   "ts": "2026-11-18T23:07:26Z"
   }
  },
  {
@@ -38500,9 +38500,16 @@
   "clv": 0.04134,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "1-0",
   "primary": true,
-  "close_odds": 1.44
+  "close_odds": 1.44,
+  "close_final": true,
+  "close_lead_min": 33.3,
+  "live": {
+   "score": "1-0",
+   "now": "won",
+   "ts": "2026-11-18T23:07:26Z"
+  }
  },
  {
   "key": "a96fe59de916f1d378f3dcce6733dd20|1X2|H||v2",
@@ -38532,9 +38539,16 @@
   "clv": 0.04134,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "1-0",
   "strategy": "v2",
-  "close_odds": 1.44
+  "close_odds": 1.44,
+  "close_final": true,
+  "close_lead_min": 33.3,
+  "live": {
+   "score": "1-0",
+   "now": "won",
+   "ts": "2026-11-18T23:07:26Z"
+  }
  },
  {
   "key": "4a0ed971930ed1355d19497b2aa72744|1X2|A|",
@@ -38604,7 +38618,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-11-18T22:38:36Z"
+   "ts": "2026-11-18T23:07:26Z"
   }
  },
  {
@@ -39251,7 +39265,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-11-18T22:38:36Z"
+   "ts": "2026-11-18T23:07:26Z"
   }
  },
  {
@@ -39598,13 +39612,13 @@
   "stake_kelly": 23.2,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.83641,
-  "clv": 0.02041,
+  "close_p": 0.83674,
+  "clv": 0.02082,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.196
+  "close_odds": 1.195
  },
  {
   "key": "a96fe59de916f1d378f3dcce6733dd20|1X2|H||qc",
@@ -39634,9 +39648,16 @@
   "clv": 0.02052,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "1-0",
   "strategy": "qc",
-  "close_odds": 1.44
+  "close_odds": 1.44,
+  "close_final": true,
+  "close_lead_min": 33.3,
+  "live": {
+   "score": "1-0",
+   "now": "won",
+   "ts": "2026-11-18T23:07:26Z"
+  }
  },
  {
   "key": "4ffeab0ae6c6a76e96262104d3a1d6e7|1X2|H||qc",
@@ -39662,13 +39683,13 @@
   "stake_kelly": 23.2,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.83641,
-  "clv": 0.02041,
+  "close_p": 0.83674,
+  "clv": 0.02082,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "qc",
-  "close_odds": 1.196
+  "close_odds": 1.195
  },
  {
   "key": "4ffeab0ae6c6a76e96262104d3a1d6e7|1X2|H|",
@@ -39694,13 +39715,13 @@
   "stake_kelly": 23.2,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.83641,
-  "clv": 0.02041,
+  "close_p": 0.83674,
+  "clv": 0.02082,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.196
+  "close_odds": 1.195
  },
  {
   "key": "635a9b07c018a821e08b521ea473133b|1X2|A||v2",
@@ -39957,5 +39978,101 @@
   "score": null,
   "primary": true,
   "close_odds": 2.134
+ },
+ {
+  "key": "8c090da10644d01073571175eb7a7426|1X2|H||v2",
+  "placed_ts": "2026-11-18T23:06:45Z",
+  "status": "open",
+  "event_id": "8c090da10644d01073571175eb7a7426",
+  "league": "BRA",
+  "commence": "2026-11-18T23:30:00Z",
+  "home": "Cruzeiro",
+  "away": "Palmeiras",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Cruzeiro",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 2.5,
+  "fair_odds": 2.461,
+  "p": 0.4063,
+  "edge": 0.0157,
+  "edge_bfx": 0.0114,
+  "kelly": 0.00261,
+  "stake_kelly": 2.61,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.40626,
+  "clv": 0.01566,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.461
+ },
+ {
+  "key": "8c090da10644d01073571175eb7a7426|1X2|H||qc",
+  "placed_ts": "2026-11-18T23:06:45Z",
+  "status": "open",
+  "event_id": "8c090da10644d01073571175eb7a7426",
+  "league": "BRA",
+  "commence": "2026-11-18T23:30:00Z",
+  "home": "Cruzeiro",
+  "away": "Palmeiras",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Cruzeiro",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 2.5,
+  "fair_odds": 2.461,
+  "p": 0.4063,
+  "edge": 0.0157,
+  "edge_bfx": 0.0114,
+  "kelly": 0.00261,
+  "stake_kelly": 2.61,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.40626,
+  "clv": 0.01566,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "qc",
+  "close_odds": 2.461
+ },
+ {
+  "key": "8c090da10644d01073571175eb7a7426|1X2|H|",
+  "placed_ts": "2026-11-18T23:06:45Z",
+  "status": "open",
+  "event_id": "8c090da10644d01073571175eb7a7426",
+  "league": "BRA",
+  "commence": "2026-11-18T23:30:00Z",
+  "home": "Cruzeiro",
+  "away": "Palmeiras",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Cruzeiro",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 2.5,
+  "fair_odds": 2.461,
+  "p": 0.4063,
+  "edge": 0.0157,
+  "edge_bfx": 0.0114,
+  "kelly": 0.00261,
+  "stake_kelly": 2.61,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.40626,
+  "clv": 0.01566,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 2.461
  }
 ]

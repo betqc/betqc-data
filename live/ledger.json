@@ -38169,13 +38169,13 @@
   "stake_kelly": 3.73,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.34729,
-  "clv": -0.02758,
+  "close_p": 0.34139,
+  "clv": -0.04412,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.879
+  "close_odds": 2.929
  },
  {
   "key": "34b8d9b2a641392b592e1dc5470e7622|1X2|D|",
@@ -40173,13 +40173,13 @@
   "stake_kelly": 5.47,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.61875,
-  "clv": 0.04569,
+  "close_p": 0.62263,
+  "clv": 0.05225,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.616
+  "close_odds": 1.606
  },
  {
   "key": "1d642bb0454dc70058fdefa08fc6131a|1X2|D|",
@@ -40429,13 +40429,13 @@
   "stake_kelly": 30.0,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.89927,
-  "clv": -0.0108,
+  "close_p": 0.90662,
+  "clv": -0.00272,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.112
+  "close_odds": 1.103
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5",
@@ -40500,5 +40500,37 @@
   "score": null,
   "primary": true,
   "close_odds": 2.312
+ },
+ {
+  "key": "3c082b72aa002131c276ff5e24bada1b|1X2|H|",
+  "placed_ts": "2026-11-19T13:09:01Z",
+  "status": "open",
+  "event_id": "3c082b72aa002131c276ff5e24bada1b",
+  "league": "NBA",
+  "commence": "2026-11-20T01:10:00Z",
+  "home": "Memphis Grizzlies",
+  "away": "Golden State Warriors",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Memphis Grizzlies",
+  "book": "betfair_sb_uk",
+  "book_name": "Betfair Sportsbook",
+  "odds": 1.44,
+  "fair_odds": 1.417,
+  "p": 0.7059,
+  "edge": 0.0164,
+  "edge_bfx": -0.0022,
+  "kelly": 0.00935,
+  "stake_kelly": 9.35,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.70587,
+  "clv": 0.01645,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.417
  }
 ]

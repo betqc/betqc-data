@@ -41830,13 +41830,13 @@
   "stake_kelly": 13.6,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.68726,
-  "clv": 0.03776,
+  "close_p": 0.70082,
+  "clv": 0.05824,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.455
+  "close_odds": 1.427
  },
  {
   "key": "2b342de9e162348410f74cd7a2c970cd|1X2|H|",
@@ -42363,13 +42363,13 @@
   "stake_kelly": 10.41,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.67299,
-  "clv": -0.05781,
+  "close_p": 0.66601,
+  "clv": -0.06758,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.486
+  "close_odds": 1.501
  },
  {
   "key": "d6ed1e97c331fc604506e4c354ab1cdc|1X2|A|",
@@ -42427,13 +42427,13 @@
   "stake_kelly": 11.93,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.71365,
-  "clv": 0.02052,
+  "close_p": 0.70582,
+  "clv": 0.00933,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.401
+  "close_odds": 1.417
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5|v2",
@@ -42494,13 +42494,13 @@
   "stake_kelly": 11.93,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.71365,
-  "clv": 0.02052,
+  "close_p": 0.70582,
+  "clv": 0.00933,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "qc",
-  "close_odds": 1.401
+  "close_odds": 1.417
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5|qc",
@@ -43041,13 +43041,13 @@
   "stake_kelly": 11.93,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.71365,
-  "clv": 0.02052,
+  "close_p": 0.70582,
+  "clv": 0.00933,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.401
+  "close_odds": 1.417
  },
  {
   "key": "69c8fd5d654b0e1ea5ed5bb1cfee7a86|1X2|A|",
@@ -43651,5 +43651,37 @@
   "close_final": true,
   "close_lead_min": 5.0,
   "settled_ts": "2026-11-20T22:05:03Z"
+ },
+ {
+  "key": "10e9b9aca502ce158d6a3a91bf00bfd2|1X2|A|",
+  "placed_ts": "2026-11-20T23:53:43Z",
+  "status": "open",
+  "event_id": "10e9b9aca502ce158d6a3a91bf00bfd2",
+  "league": "NBA",
+  "commence": "2026-11-21T00:40:00Z",
+  "home": "Cleveland Cavaliers",
+  "away": "Indiana Pacers",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Indiana Pacers",
+  "book": "marathonbet",
+  "book_name": "Marathonbet",
+  "odds": 3.04,
+  "fair_odds": 2.994,
+  "p": 0.334,
+  "edge": 0.0153,
+  "edge_bfx": -0.0044,
+  "kelly": 0.00188,
+  "stake_kelly": 1.88,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.33399,
+  "clv": 0.01532,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 2.994
  }
 ]

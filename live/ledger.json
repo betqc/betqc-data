@@ -38148,7 +38148,7 @@
  {
   "key": "fa3ad7ccd23c6fe47c3062a2b69d3ddd|1X2|H|",
   "placed_ts": "2026-11-17T16:29:16Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "fa3ad7ccd23c6fe47c3062a2b69d3ddd",
   "league": "BRA",
   "commence": "2026-11-19T22:30:00Z",
@@ -38171,18 +38171,14 @@
   "confirmed": null,
   "close_p": 0.35824,
   "clv": 0.00307,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 1.8,
   "score": "2-1",
   "primary": true,
   "close_odds": 2.791,
   "close_final": true,
   "close_lead_min": 28.3,
-  "live": {
-   "score": "2-1",
-   "now": "won",
-   "ts": "2026-11-20T00:31:15Z"
-  }
+  "settled_ts": "2026-11-20T00:42:27Z"
  },
  {
   "key": "34b8d9b2a641392b592e1dc5470e7622|1X2|D|",

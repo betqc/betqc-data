@@ -38813,7 +38813,7 @@
  {
   "key": "0ecd78bc44f067c6992e0ff7ea7a7e40|1X2|A|",
   "placed_ts": "2026-11-18T16:42:53Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "0ecd78bc44f067c6992e0ff7ea7a7e40",
   "league": "POL",
   "commence": "2026-11-21T16:30:00Z",
@@ -38836,18 +38836,14 @@
   "confirmed": null,
   "close_p": 0.5781,
   "clv": 0.15619,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-0",
   "primary": true,
   "close_odds": 1.73,
   "close_final": true,
   "close_lead_min": 27.6,
-  "live": {
-   "score": "2-0",
-   "now": "lost",
-   "ts": "2026-11-21T18:18:17Z"
-  }
+  "settled_ts": "2026-11-21T18:29:12Z"
  },
  {
   "key": "897f4fab3b843d48bd848f4b355f8985|1X2|H|",
@@ -39202,7 +39198,7 @@
  {
   "key": "651c1847b5cdcc85e60a140edd2282c4|1X2|H|",
   "placed_ts": "2026-11-18T16:42:53Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "651c1847b5cdcc85e60a140edd2282c4",
   "league": "F1",
   "commence": "2026-11-21T16:15:00Z",
@@ -39225,18 +39221,14 @@
   "confirmed": null,
   "close_p": 0.16042,
   "clv": 0.08282,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-3",
   "primary": true,
   "close_odds": 6.234,
   "close_final": true,
   "close_lead_min": 36.5,
-  "live": {
-   "score": "2-3",
-   "now": "lost",
-   "ts": "2026-11-21T18:18:17Z"
-  }
+  "settled_ts": "2026-11-21T18:29:12Z"
  },
  {
   "key": "577976c4b042018534e14db9ce579cf6|1X2|A|",
@@ -45157,7 +45149,7 @@
  {
   "key": "0ecd78bc44f067c6992e0ff7ea7a7e40|1X2|A||v2",
   "placed_ts": "2026-11-21T04:54:15Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "0ecd78bc44f067c6992e0ff7ea7a7e40",
   "league": "POL",
   "commence": "2026-11-21T16:30:00Z",
@@ -45180,18 +45172,14 @@
   "confirmed": null,
   "close_p": 0.5781,
   "clv": 0.05792,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-0",
   "strategy": "v2",
   "close_odds": 1.73,
   "close_final": true,
   "close_lead_min": 27.6,
-  "live": {
-   "score": "2-0",
-   "now": "lost",
-   "ts": "2026-11-21T18:18:17Z"
-  }
+  "settled_ts": "2026-11-21T18:29:12Z"
  },
  {
   "key": "c24cf629b4eaf0ebc4ca2c5beb73747c|TOT|O|3.5|qc",

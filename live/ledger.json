@@ -41834,15 +41834,15 @@
   "clv": 0.05824,
   "result": null,
   "pnl": null,
-  "score": "11-5",
+  "score": "87-76",
   "primary": true,
   "close_odds": 1.427,
   "close_final": true,
   "close_lead_min": 16.3,
   "live": {
-   "score": "11-5",
+   "score": "87-76",
    "now": "won",
-   "ts": "2026-11-21T00:18:23Z"
+   "ts": "2026-11-21T01:48:14Z"
   }
  },
  {
@@ -42374,11 +42374,16 @@
   "clv": -0.04849,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "62-61",
   "primary": true,
   "close_odds": 1.471,
   "close_final": true,
-  "close_lead_min": 10.2
+  "close_lead_min": 10.2,
+  "live": {
+   "score": "62-61",
+   "now": "won",
+   "ts": "2026-11-21T01:48:14Z"
+  }
  },
  {
   "key": "d6ed1e97c331fc604506e4c354ab1cdc|1X2|A|",
@@ -42408,9 +42413,16 @@
   "clv": 0.02981,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "44-31",
   "primary": true,
-  "close_odds": 2.214
+  "close_odds": 2.214,
+  "close_final": true,
+  "close_lead_min": 40.2,
+  "live": {
+   "score": "44-31",
+   "now": "lost",
+   "ts": "2026-11-21T01:48:14Z"
+  }
  },
  {
   "key": "9051693857c6a0e5e1bc6bb2b4f6fe35|1X2|H||v2",
@@ -42440,11 +42452,16 @@
   "clv": 0.02208,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "48-54",
   "strategy": "v2",
   "close_odds": 1.399,
   "close_final": true,
-  "close_lead_min": 10.2
+  "close_lead_min": 10.2,
+  "live": {
+   "score": "48-54",
+   "now": "lost",
+   "ts": "2026-11-21T01:48:14Z"
+  }
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5|v2",
@@ -42509,11 +42526,16 @@
   "clv": 0.02208,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "48-54",
   "strategy": "qc",
   "close_odds": 1.399,
   "close_final": true,
-  "close_lead_min": 10.2
+  "close_lead_min": 10.2,
+  "live": {
+   "score": "48-54",
+   "now": "lost",
+   "ts": "2026-11-21T01:48:14Z"
+  }
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5|qc",
@@ -43058,11 +43080,16 @@
   "clv": 0.02208,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "48-54",
   "primary": true,
   "close_odds": 1.399,
   "close_final": true,
-  "close_lead_min": 10.2
+  "close_lead_min": 10.2,
+  "live": {
+   "score": "48-54",
+   "now": "lost",
+   "ts": "2026-11-21T01:48:14Z"
+  }
  },
  {
   "key": "69c8fd5d654b0e1ea5ed5bb1cfee7a86|1X2|A|",
@@ -43695,11 +43722,16 @@
   "clv": -0.02614,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "62-61",
   "primary": false,
   "close_odds": 3.122,
   "close_final": true,
-  "close_lead_min": 10.2
+  "close_lead_min": 10.2,
+  "live": {
+   "score": "62-61",
+   "now": "lost",
+   "ts": "2026-11-21T01:48:14Z"
+  }
  },
  {
   "key": "1019c0b1ba87577a71ca1b80838205b5|1X2|H||v2",
@@ -44145,11 +44177,16 @@
   "clv": 0.01504,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "61-62",
   "primary": true,
   "close_odds": 1.429,
   "close_final": true,
-  "close_lead_min": 10.2
+  "close_lead_min": 10.2,
+  "live": {
+   "score": "61-62",
+   "now": "won",
+   "ts": "2026-11-21T01:48:14Z"
+  }
  },
  {
   "key": "5d3dbb358ea091830f570b92cee04c38|1X2|H||v2",
@@ -44182,5 +44219,37 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 1.372
+ },
+ {
+  "key": "81637433ab918608703c65a705af65fb|1X2|H||v2",
+  "placed_ts": "2026-11-21T01:46:53Z",
+  "status": "open",
+  "event_id": "81637433ab918608703c65a705af65fb",
+  "league": "D3",
+  "commence": "2026-11-21T13:00:00Z",
+  "home": "Fortuna Düsseldorf",
+  "away": "SG Sonnenhof Großaspach",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Fortuna Düsseldorf",
+  "book": "livescorebet",
+  "book_name": "LiveScore Bet",
+  "odds": 1.74,
+  "fair_odds": 1.697,
+  "p": 0.5893,
+  "edge": 0.0253,
+  "edge_bfx": null,
+  "kelly": 0.00855,
+  "stake_kelly": 8.55,
+  "tier": 3,
+  "confirmed": null,
+  "close_p": 0.58925,
+  "clv": 0.0253,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.697
  }
 ]

@@ -42370,13 +42370,13 @@
   "stake_kelly": 10.41,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.66601,
-  "clv": -0.06758,
+  "close_p": 0.67965,
+  "clv": -0.04849,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.501
+  "close_odds": 1.471
  },
  {
   "key": "d6ed1e97c331fc604506e4c354ab1cdc|1X2|A|",
@@ -42402,13 +42402,13 @@
   "stake_kelly": 3.11,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.43618,
-  "clv": -0.00551,
+  "close_p": 0.45167,
+  "clv": 0.02981,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.293
+  "close_odds": 2.214
  },
  {
   "key": "9051693857c6a0e5e1bc6bb2b4f6fe35|1X2|H||v2",
@@ -42434,13 +42434,13 @@
   "stake_kelly": 11.93,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.70582,
-  "clv": 0.00933,
+  "close_p": 0.71474,
+  "clv": 0.02208,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.417
+  "close_odds": 1.399
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5|v2",
@@ -42501,13 +42501,13 @@
   "stake_kelly": 11.93,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.70582,
-  "clv": 0.00933,
+  "close_p": 0.71474,
+  "clv": 0.02208,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "qc",
-  "close_odds": 1.417
+  "close_odds": 1.399
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5|qc",
@@ -43048,13 +43048,13 @@
   "stake_kelly": 11.93,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.70582,
-  "clv": 0.00933,
+  "close_p": 0.71474,
+  "clv": 0.02208,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.417
+  "close_odds": 1.399
  },
  {
   "key": "69c8fd5d654b0e1ea5ed5bb1cfee7a86|1X2|A|",
@@ -43683,13 +43683,13 @@
   "stake_kelly": 1.88,
   "tier": 1,
   "confirmed": false,
-  "close_p": 0.33399,
-  "clv": 0.01532,
+  "close_p": 0.32035,
+  "clv": -0.02614,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 2.994
+  "close_odds": 3.122
  },
  {
   "key": "1019c0b1ba87577a71ca1b80838205b5|1X2|H||v2",
@@ -44106,5 +44106,37 @@
   "score": null,
   "primary": true,
   "close_odds": 3.152
+ },
+ {
+  "key": "6e1faf38d3fed9e0396d6613891770e1|1X2|A|",
+  "placed_ts": "2026-11-21T00:29:47Z",
+  "status": "open",
+  "event_id": "6e1faf38d3fed9e0396d6613891770e1",
+  "league": "NBA",
+  "commence": "2026-11-21T00:40:00Z",
+  "home": "Brooklyn Nets",
+  "away": "Orlando Magic",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Orlando Magic",
+  "book": "betano_uk",
+  "book_name": "Betano",
+  "odds": 1.45,
+  "fair_odds": 1.429,
+  "p": 0.7,
+  "edge": 0.015,
+  "edge_bfx": -0.0057,
+  "kelly": 0.00836,
+  "stake_kelly": 8.36,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.70003,
+  "clv": 0.01504,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.429
  }
 ]

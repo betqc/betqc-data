@@ -42376,7 +42376,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.471
+  "close_odds": 1.471,
+  "close_final": true,
+  "close_lead_min": 10.2
  },
  {
   "key": "d6ed1e97c331fc604506e4c354ab1cdc|1X2|A|",
@@ -42440,7 +42442,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.399
+  "close_odds": 1.399,
+  "close_final": true,
+  "close_lead_min": 10.2
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5|v2",
@@ -42507,7 +42511,9 @@
   "pnl": null,
   "score": null,
   "strategy": "qc",
-  "close_odds": 1.399
+  "close_odds": 1.399,
+  "close_final": true,
+  "close_lead_min": 10.2
  },
  {
   "key": "cae480fb1195f0032554a268cb80eb44|TOT|O|4.5|qc",
@@ -43054,7 +43060,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.399
+  "close_odds": 1.399,
+  "close_final": true,
+  "close_lead_min": 10.2
  },
  {
   "key": "69c8fd5d654b0e1ea5ed5bb1cfee7a86|1X2|A|",
@@ -43689,7 +43697,9 @@
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.122
+  "close_odds": 3.122,
+  "close_final": true,
+  "close_lead_min": 10.2
  },
  {
   "key": "1019c0b1ba87577a71ca1b80838205b5|1X2|H||v2",
@@ -44137,6 +44147,40 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.429
+  "close_odds": 1.429,
+  "close_final": true,
+  "close_lead_min": 10.2
+ },
+ {
+  "key": "5d3dbb358ea091830f570b92cee04c38|1X2|H||v2",
+  "placed_ts": "2026-11-21T00:42:33Z",
+  "status": "open",
+  "event_id": "5d3dbb358ea091830f570b92cee04c38",
+  "league": "E1",
+  "commence": "2026-11-21T12:30:00Z",
+  "home": "Southampton",
+  "away": "Derby County",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Southampton",
+  "book": "leovegas_se",
+  "book_name": "LeoVegas SE",
+  "odds": 1.4,
+  "fair_odds": 1.372,
+  "p": 0.7288,
+  "edge": 0.0204,
+  "edge_bfx": 0.0228,
+  "kelly": 0.01273,
+  "stake_kelly": 12.73,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.72883,
+  "clv": 0.02036,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.372
  }
 ]

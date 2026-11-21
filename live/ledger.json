@@ -44263,7 +44263,7 @@
  {
   "key": "220bc2f218134df3bac7f7df5b5c08a2|1X2|A|",
   "placed_ts": "2026-11-21T00:06:36Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "220bc2f218134df3bac7f7df5b5c08a2",
   "league": "NOR",
   "commence": "2026-11-21T17:00:00Z",
@@ -44286,18 +44286,14 @@
   "confirmed": null,
   "close_p": 0.16965,
   "clv": -0.0754,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 4.45,
   "score": "1-2",
   "primary": true,
   "close_odds": 5.894,
   "close_final": true,
   "close_lead_min": 13.8,
-  "live": {
-   "score": "1-2",
-   "now": "won",
-   "ts": "2026-11-21T18:52:08Z"
-  }
+  "settled_ts": "2026-11-21T19:03:03Z"
  },
  {
   "key": "fcf2f0c9fa80b34941305ac311e59cdc|1X2|H|",

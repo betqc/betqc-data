@@ -40893,13 +40893,13 @@
   "stake_kelly": 11.17,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.62229,
-  "clv": 0.04544,
+  "close_p": 0.61464,
+  "clv": 0.0326,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.607
+  "close_odds": 1.627
  },
  {
   "key": "ebfbf664a6dc0f805cce95655e5f32f6|1X2|H|",
@@ -40929,9 +40929,16 @@
   "clv": 0.04144,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "1-0",
   "primary": true,
-  "close_odds": 2.074
+  "close_odds": 2.074,
+  "close_final": true,
+  "close_lead_min": 34.9,
+  "live": {
+   "score": "1-0",
+   "now": "won",
+   "ts": "2026-11-22T11:55:06Z"
+  }
  },
  {
   "key": "6ef39b0fd8839f6e93a3de32523e9807|1X2|H|",
@@ -41031,9 +41038,16 @@
   "clv": 0.01884,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "primary": true,
-  "close_odds": 1.089
+  "close_odds": 1.089,
+  "close_final": true,
+  "close_lead_min": 34.9,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-22T11:55:06Z"
+  }
  },
  {
   "key": "66b0c66f449a35afd5be6038234deaa0|1X2|A|",
@@ -47814,7 +47828,7 @@
   "live": {
    "score": "0-0",
    "now": "lost",
-   "ts": "2026-11-22T10:40:17Z"
+   "ts": "2026-11-22T11:55:06Z"
   }
  },
  {
@@ -48046,9 +48060,16 @@
   "clv": 0.01884,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "strategy": "v2",
-  "close_odds": 1.089
+  "close_odds": 1.089,
+  "close_final": true,
+  "close_lead_min": 34.9,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-22T11:55:06Z"
+  }
  },
  {
   "key": "ebfbf664a6dc0f805cce95655e5f32f6|1X2|H||v2",
@@ -48078,9 +48099,16 @@
   "clv": 0.01251,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "1-0",
   "strategy": "v2",
-  "close_odds": 2.074
+  "close_odds": 2.074,
+  "close_final": true,
+  "close_lead_min": 34.9,
+  "live": {
+   "score": "1-0",
+   "now": "won",
+   "ts": "2026-11-22T11:55:06Z"
+  }
  },
  {
   "key": "e491b0b72df0e6f41b1bf7f9c349a136|1X2|H|",
@@ -49617,9 +49645,16 @@
   "clv": 0.02144,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "strategy": "v2",
-  "close_odds": 1.429
+  "close_odds": 1.429,
+  "close_final": true,
+  "close_lead_min": 38.5,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-22T11:55:06Z"
+  }
  },
  {
   "key": "be2fcabc408be29ca01ce92ab266f8b7|1X2|H||qc",
@@ -49649,9 +49684,16 @@
   "clv": 0.02144,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "strategy": "qc",
-  "close_odds": 1.429
+  "close_odds": 1.429,
+  "close_final": true,
+  "close_lead_min": 38.5,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-22T11:55:06Z"
+  }
  },
  {
   "key": "be2fcabc408be29ca01ce92ab266f8b7|1X2|H|",
@@ -49681,8 +49723,79 @@
   "clv": 0.02144,
   "result": null,
   "pnl": null,
+  "score": "0-0",
+  "primary": true,
+  "close_odds": 1.429,
+  "close_final": true,
+  "close_lead_min": 38.5,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-22T11:55:06Z"
+  }
+ },
+ {
+  "key": "9176cbaec3565e688e603baec257e246|1X2|H||v2",
+  "placed_ts": "2026-11-22T11:54:06Z",
+  "status": "open",
+  "event_id": "9176cbaec3565e688e603baec257e246",
+  "league": "E1",
+  "commence": "2026-11-22T12:00:00Z",
+  "home": "Burnley",
+  "away": "Blackburn Rovers",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Burnley",
+  "book": "leovegas_se",
+  "book_name": "LeoVegas SE",
+  "odds": 1.91,
+  "fair_odds": 1.812,
+  "p": 0.5518,
+  "edge": 0.0539,
+  "edge_bfx": 0.0517,
+  "kelly": 0.0148,
+  "stake_kelly": 14.8,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.55176,
+  "clv": 0.05387,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.812
+ },
+ {
+  "key": "9176cbaec3565e688e603baec257e246|1X2|H|",
+  "placed_ts": "2026-11-22T11:54:06Z",
+  "status": "open",
+  "event_id": "9176cbaec3565e688e603baec257e246",
+  "league": "E1",
+  "commence": "2026-11-22T12:00:00Z",
+  "home": "Burnley",
+  "away": "Blackburn Rovers",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Burnley",
+  "book": "leovegas_se",
+  "book_name": "LeoVegas SE",
+  "odds": 1.91,
+  "fair_odds": 1.812,
+  "p": 0.5518,
+  "edge": 0.0539,
+  "edge_bfx": 0.0517,
+  "kelly": 0.0148,
+  "stake_kelly": 14.8,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.55176,
+  "clv": 0.05387,
+  "result": null,
+  "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.429
+  "close_odds": 1.812
  }
 ]

@@ -49811,5 +49811,37 @@
    "now": "lost",
    "ts": "2026-11-22T12:05:50Z"
   }
+ },
+ {
+  "key": "1e7b9477c6c55aea5efd9c1a47039f5c|1X2|A||v2",
+  "placed_ts": "2026-11-22T12:16:28Z",
+  "status": "open",
+  "event_id": "1e7b9477c6c55aea5efd9c1a47039f5c",
+  "league": "NBA",
+  "commence": "2026-11-23T00:10:00Z",
+  "home": "Utah Jazz",
+  "away": "Dallas Mavericks",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Dallas Mavericks",
+  "book": "paddypower",
+  "book_name": "Paddy Power",
+  "odds": 1.9,
+  "fair_odds": 1.838,
+  "p": 0.5441,
+  "edge": 0.0338,
+  "edge_bfx": 0.0251,
+  "kelly": 0.00939,
+  "stake_kelly": 9.39,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.5441,
+  "clv": 0.0338,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.838
  }
 ]

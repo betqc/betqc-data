@@ -44504,7 +44504,7 @@
  {
   "key": "232f705eea406644ff14ad17bcf9aea6|1X2|H|",
   "placed_ts": "2026-11-21T02:11:17Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "232f705eea406644ff14ad17bcf9aea6",
   "league": "NBA",
   "commence": "2026-11-22T00:40:00Z",
@@ -44527,18 +44527,14 @@
   "confirmed": null,
   "close_p": 0.47511,
   "clv": -0.28734,
-  "result": null,
-  "pnl": null,
-  "score": "89-79",
+  "result": "won",
+  "pnl": 0.5,
+  "score": "97-96",
   "primary": true,
   "close_odds": 2.105,
   "close_final": true,
   "close_lead_min": 23.9,
-  "live": {
-   "score": "89-79",
-   "now": "won",
-   "ts": "2026-11-22T02:27:08Z"
-  }
+  "settled_ts": "2026-11-22T02:58:31Z"
  },
  {
   "key": "293cafe6913a9bd59328c98049266ad0|1X2|H|",
@@ -44568,15 +44564,15 @@
   "clv": -0.01228,
   "result": null,
   "pnl": null,
-  "score": "54-49",
+  "score": "80-74",
   "primary": true,
   "close_odds": 1.549,
   "close_final": true,
   "close_lead_min": 20.4,
   "live": {
-   "score": "54-49",
+   "score": "80-74",
    "now": "won",
-   "ts": "2026-11-22T02:27:08Z"
+   "ts": "2026-11-22T02:58:31Z"
   }
  },
  {
@@ -44607,15 +44603,15 @@
   "clv": 0.00609,
   "result": null,
   "pnl": null,
-  "score": "66-57",
+  "score": "95-80",
   "primary": true,
   "close_odds": 1.491,
   "close_final": true,
   "close_lead_min": 20.4,
   "live": {
-   "score": "66-57",
+   "score": "95-80",
    "now": "won",
-   "ts": "2026-11-22T02:27:08Z"
+   "ts": "2026-11-22T02:58:31Z"
   }
  },
  {
@@ -48090,7 +48086,7 @@
  {
   "key": "e491b0b72df0e6f41b1bf7f9c349a136|1X2|H|",
   "placed_ts": "2026-11-21T23:31:51Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "e491b0b72df0e6f41b1bf7f9c349a136",
   "league": "NHL",
   "commence": "2026-11-22T00:00:00Z",
@@ -48113,18 +48109,14 @@
   "confirmed": false,
   "close_p": 0.63469,
   "clv": 0.01551,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 0.6,
   "score": "4-2",
   "primary": true,
   "close_odds": 1.576,
   "close_final": true,
   "close_lead_min": 28.2,
-  "live": {
-   "score": "4-2",
-   "now": "won",
-   "ts": "2026-11-22T02:46:43Z"
-  }
+  "settled_ts": "2026-11-22T02:58:31Z"
  },
  {
   "key": "1d645b37ee998c72af8ad7d2c48a9d6c|1X2|D|",

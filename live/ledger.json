@@ -40843,7 +40843,7 @@
  {
   "key": "c5c227a079d202d5078c8d9239e5e90d|1X2|H|",
   "placed_ts": "2026-11-19T16:46:36Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "c5c227a079d202d5078c8d9239e5e90d",
   "league": "SWE",
   "commence": "2026-11-22T15:30:00Z",
@@ -40866,18 +40866,14 @@
   "confirmed": null,
   "close_p": 0.47406,
   "clv": 0.06663,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "0-3",
   "primary": true,
   "close_odds": 2.109,
   "close_final": true,
   "close_lead_min": 5.5,
-  "live": {
-   "score": "0-3",
-   "now": "lost",
-   "ts": "2026-11-22T17:14:57Z"
-  }
+  "settled_ts": "2026-11-22T17:25:45Z"
  },
  {
   "key": "fbef2faa35a94ff9b71cbbb4767e8b51|1X2|A|",
@@ -45677,7 +45673,7 @@
  {
   "key": "10086ee310a0c197eeab94286808acfa|1X2|A|",
   "placed_ts": "2026-11-21T04:54:15Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "10086ee310a0c197eeab94286808acfa",
   "league": "D3",
   "commence": "2026-11-22T15:30:00Z",
@@ -45700,18 +45696,14 @@
   "confirmed": null,
   "close_p": 0.37267,
   "clv": -0.01243,
-  "result": null,
-  "pnl": null,
-  "score": "1-1",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "2-1",
   "primary": true,
   "close_odds": 2.683,
   "close_final": true,
   "close_lead_min": 5.5,
-  "live": {
-   "score": "1-1",
-   "now": "lost",
-   "ts": "2026-11-22T17:14:57Z"
-  }
+  "settled_ts": "2026-11-22T17:25:45Z"
  },
  {
   "key": "76d4698a8417f32cb059f14a469939f3|1X2|D|",
@@ -48295,7 +48287,7 @@
  {
   "key": "c5c227a079d202d5078c8d9239e5e90d|1X2|A|",
   "placed_ts": "2026-11-22T00:16:13Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "c5c227a079d202d5078c8d9239e5e90d",
   "league": "SWE",
   "commence": "2026-11-22T15:30:00Z",
@@ -48318,18 +48310,14 @@
   "confirmed": null,
   "close_p": 0.28625,
   "clv": 0.0162,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 2.55,
   "score": "0-3",
   "primary": false,
   "close_odds": 3.493,
   "close_final": true,
   "close_lead_min": 5.5,
-  "live": {
-   "score": "0-3",
-   "now": "won",
-   "ts": "2026-11-22T17:14:57Z"
-  }
+  "settled_ts": "2026-11-22T17:25:45Z"
  },
  {
   "key": "ee7af5aaba39b23210e98e1cb8faadf1|TOT|U|2.5",
@@ -48853,7 +48841,7 @@
  {
   "key": "c5c227a079d202d5078c8d9239e5e90d|1X2|H||v2",
   "placed_ts": "2026-11-22T03:30:49Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "c5c227a079d202d5078c8d9239e5e90d",
   "league": "SWE",
   "commence": "2026-11-22T15:30:00Z",
@@ -48876,23 +48864,19 @@
   "confirmed": null,
   "close_p": 0.47406,
   "clv": 0.03819,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "0-3",
   "strategy": "v2",
   "close_odds": 2.109,
   "close_final": true,
   "close_lead_min": 5.5,
-  "live": {
-   "score": "0-3",
-   "now": "lost",
-   "ts": "2026-11-22T17:14:57Z"
-  }
+  "settled_ts": "2026-11-22T17:25:45Z"
  },
  {
   "key": "c5c227a079d202d5078c8d9239e5e90d|1X2|H||qc",
   "placed_ts": "2026-11-22T03:30:49Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "c5c227a079d202d5078c8d9239e5e90d",
   "league": "SWE",
   "commence": "2026-11-22T15:30:00Z",
@@ -48915,18 +48899,14 @@
   "confirmed": null,
   "close_p": 0.47406,
   "clv": 0.03819,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "0-3",
   "strategy": "qc",
   "close_odds": 2.109,
   "close_final": true,
   "close_lead_min": 5.5,
-  "live": {
-   "score": "0-3",
-   "now": "lost",
-   "ts": "2026-11-22T17:14:57Z"
-  }
+  "settled_ts": "2026-11-22T17:25:45Z"
  },
  {
   "key": "2f3dfa781742b66f1412e15c132ff871|1X2|H||v2",
@@ -50371,7 +50351,7 @@
   "live": {
    "score": "1-0",
    "now": "won",
-   "ts": "2026-11-22T17:14:57Z"
+   "ts": "2026-11-22T17:25:45Z"
   }
  },
  {
@@ -50410,7 +50390,7 @@
   "live": {
    "score": "1-0",
    "now": "won",
-   "ts": "2026-11-22T17:14:57Z"
+   "ts": "2026-11-22T17:25:45Z"
   }
  },
  {
@@ -50449,7 +50429,7 @@
   "live": {
    "score": "1-0",
    "now": "won",
-   "ts": "2026-11-22T17:14:57Z"
+   "ts": "2026-11-22T17:25:45Z"
   }
  },
  {

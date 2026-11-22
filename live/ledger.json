@@ -41298,7 +41298,7 @@
  {
   "key": "8e6ee05b6ac28dc2357f72b9f5a0643e|1X2|H|",
   "placed_ts": "2026-11-19T16:46:36Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "8e6ee05b6ac28dc2357f72b9f5a0643e",
   "league": "F1",
   "commence": "2026-11-22T16:15:00Z",
@@ -41321,18 +41321,14 @@
   "confirmed": true,
   "close_p": 0.26899,
   "clv": -0.16612,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "1-1",
   "primary": true,
   "close_odds": 3.718,
   "close_final": true,
   "close_lead_min": 39.7,
-  "live": {
-   "score": "1-1",
-   "now": "lost",
-   "ts": "2026-11-22T18:10:02Z"
-  }
+  "settled_ts": "2026-11-22T18:20:39Z"
  },
  {
   "key": "2f3dfa781742b66f1412e15c132ff871|1X2|H|",
@@ -43150,15 +43146,15 @@
   "clv": -0.03297,
   "result": null,
   "pnl": null,
-  "score": "0-0",
+  "score": "1-0",
   "primary": true,
   "close_odds": 2.978,
   "close_final": true,
   "close_lead_min": 35.5,
   "live": {
-   "score": "0-0",
-   "now": "lost",
-   "ts": "2026-11-22T18:10:02Z"
+   "score": "1-0",
+   "now": "won",
+   "ts": "2026-11-22T18:20:39Z"
   }
  },
  {
@@ -48389,9 +48385,16 @@
   "clv": -0.08723,
   "result": null,
   "pnl": null,
-  "score": null,
+  "score": "0-0",
   "primary": true,
-  "close_odds": 3.451
+  "close_odds": 3.451,
+  "close_final": true,
+  "close_lead_min": 5.8,
+  "live": {
+   "score": "0-0",
+   "now": "lost",
+   "ts": "2026-11-22T18:20:39Z"
+  }
  },
  {
   "key": "a968e1c9f7f2e05bace52a2dd77ea90a|1X2|H||v2",
@@ -48627,13 +48630,13 @@
   "stake_kelly": 1.61,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.24468,
-  "clv": 0.03987,
+  "close_p": 0.22399,
+  "clv": -0.04802,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 4.087
+  "close_odds": 4.464
  },
  {
   "key": "1d645b37ee998c72af8ad7d2c48a9d6c|1X2|D||v2",
@@ -49097,7 +49100,7 @@
  {
   "key": "8e6ee05b6ac28dc2357f72b9f5a0643e|1X2|D|",
   "placed_ts": "2026-11-22T04:41:12Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "8e6ee05b6ac28dc2357f72b9f5a0643e",
   "league": "F1",
   "commence": "2026-11-22T16:15:00Z",
@@ -49120,18 +49123,14 @@
   "confirmed": true,
   "close_p": 0.29671,
   "clv": 0.07704,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 2.63,
   "score": "1-1",
   "primary": false,
   "close_odds": 3.37,
   "close_final": true,
   "close_lead_min": 39.7,
-  "live": {
-   "score": "1-1",
-   "now": "won",
-   "ts": "2026-11-22T18:10:02Z"
-  }
+  "settled_ts": "2026-11-22T18:20:39Z"
  },
  {
   "key": "2f3dfa781742b66f1412e15c132ff871|TOT|U|3.5",
@@ -50406,7 +50405,7 @@
  {
   "key": "8e6ee05b6ac28dc2357f72b9f5a0643e|1X2|A||v2",
   "placed_ts": "2026-11-22T15:35:18Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "8e6ee05b6ac28dc2357f72b9f5a0643e",
   "league": "F1",
   "commence": "2026-11-22T16:15:00Z",
@@ -50429,23 +50428,19 @@
   "confirmed": true,
   "close_p": 0.4343,
   "clv": 0.03364,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "1-1",
   "strategy": "v2",
   "close_odds": 2.303,
   "close_final": true,
   "close_lead_min": 39.7,
-  "live": {
-   "score": "1-1",
-   "now": "lost",
-   "ts": "2026-11-22T18:10:02Z"
-  }
+  "settled_ts": "2026-11-22T18:20:39Z"
  },
  {
   "key": "8e6ee05b6ac28dc2357f72b9f5a0643e|1X2|A|",
   "placed_ts": "2026-11-22T15:35:18Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "8e6ee05b6ac28dc2357f72b9f5a0643e",
   "league": "F1",
   "commence": "2026-11-22T16:15:00Z",
@@ -50468,18 +50463,14 @@
   "confirmed": true,
   "close_p": 0.4343,
   "clv": 0.03364,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "1-1",
   "primary": false,
   "close_odds": 2.303,
   "close_final": true,
   "close_lead_min": 39.7,
-  "live": {
-   "score": "1-1",
-   "now": "lost",
-   "ts": "2026-11-22T18:10:02Z"
-  }
+  "settled_ts": "2026-11-22T18:20:39Z"
  },
  {
   "key": "5faf836ce6c0fd72af5d1fe258c63bc6|1X2|H|",
@@ -50956,5 +50947,101 @@
   "score": null,
   "primary": true,
   "close_odds": 2.027
+ },
+ {
+  "key": "dddc911eddfe6a3943d037b9494921be|1X2|H||v2",
+  "placed_ts": "2026-11-22T18:20:36Z",
+  "status": "open",
+  "event_id": "dddc911eddfe6a3943d037b9494921be",
+  "league": "BRA",
+  "commence": "2026-11-22T19:00:00Z",
+  "home": "Atletico Paranaense",
+  "away": "Remo",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Atletico Paranaense",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 1.6,
+  "fair_odds": 1.546,
+  "p": 0.6467,
+  "edge": 0.0348,
+  "edge_bfx": 0.0461,
+  "kelly": 0.0145,
+  "stake_kelly": 14.5,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.64675,
+  "clv": 0.0348,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.546
+ },
+ {
+  "key": "dddc911eddfe6a3943d037b9494921be|1X2|H||qc",
+  "placed_ts": "2026-11-22T18:20:36Z",
+  "status": "open",
+  "event_id": "dddc911eddfe6a3943d037b9494921be",
+  "league": "BRA",
+  "commence": "2026-11-22T19:00:00Z",
+  "home": "Atletico Paranaense",
+  "away": "Remo",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Atletico Paranaense",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 1.6,
+  "fair_odds": 1.546,
+  "p": 0.6467,
+  "edge": 0.0348,
+  "edge_bfx": 0.0461,
+  "kelly": 0.0145,
+  "stake_kelly": 14.5,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.64675,
+  "clv": 0.0348,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "qc",
+  "close_odds": 1.546
+ },
+ {
+  "key": "dddc911eddfe6a3943d037b9494921be|1X2|H|",
+  "placed_ts": "2026-11-22T18:20:36Z",
+  "status": "open",
+  "event_id": "dddc911eddfe6a3943d037b9494921be",
+  "league": "BRA",
+  "commence": "2026-11-22T19:00:00Z",
+  "home": "Atletico Paranaense",
+  "away": "Remo",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Atletico Paranaense",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 1.6,
+  "fair_odds": 1.546,
+  "p": 0.6467,
+  "edge": 0.0348,
+  "edge_bfx": 0.0461,
+  "kelly": 0.0145,
+  "stake_kelly": 14.5,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.64675,
+  "clv": 0.0348,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 1.546
  }
 ]

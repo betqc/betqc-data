@@ -42803,7 +42803,7 @@
  {
   "key": "08f1d5a366e711c1e29845352bb8137d|1X2|A|",
   "placed_ts": "2026-11-20T16:52:19Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "08f1d5a366e711c1e29845352bb8137d",
   "league": "BRA",
   "commence": "2026-11-22T22:30:00Z",
@@ -42826,18 +42826,14 @@
   "confirmed": null,
   "close_p": 0.3765,
   "clv": 0.16715,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "1-0",
   "primary": true,
   "close_odds": 2.656,
   "close_final": true,
   "close_lead_min": 26.9,
-  "live": {
-   "score": "1-0",
-   "now": "lost",
-   "ts": "2026-11-23T00:07:21Z"
-  }
+  "settled_ts": "2026-11-23T01:25:29Z"
  },
  {
   "key": "0fb066b5cf1107b140d0aea5e6b2e682|1X2|D|",
@@ -49501,15 +49497,15 @@
   "clv": 0.06281,
   "result": null,
   "pnl": null,
-  "score": "9-8",
+  "score": "62-72",
   "primary": true,
   "close_odds": 1.788,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "9-8",
-   "now": "lost",
-   "ts": "2026-11-23T00:17:59Z"
+   "score": "62-72",
+   "now": "won",
+   "ts": "2026-11-23T01:25:29Z"
   }
  },
  {
@@ -50003,15 +49999,15 @@
   "clv": 0.06281,
   "result": null,
   "pnl": null,
-  "score": "9-8",
+  "score": "62-72",
   "strategy": "v2",
   "close_odds": 1.788,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "9-8",
-   "now": "lost",
-   "ts": "2026-11-23T00:17:59Z"
+   "score": "62-72",
+   "now": "won",
+   "ts": "2026-11-23T01:25:29Z"
   }
  },
  {
@@ -50567,15 +50563,15 @@
   "clv": 0.01706,
   "result": null,
   "pnl": null,
-  "score": "9-8",
+  "score": "62-72",
   "strategy": "v2",
   "close_odds": 1.927,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "9-8",
+   "score": "62-72",
    "now": "lost",
-   "ts": "2026-11-23T00:17:59Z"
+   "ts": "2026-11-23T01:25:29Z"
   }
  },
  {
@@ -50676,15 +50672,15 @@
   "clv": 0.01706,
   "result": null,
   "pnl": null,
-  "score": "9-8",
+  "score": "62-72",
   "strategy": "qc",
   "close_odds": 1.927,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "9-8",
+   "score": "62-72",
    "now": "lost",
-   "ts": "2026-11-23T00:17:59Z"
+   "ts": "2026-11-23T01:25:29Z"
   }
  },
  {
@@ -50884,15 +50880,15 @@
   "clv": 0.01706,
   "result": null,
   "pnl": null,
-  "score": "9-8",
+  "score": "62-72",
   "primary": true,
   "close_odds": 1.927,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "9-8",
+   "score": "62-72",
    "now": "lost",
-   "ts": "2026-11-23T00:17:59Z"
+   "ts": "2026-11-23T01:25:29Z"
   }
  },
  {
@@ -51172,7 +51168,7 @@
  {
   "key": "08f1d5a366e711c1e29845352bb8137d|1X2|H|",
   "placed_ts": "2026-11-22T22:03:07Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "08f1d5a366e711c1e29845352bb8137d",
   "league": "BRA",
   "commence": "2026-11-22T22:30:00Z",
@@ -51195,18 +51191,14 @@
   "confirmed": false,
   "close_p": 0.35254,
   "clv": 0.0153,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 1.88,
   "score": "1-0",
   "primary": false,
   "close_odds": 2.837,
   "close_final": true,
   "close_lead_min": 26.9,
-  "live": {
-   "score": "1-0",
-   "now": "won",
-   "ts": "2026-11-23T00:07:21Z"
-  }
+  "settled_ts": "2026-11-23T01:25:29Z"
  },
  {
   "key": "15a079f55e23d26237844224f258c972|1X2|A||v2",
@@ -51236,15 +51228,15 @@
   "clv": 0.01954,
   "result": null,
   "pnl": null,
-  "score": "16-17",
+  "score": "77-85",
   "strategy": "v2",
   "close_odds": 1.275,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "16-17",
+   "score": "77-85",
    "now": "won",
-   "ts": "2026-11-23T00:17:59Z"
+   "ts": "2026-11-23T01:25:29Z"
   }
  },
  {
@@ -51371,15 +51363,15 @@
   "clv": 0.01954,
   "result": null,
   "pnl": null,
-  "score": "16-17",
+  "score": "77-85",
   "primary": true,
   "close_odds": 1.275,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "16-17",
+   "score": "77-85",
    "now": "won",
-   "ts": "2026-11-23T00:17:59Z"
+   "ts": "2026-11-23T01:25:29Z"
   }
  }
 ]

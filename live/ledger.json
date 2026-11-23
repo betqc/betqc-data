@@ -42859,13 +42859,13 @@
   "stake_kelly": 4.9,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.33024,
-  "clv": 0.07328,
+  "close_p": 0.33151,
+  "clv": 0.0774,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.028
+  "close_odds": 3.017
  },
  {
   "key": "476da082e4c07bd9fa21d352af37ee61|1X2|H|",
@@ -45376,13 +45376,13 @@
   "stake_kelly": 4.21,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.27236,
-  "clv": 0.0404,
+  "close_p": 0.27173,
+  "clv": 0.03801,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.672
+  "close_odds": 3.68
  },
  {
   "key": "c70e8cc8f8aedeee2ed518993aaced38|1X2|A|",
@@ -45440,13 +45440,13 @@
   "stake_kelly": 3.01,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.2942,
-  "clv": 0.02968,
+  "close_p": 0.29372,
+  "clv": 0.02803,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.399
+  "close_odds": 3.405
  },
  {
   "key": "4247cf3f5ad70603706059703826171e|1X2|H|",
@@ -45472,13 +45472,13 @@
   "stake_kelly": 25.49,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.8159,
-  "clv": 0.04435,
+  "close_p": 0.84468,
+  "clv": 0.0812,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.226
+  "close_odds": 1.184
  },
  {
   "key": "c24cf629b4eaf0ebc4ca2c5beb73747c|TOT|O|3.5",
@@ -45749,13 +45749,13 @@
   "stake_kelly": 1.56,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.26789,
-  "clv": 0.02335,
+  "close_p": 0.26733,
+  "clv": 0.02121,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.733
+  "close_odds": 3.741
  },
  {
   "key": "f024fef3ca959505d2bc7e75154dbedf|1X2|A|",
@@ -45781,13 +45781,13 @@
   "stake_kelly": 3.94,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.50552,
-  "clv": 0.00093,
+  "close_p": 0.48481,
+  "clv": -0.04007,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.978
+  "close_odds": 2.063
  },
  {
   "key": "83a9063e3314d3e820aabb99941483d0|1X2|A|",
@@ -45813,13 +45813,13 @@
   "stake_kelly": 3.17,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.46971,
-  "clv": 0.03335,
+  "close_p": 0.47841,
+  "clv": 0.05251,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.129
+  "close_odds": 2.09
  },
  {
   "key": "cb513fd9869c9aa6ce506bb499bcd48b|1X2|A||v2",
@@ -47875,13 +47875,13 @@
   "stake_kelly": 5.78,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.49231,
-  "clv": -0.03999,
+  "close_p": 0.49735,
+  "clv": -0.03016,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.031
+  "close_odds": 2.011
  },
  {
   "key": "f687dcdffc83e8d365c3c00e857a5846|1X2|H|",
@@ -49394,13 +49394,13 @@
   "stake_kelly": 3.98,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.2559,
-  "clv": -0.01478,
+  "close_p": 0.26363,
+  "clv": 0.01498,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.908
+  "close_odds": 3.793
  },
  {
   "key": "7a62fe738bd20cfff6027c52fec05d51|1X2|H|",
@@ -49592,13 +49592,13 @@
   "stake_kelly": 2.49,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.31429,
-  "clv": 0.03717,
+  "close_p": 0.29822,
+  "clv": -0.01589,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.182
+  "close_odds": 3.353
  },
  {
   "key": "17fe7f97afa7602f6ee038dbdc5b7c19|1X2|H|",
@@ -51239,13 +51239,13 @@
   "stake_kelly": 2.44,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.25468,
-  "clv": 0.03655,
+  "close_p": 0.25155,
+  "clv": 0.02381,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.926
+  "close_odds": 3.975
  },
  {
   "key": "73d2a041ea30b098a5826806dc784eb4|1X2|A|",
@@ -51271,13 +51271,13 @@
   "stake_kelly": 3.53,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.39079,
-  "clv": 0.0942,
+  "close_p": 0.3892,
+  "clv": 0.08977,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.559
+  "close_odds": 2.569
  },
  {
   "key": "afae1c9d986e4ab2200dc9bd44b6b6c4|1X2|H|",
@@ -51303,13 +51303,13 @@
   "stake_kelly": 4.38,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.44452,
-  "clv": 0.00461,
+  "close_p": 0.44421,
+  "clv": 0.00391,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 2.25
+  "close_odds": 2.251
  },
  {
   "key": "15a079f55e23d26237844224f258c972|1X2|A|",
@@ -51850,13 +51850,13 @@
   "stake_kelly": 2.55,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.37726,
-  "clv": 0.0186,
+  "close_p": 0.36743,
+  "clv": -0.00794,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.651
+  "close_odds": 2.722
  },
  {
   "key": "c1339bf6458b24fdfaa62305a6947a8c|TOT|U|2.5",
@@ -51882,13 +51882,13 @@
   "stake_kelly": 3.97,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.49321,
-  "clv": 0.01109,
+  "close_p": 0.51222,
+  "clv": 0.05005,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.028
+  "close_odds": 1.952
  },
  {
   "key": "83a9063e3314d3e820aabb99941483d0|1X2|A||v2",
@@ -51914,13 +51914,13 @@
   "stake_kelly": 7.09,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.46971,
-  "clv": 0.03335,
+  "close_p": 0.47841,
+  "clv": 0.05251,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.129
+  "close_odds": 2.09
  },
  {
   "key": "7f6119974c72b322830f02300a6ea872|1X2|A||v2",
@@ -51946,13 +51946,13 @@
   "stake_kelly": 2.55,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.37726,
-  "clv": 0.0186,
+  "close_p": 0.36743,
+  "clv": -0.00794,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.651
+  "close_odds": 2.722
  },
  {
   "key": "83a9063e3314d3e820aabb99941483d0|1X2|A||qc",
@@ -51978,13 +51978,13 @@
   "stake_kelly": 7.09,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.46971,
-  "clv": 0.03335,
+  "close_p": 0.47841,
+  "clv": 0.05251,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "qc",
-  "close_odds": 2.129
+  "close_odds": 2.09
  },
  {
   "key": "7f6119974c72b322830f02300a6ea872|1X2|A||qc",
@@ -52010,13 +52010,13 @@
   "stake_kelly": 2.55,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.37726,
-  "clv": 0.0186,
+  "close_p": 0.36743,
+  "clv": -0.00794,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "qc",
-  "close_odds": 2.651
+  "close_odds": 2.722
  },
  {
   "key": "73d2a041ea30b098a5826806dc784eb4|1X2|A||v2",
@@ -52042,12 +52042,76 @@
   "stake_kelly": 4.26,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.39079,
-  "clv": 0.02777,
+  "close_p": 0.3892,
+  "clv": 0.0236,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.559
+  "close_odds": 2.569
+ },
+ {
+  "key": "4247cf3f5ad70603706059703826171e|1X2|H||v2",
+  "placed_ts": "2026-11-23T09:50:22Z",
+  "status": "open",
+  "event_id": "4247cf3f5ad70603706059703826171e",
+  "league": "SWE",
+  "commence": "2026-11-23T18:00:00Z",
+  "home": "Hammarby IF",
+  "away": "IFK Goteborg",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Hammarby IF",
+  "book": "unibet_se",
+  "book_name": "Unibet SE",
+  "odds": 1.21,
+  "fair_odds": 1.184,
+  "p": 0.8447,
+  "edge": 0.0221,
+  "edge_bfx": null,
+  "kelly": 0.02627,
+  "stake_kelly": 26.27,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.84468,
+  "clv": 0.02207,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.184
+ },
+ {
+  "key": "4247cf3f5ad70603706059703826171e|1X2|H||qc",
+  "placed_ts": "2026-11-23T09:50:22Z",
+  "status": "open",
+  "event_id": "4247cf3f5ad70603706059703826171e",
+  "league": "SWE",
+  "commence": "2026-11-23T18:00:00Z",
+  "home": "Hammarby IF",
+  "away": "IFK Goteborg",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Hammarby IF",
+  "book": "coolbet",
+  "book_name": "Coolbet",
+  "odds": 1.21,
+  "fair_odds": 1.184,
+  "p": 0.8447,
+  "edge": 0.0221,
+  "edge_bfx": null,
+  "kelly": 0.02627,
+  "stake_kelly": 26.27,
+  "tier": 1,
+  "confirmed": null,
+  "close_p": 0.84468,
+  "clv": 0.02207,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "qc",
+  "close_odds": 1.184
  }
 ]

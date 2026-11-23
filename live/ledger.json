@@ -49497,15 +49497,15 @@
   "clv": 0.06281,
   "result": null,
   "pnl": null,
-  "score": "62-72",
+  "score": "84-100",
   "primary": true,
   "close_odds": 1.788,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "62-72",
+   "score": "84-100",
    "now": "won",
-   "ts": "2026-11-23T01:25:29Z"
+   "ts": "2026-11-23T01:58:59Z"
   }
  },
  {
@@ -49999,15 +49999,15 @@
   "clv": 0.06281,
   "result": null,
   "pnl": null,
-  "score": "62-72",
+  "score": "84-100",
   "strategy": "v2",
   "close_odds": 1.788,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "62-72",
+   "score": "84-100",
    "now": "won",
-   "ts": "2026-11-23T01:25:29Z"
+   "ts": "2026-11-23T01:58:59Z"
   }
  },
  {
@@ -50563,15 +50563,15 @@
   "clv": 0.01706,
   "result": null,
   "pnl": null,
-  "score": "62-72",
+  "score": "84-100",
   "strategy": "v2",
   "close_odds": 1.927,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "62-72",
+   "score": "84-100",
    "now": "lost",
-   "ts": "2026-11-23T01:25:29Z"
+   "ts": "2026-11-23T01:58:59Z"
   }
  },
  {
@@ -50672,15 +50672,15 @@
   "clv": 0.01706,
   "result": null,
   "pnl": null,
-  "score": "62-72",
+  "score": "84-100",
   "strategy": "qc",
   "close_odds": 1.927,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "62-72",
+   "score": "84-100",
    "now": "lost",
-   "ts": "2026-11-23T01:25:29Z"
+   "ts": "2026-11-23T01:58:59Z"
   }
  },
  {
@@ -50880,15 +50880,15 @@
   "clv": 0.01706,
   "result": null,
   "pnl": null,
-  "score": "62-72",
+  "score": "84-100",
   "primary": true,
   "close_odds": 1.927,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "62-72",
+   "score": "84-100",
    "now": "lost",
-   "ts": "2026-11-23T01:25:29Z"
+   "ts": "2026-11-23T01:58:59Z"
   }
  },
  {
@@ -51228,15 +51228,15 @@
   "clv": 0.01954,
   "result": null,
   "pnl": null,
-  "score": "77-85",
+  "score": "106-110",
   "strategy": "v2",
   "close_odds": 1.275,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "77-85",
+   "score": "106-110",
    "now": "won",
-   "ts": "2026-11-23T01:25:29Z"
+   "ts": "2026-11-23T01:58:59Z"
   }
  },
  {
@@ -51363,15 +51363,15 @@
   "clv": 0.01954,
   "result": null,
   "pnl": null,
-  "score": "77-85",
+  "score": "106-110",
   "primary": true,
   "close_odds": 1.275,
   "close_final": true,
   "close_lead_min": 3.5,
   "live": {
-   "score": "77-85",
+   "score": "106-110",
    "now": "won",
-   "ts": "2026-11-23T01:25:29Z"
+   "ts": "2026-11-23T01:58:59Z"
   }
  }
 ]

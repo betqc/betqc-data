@@ -52431,7 +52431,7 @@
  {
   "key": "c9b6c9f77fd3628308dd34f50854a9c0|1X2|H||v2",
   "placed_ts": "2026-11-23T17:20:25Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "c9b6c9f77fd3628308dd34f50854a9c0",
   "league": "NBA",
   "commence": "2026-11-24T00:40:00Z",
@@ -52454,18 +52454,14 @@
   "confirmed": true,
   "close_p": 0.37191,
   "clv": 0.04134,
-  "result": null,
-  "pnl": null,
-  "score": "104-98",
+  "result": "won",
+  "pnl": 1.8,
+  "score": "125-120",
   "strategy": "v2",
   "close_odds": 2.689,
   "close_final": true,
   "close_lead_min": 34.7,
-  "live": {
-   "score": "104-98",
-   "now": "won",
-   "ts": "2026-11-24T02:34:27Z"
-  }
+  "settled_ts": "2026-11-24T03:06:48Z"
  },
  {
   "key": "afae1c9d986e4ab2200dc9bd44b6b6c4|1X2|H||v2",
@@ -52639,7 +52635,7 @@
  {
   "key": "c9b6c9f77fd3628308dd34f50854a9c0|1X2|H|",
   "placed_ts": "2026-11-23T17:20:25Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "c9b6c9f77fd3628308dd34f50854a9c0",
   "league": "NBA",
   "commence": "2026-11-24T00:40:00Z",
@@ -52662,18 +52658,14 @@
   "confirmed": true,
   "close_p": 0.37191,
   "clv": 0.04134,
-  "result": null,
-  "pnl": null,
-  "score": "104-98",
+  "result": "won",
+  "pnl": 1.8,
+  "score": "125-120",
   "primary": true,
   "close_odds": 2.689,
   "close_final": true,
   "close_lead_min": 34.7,
-  "live": {
-   "score": "104-98",
-   "now": "won",
-   "ts": "2026-11-24T02:34:27Z"
-  }
+  "settled_ts": "2026-11-24T03:06:48Z"
  },
  {
   "key": "b9f00a4d399ec661e733857c9d5fb2dc|TOT|O|3.5",
@@ -53060,12 +53052,12 @@
   "stake_kelly": 3.42,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.27325,
-  "clv": 0.03833,
+  "close_p": 0.26797,
+  "clv": 0.01828,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.66
+  "close_odds": 3.732
  }
 ]

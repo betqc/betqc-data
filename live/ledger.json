@@ -53056,15 +53056,15 @@
   "clv": 0.01828,
   "result": null,
   "pnl": null,
-  "score": "28-19",
+  "score": "51-60",
   "primary": true,
   "close_odds": 3.732,
   "close_final": true,
   "close_lead_min": 3.6,
   "live": {
-   "score": "28-19",
-   "now": "won",
-   "ts": "2026-11-24T03:38:39Z"
+   "score": "51-60",
+   "now": "lost",
+   "ts": "2026-11-24T04:11:05Z"
   }
  }
 ]

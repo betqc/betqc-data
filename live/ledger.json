@@ -49226,13 +49226,13 @@
   "stake_kelly": 4.38,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.13235,
-  "clv": -0.2324,
+  "close_p": 0.11959,
+  "clv": -0.30635,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 7.556
+  "close_odds": 8.362
  },
  {
   "key": "aea973c122c91837c15e066c757c747f|1X2|A|",
@@ -49689,13 +49689,13 @@
   "stake_kelly": 7.52,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.70689,
-  "clv": 0.13809,
+  "close_p": 0.73182,
+  "clv": 0.17823,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 1.415
+  "close_odds": 1.366
  },
  {
   "key": "ba719e378ac366262013bdb51a06aa6f|1X2|H|",
@@ -49753,13 +49753,13 @@
   "stake_kelly": 2.71,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.46228,
-  "clv": 0.17881,
+  "close_p": 0.48567,
+  "clv": 0.23847,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.163
+  "close_odds": 2.059
  },
  {
   "key": "018856cb75135463eb1972d978339023|1X2|H|",
@@ -52557,13 +52557,13 @@
   "stake_kelly": 3.19,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.25051,
-  "clv": 0.05213,
+  "close_p": 0.24452,
+  "clv": 0.02697,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 3.992
+  "close_odds": 4.09
  },
  {
   "key": "ac6fb079d66ef35a2a77e22b5e94ef8d|1X2|A|",
@@ -53887,13 +53887,13 @@
   "stake_kelly": 11.18,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.70689,
-  "clv": 0.06033,
+  "close_p": 0.73182,
+  "clv": 0.09773,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.415
+  "close_odds": 1.366
  },
  {
   "key": "6d21b6408d1f1c42def270b7f1ae5b21|1X2|A||v2",
@@ -53983,13 +53983,13 @@
   "stake_kelly": 11.18,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.70689,
-  "clv": 0.06033,
+  "close_p": 0.73182,
+  "clv": 0.09773,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "qc",
-  "close_odds": 1.415
+  "close_odds": 1.366
  },
  {
   "key": "ba719e378ac366262013bdb51a06aa6f|TOT|U|3.5|qc",
@@ -54399,12 +54399,44 @@
   "stake_kelly": 3.54,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.46228,
-  "clv": 0.01701,
+  "close_p": 0.48567,
+  "clv": 0.06848,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.163
+  "close_odds": 2.059
+ },
+ {
+  "key": "e422af92d1fc06c0a330838c1c2f2e08|1X2|A||qc",
+  "placed_ts": "2026-11-24T17:22:17Z",
+  "status": "open",
+  "event_id": "e422af92d1fc06c0a330838c1c2f2e08",
+  "league": "UCL",
+  "commence": "2026-11-24T17:45:00Z",
+  "home": "Galatasaray",
+  "away": "Aston Villa",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Aston Villa",
+  "book": "onexbet",
+  "book_name": "1xBet",
+  "odds": 2.12,
+  "fair_odds": 2.059,
+  "p": 0.4857,
+  "edge": 0.0296,
+  "edge_bfx": 0.0169,
+  "kelly": 0.00661,
+  "stake_kelly": 6.61,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.48567,
+  "clv": 0.02963,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "qc",
+  "close_odds": 2.059
  }
 ]

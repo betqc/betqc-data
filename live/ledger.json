@@ -52396,7 +52396,7 @@
  {
   "key": "ac6fb079d66ef35a2a77e22b5e94ef8d|1X2|A||v2",
   "placed_ts": "2026-11-23T17:20:25Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "ac6fb079d66ef35a2a77e22b5e94ef8d",
   "league": "NBA",
   "commence": "2026-11-24T00:10:00Z",
@@ -52419,18 +52419,14 @@
   "confirmed": true,
   "close_p": 0.50526,
   "clv": 0.16209,
-  "result": null,
-  "pnl": null,
-  "score": "96-109",
+  "result": "won",
+  "pnl": 1.3,
+  "score": "111-128",
   "strategy": "v2",
   "close_odds": 1.979,
   "close_final": true,
   "close_lead_min": 4.7,
-  "live": {
-   "score": "96-109",
-   "now": "won",
-   "ts": "2026-11-24T02:03:43Z"
-  }
+  "settled_ts": "2026-11-24T02:34:27Z"
  },
  {
   "key": "c9b6c9f77fd3628308dd34f50854a9c0|1X2|H||v2",
@@ -52460,15 +52456,15 @@
   "clv": 0.04134,
   "result": null,
   "pnl": null,
-  "score": "83-74",
+  "score": "104-98",
   "strategy": "v2",
   "close_odds": 2.689,
   "close_final": true,
   "close_lead_min": 34.7,
   "live": {
-   "score": "83-74",
+   "score": "104-98",
    "now": "won",
-   "ts": "2026-11-24T02:03:43Z"
+   "ts": "2026-11-24T02:34:27Z"
   }
  },
  {
@@ -52576,7 +52572,7 @@
  {
   "key": "ac6fb079d66ef35a2a77e22b5e94ef8d|1X2|A|",
   "placed_ts": "2026-11-23T17:20:25Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "ac6fb079d66ef35a2a77e22b5e94ef8d",
   "league": "NBA",
   "commence": "2026-11-24T00:10:00Z",
@@ -52599,18 +52595,14 @@
   "confirmed": true,
   "close_p": 0.50526,
   "clv": 0.16209,
-  "result": null,
-  "pnl": null,
-  "score": "96-109",
+  "result": "won",
+  "pnl": 1.3,
+  "score": "111-128",
   "primary": true,
   "close_odds": 1.979,
   "close_final": true,
   "close_lead_min": 4.7,
-  "live": {
-   "score": "96-109",
-   "now": "won",
-   "ts": "2026-11-24T02:03:43Z"
-  }
+  "settled_ts": "2026-11-24T02:34:27Z"
  },
  {
   "key": "9a2ebad454db4ab3d53b89e96c79847a|1X2|A|",
@@ -52672,15 +52664,15 @@
   "clv": 0.04134,
   "result": null,
   "pnl": null,
-  "score": "83-74",
+  "score": "104-98",
   "primary": true,
   "close_odds": 2.689,
   "close_final": true,
   "close_lead_min": 34.7,
   "live": {
-   "score": "83-74",
+   "score": "104-98",
    "now": "won",
-   "ts": "2026-11-24T02:03:43Z"
+   "ts": "2026-11-24T02:34:27Z"
   }
  },
  {
@@ -53043,5 +53035,37 @@
   "score": null,
   "primary": true,
   "close_odds": 2.949
+ },
+ {
+  "key": "17f31499f145cd9d3232819395d29448|1X2|H|",
+  "placed_ts": "2026-11-24T02:34:00Z",
+  "status": "open",
+  "event_id": "17f31499f145cd9d3232819395d29448",
+  "league": "NBA",
+  "commence": "2026-11-24T03:10:00Z",
+  "home": "Sacramento Kings",
+  "away": "San Antonio Spurs",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Sacramento Kings",
+  "book": "marathonbet",
+  "book_name": "Marathonbet",
+  "odds": 3.8,
+  "fair_odds": 3.66,
+  "p": 0.2732,
+  "edge": 0.0383,
+  "edge_bfx": 0.0531,
+  "kelly": 0.00342,
+  "stake_kelly": 3.42,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.27325,
+  "clv": 0.03833,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 3.66
  }
 ]

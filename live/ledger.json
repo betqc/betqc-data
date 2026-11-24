@@ -45393,7 +45393,7 @@
  {
   "key": "c70e8cc8f8aedeee2ed518993aaced38|1X2|A|",
   "placed_ts": "2026-11-21T04:54:15Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "c70e8cc8f8aedeee2ed518993aaced38",
   "league": "BRA",
   "commence": "2026-11-24T00:00:00Z",
@@ -45416,18 +45416,14 @@
   "confirmed": null,
   "close_p": 0.18947,
   "clv": 0.02312,
-  "result": null,
-  "pnl": null,
+  "result": "won",
+  "pnl": 4.4,
   "score": "0-2",
   "primary": true,
   "close_odds": 5.278,
   "close_final": true,
   "close_lead_min": 5.9,
-  "live": {
-   "score": "0-2",
-   "now": "won",
-   "ts": "2026-11-24T02:03:43Z"
-  }
+  "settled_ts": "2026-11-24T02:14:45Z"
  },
  {
   "key": "87ff23cf75b8a3552d4331f64c818f9c|1X2|D|",
@@ -49757,13 +49753,13 @@
   "stake_kelly": 2.71,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.43588,
-  "clv": 0.11149,
+  "close_p": 0.43574,
+  "clv": 0.11112,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.294
+  "close_odds": 2.295
  },
  {
   "key": "018856cb75135463eb1972d978339023|1X2|H|",
@@ -49789,13 +49785,13 @@
   "stake_kelly": 11.49,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.7347,
-  "clv": -0.00081,
+  "close_p": 0.7404,
+  "clv": 0.00695,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.361
+  "close_odds": 1.351
  },
  {
   "key": "ae887a08eef3ff58053488dbddde28a3|1X2|A|",
@@ -49821,13 +49817,13 @@
   "stake_kelly": 0.75,
   "tier": 2,
   "confirmed": null,
-  "close_p": 0.17557,
-  "clv": 0.05343,
+  "close_p": 0.17395,
+  "clv": 0.04368,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 5.696
+  "close_odds": 5.749
  },
  {
   "key": "be2fcabc408be29ca01ce92ab266f8b7|1X2|H||v2",
@@ -52569,13 +52565,13 @@
   "stake_kelly": 3.19,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.24692,
-  "clv": 0.03706,
+  "close_p": 0.24613,
+  "clv": 0.03375,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 4.05
+  "close_odds": 4.063
  },
  {
   "key": "ac6fb079d66ef35a2a77e22b5e94ef8d|1X2|A|",

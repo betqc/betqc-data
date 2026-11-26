@@ -4,6 +4,9 @@
 # GitHub retarde souvent les déclencheurs planifiés (40 à 60 minutes entre deux passages observés).
 # Chaque exécution boucle donc elle-même aux 10 minutes pendant environ 50 minutes, et les
 # déclencheurs suivants attendent leur tour : la couverture reste continue malgré les retards.
+# GitHub a aussi cessé de déclencher le cron pendant 8 à 9 heures (nov. 2026) : à la fin de chaque
+# exécution, le robot relance donc lui-même le passage suivant s'il n'y en a aucun en file.
+# Pour l'arrêter : onglet Actions de ce dépôt, BetQC robot, « Disable workflow ».
 name: BetQC robot
 
 on:
@@ -13,6 +16,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: betqc-robot
@@ -62,3 +66,14 @@ jobs:
             [ $(( $(date +%s) + 600 )) -lt $end ] || break
             sleep 600
           done
+      - name: Relance du passage suivant
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          waiting=$(gh api "repos/${{ github.repository }}/actions/workflows/robot.yml/runs?status=queued" -q '.total_count' || echo 0)
+          if [ "$waiting" = "0" ]; then
+            gh api -X POST "repos/${{ github.repository }}/actions/workflows/robot.yml/dispatches" -f ref=main && echo "Passage suivant lancé"
+          else
+            echo "Un passage attend déjà son tour"
+          fi

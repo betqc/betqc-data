@@ -51,6 +51,7 @@ jobs:
           BETQC_LIVE_DIR: ${{ github.workspace }}/data/live
           BETQC_PUBLIC_DIR: ${{ github.workspace }}/data/public
           BETQC_REGIONS: ${{ vars.BETQC_REGIONS }}
+          BETQC_REAL_BANKROLL: ${{ vars.BETQC_REAL_BANKROLL }}
         run: |
           cd data
           git config user.name "betqc-robot"

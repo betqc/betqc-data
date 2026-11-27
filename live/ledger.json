@@ -55997,7 +55997,7 @@
  {
   "key": "7aa2e13c09deb4fbd70e62312e82a514|1X2|A|",
   "placed_ts": "2026-11-25T05:42:40Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "7aa2e13c09deb4fbd70e62312e82a514",
   "league": "N1",
   "commence": "2026-11-27T19:00:00Z",
@@ -56020,13 +56020,14 @@
   "confirmed": null,
   "close_p": 0.09971,
   "clv": -0.25218,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "1-1",
   "primary": true,
   "close_odds": 10.029,
   "close_final": true,
-  "close_lead_min": 433.1
+  "close_lead_min": 433.1,
+  "settled_ts": "2026-11-27T21:04:53Z"
  },
  {
   "key": "02ff879cf54f6d1fec2664efee0431db|1X2|D|",

@@ -60466,7 +60466,7 @@
  {
   "key": "dcff8b9a58479664e15d7e175fbeb6ba|1X2|A|",
   "placed_ts": "2026-11-27T11:46:52Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "dcff8b9a58479664e15d7e175fbeb6ba",
   "league": "B1",
   "commence": "2026-11-27T19:45:00Z",
@@ -60489,18 +60489,14 @@
   "confirmed": true,
   "close_p": 0.2725,
   "clv": 0.02187,
-  "result": null,
-  "pnl": null,
+  "result": "lost",
+  "pnl": -1.0,
   "score": "2-2",
   "primary": true,
   "close_odds": 3.67,
   "close_final": true,
   "close_lead_min": 478.1,
-  "live": {
-   "score": "2-2",
-   "now": "lost",
-   "ts": "2026-11-27T21:40:39Z"
-  }
+  "settled_ts": "2026-11-27T21:51:59Z"
  },
  {
   "key": "342640e76c87dd0c75d13f51795d1e30|1X2|H|",

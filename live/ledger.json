@@ -56229,7 +56229,7 @@
  {
   "key": "89dce0169387acdb7487c0c8e87c8eb2|TOT|U|3.5",
   "placed_ts": "2026-11-25T05:42:40Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "89dce0169387acdb7487c0c8e87c8eb2",
   "league": "D3",
   "commence": "2026-11-27T18:00:00Z",
@@ -56252,13 +56252,14 @@
   "confirmed": null,
   "close_p": 0.48186,
   "clv": 0.00227,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "won",
+  "pnl": 1.08,
+  "score": "2-0",
   "primary": true,
   "close_odds": 2.075,
   "close_final": true,
-  "close_lead_min": 373.1
+  "close_lead_min": 373.1,
+  "settled_ts": "2026-11-27T19:57:11Z"
  },
  {
   "key": "49c66d76bc4085e63a181179cc47ef4d|1X2|H||v2",

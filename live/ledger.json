@@ -55949,13 +55949,13 @@
   "stake_kelly": 4.93,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.28559,
-  "clv": 0.06524,
+  "close_p": 0.28248,
+  "clv": 0.05365,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.502
+  "close_odds": 3.54
  },
  {
   "key": "707c513bfa43b45b7813126e09ad08d8|1X2|H|",
@@ -56016,13 +56016,13 @@
   "stake_kelly": 1.57,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.1398,
-  "clv": 0.04849,
+  "close_p": 0.13679,
+  "clv": 0.02589,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 7.153
+  "close_odds": 7.311
  },
  {
   "key": "02ff879cf54f6d1fec2664efee0431db|1X2|D|",
@@ -56048,13 +56048,13 @@
   "stake_kelly": 3.74,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.28279,
-  "clv": 0.04348,
+  "close_p": 0.28314,
+  "clv": 0.04479,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.536
+  "close_odds": 3.532
  },
  {
   "key": "e9a663f13e7503c0ac20a54804338b60|1X2|D|",
@@ -56080,13 +56080,13 @@
   "stake_kelly": 3.4,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.29474,
-  "clv": 0.05517,
+  "close_p": 0.29556,
+  "clv": 0.0581,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.393
+  "close_odds": 3.383
  },
  {
   "key": "aef37790c963098efe191c44f6912015|1X2|H|",
@@ -56112,13 +56112,13 @@
   "stake_kelly": 16.06,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.66693,
-  "clv": 0.0204,
+  "close_p": 0.6656,
+  "clv": 0.01836,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.499
+  "close_odds": 1.502
  },
  {
   "key": "32b8e3ea76d9d8b2b36577063d40862e|1X2|A|",
@@ -56144,13 +56144,13 @@
   "stake_kelly": 4.67,
   "tier": 2,
   "confirmed": true,
-  "close_p": 0.42222,
-  "clv": 0.02601,
+  "close_p": 0.40945,
+  "clv": -0.00503,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.368
+  "close_odds": 2.442
  },
  {
   "key": "e9a663f13e7503c0ac20a54804338b60|TOT|U|2.5",
@@ -56208,13 +56208,13 @@
   "stake_kelly": 4.17,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.46844,
-  "clv": 0.02588,
+  "close_p": 0.47972,
+  "clv": 0.05058,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.135
+  "close_odds": 2.085
  },
  {
   "key": "89dce0169387acdb7487c0c8e87c8eb2|TOT|U|3.5",
@@ -56240,13 +56240,13 @@
   "stake_kelly": 4.37,
   "tier": 3,
   "confirmed": null,
-  "close_p": 0.49712,
-  "clv": 0.03401,
+  "close_p": 0.47308,
+  "clv": -0.016,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.012
+  "close_odds": 2.114
  },
  {
   "key": "49c66d76bc4085e63a181179cc47ef4d|1X2|H||v2",
@@ -57393,13 +57393,13 @@
   "stake_kelly": 2.74,
   "tier": 1,
   "confirmed": null,
-  "close_p": 0.30186,
-  "clv": 0.02632,
+  "close_p": 0.30162,
+  "clv": 0.02549,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 3.313
+  "close_odds": 3.315
  },
  {
   "key": "f84a9da7eedd0ca11a28a1a7a8edddc7|1X2|D|",
@@ -58703,13 +58703,13 @@
   "stake_kelly": 4.3,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.44824,
-  "clv": 0.022,
+  "close_p": 0.44441,
+  "clv": 0.01325,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": false,
-  "close_odds": 2.231
+  "close_odds": 2.25
  },
  {
   "key": "d77c244bd9dd91534c40b863e44cf905|1X2|H|",
@@ -59253,5 +59253,69 @@
   "close_final": true,
   "close_lead_min": 105.7,
   "settled_ts": "2026-11-26T19:40:56Z"
+ },
+ {
+  "key": "698f4a7967ead89e10205a68ceb4bda4|1X2|H|",
+  "placed_ts": "2026-11-27T00:06:11Z",
+  "status": "open",
+  "event_id": "698f4a7967ead89e10205a68ceb4bda4",
+  "league": "D1",
+  "commence": "2026-11-27T19:30:00Z",
+  "home": "Werder Bremen",
+  "away": "Borussia Monchengladbach",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Werder Bremen",
+  "book": "marathonbet",
+  "book_name": "Marathonbet",
+  "odds": 1.78,
+  "fair_odds": 1.734,
+  "p": 0.5768,
+  "edge": 0.0266,
+  "edge_bfx": 0.0185,
+  "kelly": 0.00854,
+  "stake_kelly": 8.54,
+  "tier": 1,
+  "confirmed": true,
+  "close_p": 0.57676,
+  "clv": 0.02663,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 1.734
+ },
+ {
+  "key": "32b8e3ea76d9d8b2b36577063d40862e|1X2|H|",
+  "placed_ts": "2026-11-27T00:06:11Z",
+  "status": "open",
+  "event_id": "32b8e3ea76d9d8b2b36577063d40862e",
+  "league": "E1",
+  "commence": "2026-11-27T20:00:00Z",
+  "home": "Southampton",
+  "away": "Middlesbrough",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Southampton",
+  "book": "leovegas_se",
+  "book_name": "LeoVegas SE",
+  "odds": 3.05,
+  "fair_odds": 2.977,
+  "p": 0.3359,
+  "edge": 0.0244,
+  "edge_bfx": -0.0063,
+  "kelly": 0.00298,
+  "stake_kelly": 2.98,
+  "tier": 2,
+  "confirmed": false,
+  "close_p": 0.33587,
+  "clv": 0.02442,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": false,
+  "close_odds": 2.977
  }
 ]

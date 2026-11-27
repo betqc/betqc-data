@@ -57660,7 +57660,7 @@
  {
   "key": "908ac2d3341c0dd5d86e300affa06f15|1X2|H|",
   "placed_ts": "2026-11-25T23:44:10Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "908ac2d3341c0dd5d86e300affa06f15",
   "league": "BRA",
   "commence": "2026-11-26T23:00:00Z",
@@ -57683,13 +57683,14 @@
   "confirmed": null,
   "close_p": 0.71181,
   "clv": -0.00347,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "won",
+  "pnl": 0.4,
+  "score": "3-1",
   "primary": true,
   "close_odds": 1.405,
   "close_final": true,
-  "close_lead_min": 420.7
+  "close_lead_min": 420.7,
+  "settled_ts": "2026-11-27T01:05:59Z"
  },
  {
   "key": "12002f6f804a122db48271ff05be03c0|1X2|H|",
@@ -58979,7 +58980,7 @@
  {
   "key": "908ac2d3341c0dd5d86e300affa06f15|TOT|U|2.5|v2",
   "placed_ts": "2026-11-26T13:56:53Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "908ac2d3341c0dd5d86e300affa06f15",
   "league": "BRA",
   "commence": "2026-11-26T23:00:00Z",
@@ -59002,13 +59003,14 @@
   "confirmed": null,
   "close_p": 0.50137,
   "clv": 0.02782,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "3-1",
   "strategy": "v2",
   "close_odds": 1.995,
   "close_final": true,
-  "close_lead_min": 420.7
+  "close_lead_min": 420.7,
+  "settled_ts": "2026-11-27T01:05:59Z"
  },
  {
   "key": "cdf4b848361b0374c2027326bd54d8eb|1X2|A||qc",
@@ -59083,7 +59085,7 @@
  {
   "key": "908ac2d3341c0dd5d86e300affa06f15|TOT|U|2.5",
   "placed_ts": "2026-11-26T13:56:53Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "908ac2d3341c0dd5d86e300affa06f15",
   "league": "BRA",
   "commence": "2026-11-26T23:00:00Z",
@@ -59106,13 +59108,14 @@
   "confirmed": null,
   "close_p": 0.50137,
   "clv": 0.02782,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "3-1",
   "primary": true,
   "close_odds": 1.995,
   "close_final": true,
-  "close_lead_min": 420.7
+  "close_lead_min": 420.7,
+  "settled_ts": "2026-11-27T01:05:59Z"
  },
  {
   "key": "38332e4cbb2b3991904b00a75dc3769d|1X2|A||v2",

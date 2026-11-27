@@ -56246,7 +56246,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.075
+  "close_odds": 2.075,
+  "close_final": true,
+  "close_lead_min": 373.1
  },
  {
   "key": "49c66d76bc4085e63a181179cc47ef4d|1X2|H||v2",

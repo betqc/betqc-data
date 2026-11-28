@@ -61276,7 +61276,7 @@
  {
   "key": "46b1c571cf786a86e800d61fd1d79004|1X2|H||v2",
   "placed_ts": "2026-11-28T01:12:54Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "46b1c571cf786a86e800d61fd1d79004",
   "league": "NBA",
   "commence": "2026-11-28T02:10:00Z",
@@ -61299,23 +61299,19 @@
   "confirmed": true,
   "close_p": 0.60879,
   "clv": 0.07755,
-  "result": null,
-  "pnl": null,
-  "score": "104-101",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "109-113",
   "strategy": "v2",
   "close_odds": 1.643,
   "close_final": true,
   "close_lead_min": 20.7,
-  "live": {
-   "score": "104-101",
-   "now": "won",
-   "ts": "2026-11-28T04:20:55Z"
-  }
+  "settled_ts": "2026-11-28T04:45:17Z"
  },
  {
   "key": "46b1c571cf786a86e800d61fd1d79004|1X2|H|",
   "placed_ts": "2026-11-28T01:12:54Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "46b1c571cf786a86e800d61fd1d79004",
   "league": "NBA",
   "commence": "2026-11-28T02:10:00Z",
@@ -61338,18 +61334,14 @@
   "confirmed": true,
   "close_p": 0.60879,
   "clv": 0.07755,
-  "result": null,
-  "pnl": null,
-  "score": "104-101",
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "109-113",
   "primary": true,
   "close_odds": 1.643,
   "close_final": true,
   "close_lead_min": 20.7,
-  "live": {
-   "score": "104-101",
-   "now": "won",
-   "ts": "2026-11-28T04:20:55Z"
-  }
+  "settled_ts": "2026-11-28T04:45:17Z"
  },
  {
   "key": "13d9ca3bcb664829c603755d31401002|1X2|A|",
@@ -61379,15 +61371,15 @@
   "clv": 0.01264,
   "result": null,
   "pnl": null,
-  "score": "63-68",
+  "score": "83-78",
   "primary": true,
   "close_odds": 3.042,
   "close_final": true,
   "close_lead_min": 15.0,
   "live": {
-   "score": "63-68",
-   "now": "won",
-   "ts": "2026-11-28T04:20:55Z"
+   "score": "83-78",
+   "now": "lost",
+   "ts": "2026-11-28T04:45:17Z"
   }
  },
  {
@@ -61418,15 +61410,15 @@
   "clv": 0.02889,
   "result": null,
   "pnl": null,
-  "score": "88-73",
+  "score": "100-88",
   "primary": true,
   "close_odds": 3.985,
   "close_final": true,
   "close_lead_min": 15.0,
   "live": {
-   "score": "88-73",
+   "score": "100-88",
    "now": "lost",
-   "ts": "2026-11-28T04:20:55Z"
+   "ts": "2026-11-28T04:45:17Z"
   }
  },
  {

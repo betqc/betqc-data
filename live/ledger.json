@@ -60750,7 +60750,7 @@
  {
   "key": "95250c5fc5cc81a1d7831130f3976f81|TOT|U|2.5",
   "placed_ts": "2026-11-27T11:46:52Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "95250c5fc5cc81a1d7831130f3976f81",
   "league": "I2",
   "commence": "2026-11-28T16:15:00Z",
@@ -60773,13 +60773,14 @@
   "confirmed": null,
   "close_p": 0.52942,
   "clv": 0.03236,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "won",
+  "pnl": 0.95,
+  "score": "1-1",
   "primary": true,
   "close_odds": 1.889,
   "close_final": true,
-  "close_lead_min": 266.8
+  "close_lead_min": 266.8,
+  "settled_ts": "2026-11-28T18:19:12Z"
  },
  {
   "key": "50363e80c9c22c3c07a593bc1b165d87|1X2|H|",
@@ -61682,7 +61683,7 @@
  {
   "key": "95250c5fc5cc81a1d7831130f3976f81|TOT|U|2.5|v2",
   "placed_ts": "2026-11-28T04:20:48Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "95250c5fc5cc81a1d7831130f3976f81",
   "league": "I2",
   "commence": "2026-11-28T16:15:00Z",
@@ -61705,13 +61706,14 @@
   "confirmed": null,
   "close_p": 0.52942,
   "clv": 0.03236,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "won",
+  "pnl": 0.95,
+  "score": "1-1",
   "strategy": "v2",
   "close_odds": 1.889,
   "close_final": true,
-  "close_lead_min": 266.8
+  "close_lead_min": 266.8,
+  "settled_ts": "2026-11-28T18:19:12Z"
  },
  {
   "key": "12002f6f804a122db48271ff05be03c0|1X2|H||v2",
@@ -63003,7 +63005,7 @@
  {
   "key": "95250c5fc5cc81a1d7831130f3976f81|1X2|D|",
   "placed_ts": "2026-11-28T11:48:13Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "95250c5fc5cc81a1d7831130f3976f81",
   "league": "I2",
   "commence": "2026-11-28T16:15:00Z",
@@ -63026,13 +63028,14 @@
   "confirmed": true,
   "close_p": 0.30956,
   "clv": 0.02154,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "won",
+  "pnl": 2.3,
+  "score": "1-1",
   "primary": true,
   "close_odds": 3.23,
   "close_final": true,
-  "close_lead_min": 266.8
+  "close_lead_min": 266.8,
+  "settled_ts": "2026-11-28T18:19:12Z"
  },
  {
   "key": "af3432ca724da03d38f0ff4e62045e4c|TOT|O|3.5",

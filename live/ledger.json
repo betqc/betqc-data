@@ -61206,7 +61206,7 @@
  {
   "key": "f0bc60d1516d217dba58c1f4fa653a59|1X2|A||v2",
   "placed_ts": "2026-11-28T00:39:05Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "f0bc60d1516d217dba58c1f4fa653a59",
   "league": "NBA",
   "commence": "2026-11-28T01:40:00Z",
@@ -61229,23 +61229,19 @@
   "confirmed": true,
   "close_p": 0.4207,
   "clv": 0.03071,
-  "result": null,
-  "pnl": null,
-  "score": "76-72",
+  "result": "won",
+  "pnl": 1.45,
+  "score": "109-114",
   "strategy": "v2",
   "close_odds": 2.377,
   "close_final": true,
   "close_lead_min": 27.1,
-  "live": {
-   "score": "76-72",
-   "now": "lost",
-   "ts": "2026-11-28T03:11:11Z"
-  }
+  "settled_ts": "2026-11-28T04:20:55Z"
  },
  {
   "key": "f0bc60d1516d217dba58c1f4fa653a59|1X2|A|",
   "placed_ts": "2026-11-28T00:39:05Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "f0bc60d1516d217dba58c1f4fa653a59",
   "league": "NBA",
   "commence": "2026-11-28T01:40:00Z",
@@ -61268,18 +61264,14 @@
   "confirmed": true,
   "close_p": 0.4207,
   "clv": 0.03071,
-  "result": null,
-  "pnl": null,
-  "score": "76-72",
+  "result": "won",
+  "pnl": 1.45,
+  "score": "109-114",
   "primary": true,
   "close_odds": 2.377,
   "close_final": true,
   "close_lead_min": 27.1,
-  "live": {
-   "score": "76-72",
-   "now": "lost",
-   "ts": "2026-11-28T03:11:11Z"
-  }
+  "settled_ts": "2026-11-28T04:20:55Z"
  },
  {
   "key": "46b1c571cf786a86e800d61fd1d79004|1X2|H||v2",
@@ -61309,15 +61301,15 @@
   "clv": 0.07755,
   "result": null,
   "pnl": null,
-  "score": "63-53",
+  "score": "104-101",
   "strategy": "v2",
   "close_odds": 1.643,
   "close_final": true,
   "close_lead_min": 20.7,
   "live": {
-   "score": "63-53",
+   "score": "104-101",
    "now": "won",
-   "ts": "2026-11-28T03:11:11Z"
+   "ts": "2026-11-28T04:20:55Z"
   }
  },
  {
@@ -61348,15 +61340,15 @@
   "clv": 0.07755,
   "result": null,
   "pnl": null,
-  "score": "63-53",
+  "score": "104-101",
   "primary": true,
   "close_odds": 1.643,
   "close_final": true,
   "close_lead_min": 20.7,
   "live": {
-   "score": "63-53",
+   "score": "104-101",
    "now": "won",
-   "ts": "2026-11-28T03:11:11Z"
+   "ts": "2026-11-28T04:20:55Z"
   }
  },
  {
@@ -61387,15 +61379,15 @@
   "clv": 0.01264,
   "result": null,
   "pnl": null,
-  "score": "14-27",
+  "score": "63-68",
   "primary": true,
   "close_odds": 3.042,
   "close_final": true,
   "close_lead_min": 15.0,
   "live": {
-   "score": "14-27",
+   "score": "63-68",
    "now": "won",
-   "ts": "2026-11-28T03:11:11Z"
+   "ts": "2026-11-28T04:20:55Z"
   }
  },
  {
@@ -61426,15 +61418,15 @@
   "clv": 0.02889,
   "result": null,
   "pnl": null,
-  "score": "34-11",
+  "score": "88-73",
   "primary": true,
   "close_odds": 3.985,
   "close_final": true,
   "close_lead_min": 15.0,
   "live": {
-   "score": "34-11",
+   "score": "88-73",
    "now": "lost",
-   "ts": "2026-11-28T03:11:11Z"
+   "ts": "2026-11-28T04:20:55Z"
   }
  },
  {
@@ -61564,5 +61556,37 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 1.749
+ },
+ {
+  "key": "95250c5fc5cc81a1d7831130f3976f81|TOT|U|2.5|v2",
+  "placed_ts": "2026-11-28T04:20:48Z",
+  "status": "open",
+  "event_id": "95250c5fc5cc81a1d7831130f3976f81",
+  "league": "I2",
+  "commence": "2026-11-28T16:15:00Z",
+  "home": "Vicenza",
+  "away": "Cesena FC",
+  "market": "TOT",
+  "sel": "U",
+  "point": 2.5,
+  "label": "Moins de 2,5",
+  "book": "unibet_nl",
+  "book_name": "Unibet NL",
+  "odds": 1.95,
+  "fair_odds": 1.916,
+  "p": 0.5219,
+  "edge": 0.0177,
+  "edge_bfx": null,
+  "kelly": 0.00466,
+  "stake_kelly": 4.66,
+  "tier": 2,
+  "confirmed": null,
+  "close_p": 0.52191,
+  "clv": 0.01772,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.916
  }
 ]

@@ -57629,7 +57629,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 7.122
+  "close_odds": 7.122,
+  "close_final": true,
+  "close_lead_min": 131.8
  },
  {
   "key": "40236ab976955345ebd1edb72abf6b22|1X2|A|",
@@ -58815,7 +58817,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.899
+  "close_odds": 1.899,
+  "close_final": true,
+  "close_lead_min": 131.8
  },
  {
   "key": "df4947bbe49057782feacca38c03e790|TOT|O|3.5",
@@ -60840,7 +60844,7 @@
  {
   "key": "a0cb53ac67285a074ae43865d0891ff8|1X2|A|",
   "placed_ts": "2026-11-27T11:46:52Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "a0cb53ac67285a074ae43865d0891ff8",
   "league": "D2",
   "commence": "2026-11-28T12:00:00Z",
@@ -60863,13 +60867,14 @@
   "confirmed": null,
   "close_p": 0.33611,
   "clv": 0.04193,
-  "result": null,
-  "pnl": null,
-  "score": null,
+  "result": "lost",
+  "pnl": -1.0,
+  "score": "3-0",
   "primary": true,
   "close_odds": 2.975,
   "close_final": true,
-  "close_lead_min": 11.8
+  "close_lead_min": 11.8,
+  "settled_ts": "2026-11-28T14:02:06Z"
  },
  {
   "key": "3c522e32c3035d7dc3e1734903b84654|1X2|A||v2",
@@ -62101,7 +62106,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.0
+  "close_odds": 2.0,
+  "close_final": true,
+  "close_lead_min": 131.8
  },
  {
   "key": "8d75d4c8f342e83c75febead12de7eaa|1X2|H||v2",
@@ -62133,7 +62140,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.815
+  "close_odds": 1.815,
+  "close_final": true,
+  "close_lead_min": 131.8
  },
  {
   "key": "e9a1243fbfbc6f58d0e0522eb07ea9a1|1X2|H||v2",
@@ -62907,7 +62916,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.0
+  "close_odds": 2.0,
+  "close_final": true,
+  "close_lead_min": 131.8
  },
  {
   "key": "8d75d4c8f342e83c75febead12de7eaa|1X2|H|",
@@ -62939,7 +62950,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.815
+  "close_odds": 1.815,
+  "close_final": true,
+  "close_lead_min": 131.8
  },
  {
   "key": "f4e0a881abf2fc607ce769d8c738b639|1X2|H|",

@@ -60932,7 +60932,7 @@
  {
   "key": "5b64071f3e3bf67b0fdea8d1ac81d0ec|1X2|A||v2",
   "placed_ts": "2026-11-28T00:02:30Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "5b64071f3e3bf67b0fdea8d1ac81d0ec",
   "league": "NBA",
   "commence": "2026-11-28T00:40:00Z",
@@ -60955,23 +60955,19 @@
   "confirmed": true,
   "close_p": 0.61459,
   "clv": 0.02636,
-  "result": null,
-  "pnl": null,
-  "score": "81-104",
+  "result": "won",
+  "pnl": 0.67,
+  "score": "87-111",
   "strategy": "v2",
   "close_odds": 1.627,
   "close_final": true,
   "close_lead_min": 37.5,
-  "live": {
-   "score": "81-104",
-   "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
-  }
+  "settled_ts": "2026-11-28T03:11:11Z"
  },
  {
   "key": "709de4f76f95aebf383d180ac3c6f679|1X2|H||v2",
   "placed_ts": "2026-11-28T00:02:30Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "709de4f76f95aebf383d180ac3c6f679",
   "league": "NBA",
   "commence": "2026-11-28T00:40:00Z",
@@ -60994,18 +60990,14 @@
   "confirmed": null,
   "close_p": 0.76543,
   "clv": 0.01803,
-  "result": null,
-  "pnl": null,
-  "score": "111-87",
+  "result": "won",
+  "pnl": 0.33,
+  "score": "124-100",
   "strategy": "v2",
   "close_odds": 1.306,
   "close_final": true,
   "close_lead_min": 37.5,
-  "live": {
-   "score": "111-87",
-   "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
-  }
+  "settled_ts": "2026-11-28T03:11:11Z"
  },
  {
   "key": "3c522e32c3035d7dc3e1734903b84654|1X2|A|",
@@ -61080,7 +61072,7 @@
  {
   "key": "5b64071f3e3bf67b0fdea8d1ac81d0ec|1X2|A|",
   "placed_ts": "2026-11-28T00:02:30Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "5b64071f3e3bf67b0fdea8d1ac81d0ec",
   "league": "NBA",
   "commence": "2026-11-28T00:40:00Z",
@@ -61103,23 +61095,19 @@
   "confirmed": true,
   "close_p": 0.61459,
   "clv": 0.02636,
-  "result": null,
-  "pnl": null,
-  "score": "81-104",
+  "result": "won",
+  "pnl": 0.67,
+  "score": "87-111",
   "primary": true,
   "close_odds": 1.627,
   "close_final": true,
   "close_lead_min": 37.5,
-  "live": {
-   "score": "81-104",
-   "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
-  }
+  "settled_ts": "2026-11-28T03:11:11Z"
  },
  {
   "key": "709de4f76f95aebf383d180ac3c6f679|1X2|H|",
   "placed_ts": "2026-11-28T00:02:30Z",
-  "status": "open",
+  "status": "settled",
   "event_id": "709de4f76f95aebf383d180ac3c6f679",
   "league": "NBA",
   "commence": "2026-11-28T00:40:00Z",
@@ -61142,18 +61130,14 @@
   "confirmed": null,
   "close_p": 0.76543,
   "clv": 0.01803,
-  "result": null,
-  "pnl": null,
-  "score": "111-87",
+  "result": "won",
+  "pnl": 0.33,
+  "score": "124-100",
   "primary": true,
   "close_odds": 1.306,
   "close_final": true,
   "close_lead_min": 37.5,
-  "live": {
-   "score": "111-87",
-   "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
-  }
+  "settled_ts": "2026-11-28T03:11:11Z"
  },
  {
   "key": "d2bc2d3b4a81177cb6b86f4add6ff81f|1X2|A||v2",
@@ -61247,15 +61231,15 @@
   "clv": 0.03071,
   "result": null,
   "pnl": null,
-  "score": "50-61",
+  "score": "76-72",
   "strategy": "v2",
   "close_odds": 2.377,
   "close_final": true,
   "close_lead_min": 27.1,
   "live": {
-   "score": "50-61",
-   "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
+   "score": "76-72",
+   "now": "lost",
+   "ts": "2026-11-28T03:11:11Z"
   }
  },
  {
@@ -61286,15 +61270,15 @@
   "clv": 0.03071,
   "result": null,
   "pnl": null,
-  "score": "50-61",
+  "score": "76-72",
   "primary": true,
   "close_odds": 2.377,
   "close_final": true,
   "close_lead_min": 27.1,
   "live": {
-   "score": "50-61",
-   "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
+   "score": "76-72",
+   "now": "lost",
+   "ts": "2026-11-28T03:11:11Z"
   }
  },
  {
@@ -61325,15 +61309,15 @@
   "clv": 0.07755,
   "result": null,
   "pnl": null,
-  "score": "40-33",
+  "score": "63-53",
   "strategy": "v2",
   "close_odds": 1.643,
   "close_final": true,
   "close_lead_min": 20.7,
   "live": {
-   "score": "40-33",
+   "score": "63-53",
    "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
+   "ts": "2026-11-28T03:11:11Z"
   }
  },
  {
@@ -61364,15 +61348,15 @@
   "clv": 0.07755,
   "result": null,
   "pnl": null,
-  "score": "40-33",
+  "score": "63-53",
   "primary": true,
   "close_odds": 1.643,
   "close_final": true,
   "close_lead_min": 20.7,
   "live": {
-   "score": "40-33",
+   "score": "63-53",
    "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
+   "ts": "2026-11-28T03:11:11Z"
   }
  },
  {
@@ -61403,15 +61387,15 @@
   "clv": 0.01264,
   "result": null,
   "pnl": null,
-  "score": "6-7",
+  "score": "14-27",
   "primary": true,
   "close_odds": 3.042,
   "close_final": true,
   "close_lead_min": 15.0,
   "live": {
-   "score": "6-7",
+   "score": "14-27",
    "now": "won",
-   "ts": "2026-11-28T02:47:45Z"
+   "ts": "2026-11-28T03:11:11Z"
   }
  },
  {
@@ -61442,15 +61426,15 @@
   "clv": 0.02889,
   "result": null,
   "pnl": null,
-  "score": "9-3",
+  "score": "34-11",
   "primary": true,
   "close_odds": 3.985,
   "close_final": true,
   "close_lead_min": 15.0,
   "live": {
-   "score": "9-3",
+   "score": "34-11",
    "now": "lost",
-   "ts": "2026-11-28T02:47:45Z"
+   "ts": "2026-11-28T03:11:11Z"
   }
  },
  {
@@ -61484,5 +61468,69 @@
   "score": null,
   "strategy": "v2",
   "close_odds": 2.831
+ },
+ {
+  "key": "393cf84030ed4ed5d40ccede4a26fca4|1X2|H||v2",
+  "placed_ts": "2026-11-28T03:11:03Z",
+  "status": "open",
+  "event_id": "393cf84030ed4ed5d40ccede4a26fca4",
+  "league": "E2",
+  "commence": "2026-11-28T15:00:00Z",
+  "home": "Sheffield Wednesday",
+  "away": "Reading",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "Sheffield Wednesday",
+  "book": "unibet_nl",
+  "book_name": "Unibet NL",
+  "odds": 2.43,
+  "fair_odds": 2.343,
+  "p": 0.4268,
+  "edge": 0.0371,
+  "edge_bfx": null,
+  "kelly": 0.00649,
+  "stake_kelly": 6.49,
+  "tier": 3,
+  "confirmed": null,
+  "close_p": 0.4268,
+  "clv": 0.03713,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 2.343
+ },
+ {
+  "key": "b67372e7107fdd259a978e614711e657|1X2|H||v2",
+  "placed_ts": "2026-11-28T03:11:03Z",
+  "status": "open",
+  "event_id": "b67372e7107fdd259a978e614711e657",
+  "league": "E1",
+  "commence": "2026-11-28T15:00:00Z",
+  "home": "West Bromwich Albion",
+  "away": "Bristol City",
+  "market": "1X2",
+  "sel": "H",
+  "point": null,
+  "label": "West Bromwich Albion",
+  "book": "leovegas_se",
+  "book_name": "LeoVegas SE",
+  "odds": 1.76,
+  "fair_odds": 1.728,
+  "p": 0.5788,
+  "edge": 0.0186,
+  "edge_bfx": 0.0127,
+  "kelly": 0.00612,
+  "stake_kelly": 6.12,
+  "tier": 2,
+  "confirmed": true,
+  "close_p": 0.57875,
+  "clv": 0.0186,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "strategy": "v2",
+  "close_odds": 1.728
  }
 ]

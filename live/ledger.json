@@ -61225,7 +61225,9 @@
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 2.377
+  "close_odds": 2.377,
+  "close_final": true,
+  "close_lead_min": 27.1
  },
  {
   "key": "f0bc60d1516d217dba58c1f4fa653a59|1X2|A|",
@@ -61257,7 +61259,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 2.377
+  "close_odds": 2.377,
+  "close_final": true,
+  "close_lead_min": 27.1
  },
  {
   "key": "46b1c571cf786a86e800d61fd1d79004|1X2|H||v2",
@@ -61283,13 +61287,13 @@
   "stake_kelly": 22.69,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.60446,
-  "clv": 0.06989,
+  "close_p": 0.60879,
+  "clv": 0.07755,
   "result": null,
   "pnl": null,
   "score": null,
   "strategy": "v2",
-  "close_odds": 1.654
+  "close_odds": 1.643
  },
  {
   "key": "46b1c571cf786a86e800d61fd1d79004|1X2|H|",
@@ -61315,12 +61319,44 @@
   "stake_kelly": 22.69,
   "tier": 1,
   "confirmed": true,
-  "close_p": 0.60446,
-  "clv": 0.06989,
+  "close_p": 0.60879,
+  "clv": 0.07755,
   "result": null,
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.654
+  "close_odds": 1.643
+ },
+ {
+  "key": "13d9ca3bcb664829c603755d31401002|1X2|A|",
+  "placed_ts": "2026-11-28T01:49:17Z",
+  "status": "open",
+  "event_id": "13d9ca3bcb664829c603755d31401002",
+  "league": "NBA",
+  "commence": "2026-11-28T02:40:00Z",
+  "home": "San Antonio Spurs",
+  "away": "Los Angeles Lakers",
+  "market": "1X2",
+  "sel": "A",
+  "point": null,
+  "label": "Los Angeles Lakers",
+  "book": "marathonbet",
+  "book_name": "Marathonbet",
+  "odds": 3.08,
+  "fair_odds": 2.915,
+  "p": 0.3431,
+  "edge": 0.0567,
+  "edge_bfx": -0.0275,
+  "kelly": 0.00682,
+  "stake_kelly": 6.82,
+  "tier": 1,
+  "confirmed": false,
+  "close_p": 0.34309,
+  "clv": 0.0567,
+  "result": null,
+  "pnl": null,
+  "score": null,
+  "primary": true,
+  "close_odds": 2.915
  }
 ]

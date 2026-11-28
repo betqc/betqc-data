@@ -57258,7 +57258,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.781
+  "close_odds": 1.781,
+  "close_final": true,
+  "close_lead_min": 206.8
  },
  {
   "key": "aaa86a483888836242da663a46957894|1X2|D|",
@@ -57826,7 +57828,9 @@
   "pnl": null,
   "score": null,
   "primary": true,
-  "close_odds": 1.894
+  "close_odds": 1.894,
+  "close_final": true,
+  "close_lead_min": 206.8
  },
  {
   "key": "5c88af05a6d82d9a8bd03b765815e068|1X2|H|",
